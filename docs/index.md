@@ -1,3 +1,10 @@
+---
+title: Personal Finance with AI
+description: A high-school course on personal finance with many MicroSims generated with AI.
+image: img/cover-landscape.png
+og:image: img/cover-landscape.png
+---
+
 # Personal Finance with AI
 <style>
 article h1 {display: none}
