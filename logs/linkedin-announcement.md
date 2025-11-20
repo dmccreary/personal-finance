@@ -2,6 +2,22 @@
 
 Generated: 2025-11-20
 
+## Metadata Sources
+
+**Data extracted from:**
+- `mkdocs.yml` - Site configuration (title, URL, description, author)
+- `docs/learning-graph/book-metrics.md` - Textbook statistics and metrics
+- `docs/course-description.md` - Audience, prerequisites, learning outcomes
+- `docs/index.md` - Cover image and social media metadata
+
+**Metadata Found:**
+- ✅ **Title:** Personal Finance with AI
+- ✅ **Description:** A high-school course on personal finance with many MicroSims generated with AI.
+- ✅ **Cover Image:** `img/cover-landscape.png` (configured with Open Graph metadata)
+- ✅ **Site URL:** https://dmccreary.github.io/personal-finance/
+- ✅ **Author:** Dan McCreary
+- ✅ **Target Audience:** High school students and college freshmen
+
 ---
 
 ## LinkedIn Announcement - Full Version (Detailed)
@@ -42,7 +58,7 @@ Key features:
 • 12 interactive MicroSims (compound interest, FICO scores, social security, investment strategies)
 • 120 quiz questions for self-assessment
 • 200 precise glossary terms
-• 118,000+ words of practical content
+• 118,000+ words (~482 printed pages)
 • No prerequisites - builds from zero financial knowledge
 
 Built transparently using Claude AI and the intelligent textbook framework - demonstrating how AI can enhance educational content while maintaining quality and pedagogical rigor.
@@ -59,7 +75,7 @@ Explore it here: https://dmccreary.github.io/personal-finance/
 
 🎓 New open educational resource: **Personal Finance with AI** - interactive textbook for high school & college students!
 
-✨ 12 chapters | 200 concepts | 12 MicroSims | 120 quizzes | 118K words
+✨ 12 chapters | 200 concepts | 12 MicroSims | 120 quizzes | 118K words (~482 pages)
 
 Covers banking, budgeting, credit, investing, taxes, insurance, retirement & more. No prerequisites needed.
 
@@ -75,11 +91,47 @@ AI-generated using Claude and MkDocs Material. Free and open source.
 
 ### Visual Recommendations
 
-**Screenshot options:**
+**✅ Cover Image Found!**
+
+The textbook has a professional cover image configured in `docs/index.md`:
+- **Image:** `img/cover-landscape.png`
+- **Title:** Personal Finance with AI
+- **Description:** A high-school course on personal finance with many MicroSims generated with AI.
+- **Direct URL:** https://dmccreary.github.io/personal-finance/img/cover-landscape.png
+
+**Recommended approach:** Use this cover image as your LinkedIn post image! It's already optimized for social media sharing with Open Graph metadata.
+
+**How to use the cover image:**
+1. Download the image from: `docs/img/cover-landscape.png`
+2. Upload directly to LinkedIn when creating your post
+3. LinkedIn will automatically use it as the featured image
+
+**Alternative screenshot options:**
 1. Learning graph visualization from https://dmccreary.github.io/personal-finance/sims/learning-graph/
-2. Homepage hero image showing the textbook cover and navigation
-3. Screenshot of an interactive MicroSim (e.g., Compound Interest Visualizer or FICO Score Spectrum)
-4. Split-screen showing quiz questions and chapter content
+2. Screenshot of an interactive MicroSim (e.g., Compound Interest Visualizer or FICO Score Spectrum)
+3. Split-screen showing quiz questions and chapter content
+4. Composite image with key statistics overlaid on the cover
+
+---
+
+### Metadata Template (for projects without docs/index.md metadata)
+
+If your textbook doesn't have metadata configured, add this to the top of `docs/index.md`:
+
+```yaml
+---
+title: [Your Textbook Title]
+description: [Brief description for social media]
+image: img/cover-landscape.png
+og:image: img/cover-landscape.png
+---
+```
+
+**Benefits:**
+- Improves social media link previews
+- Provides consistent branding across platforms
+- Enables better SEO and discoverability
+- Required for LinkedIn/Twitter card images
 
 ### Timing Recommendations
 
@@ -128,9 +180,15 @@ AI-generated using Claude and MkDocs Material. Free and open source.
 
 ## Announcement Statistics
 
-**Full Version:** ~1,850 characters, 23 hashtags
-**Medium Version:** ~950 characters, 14 hashtags
-**Concise Version:** ~370 characters, 7 hashtags
+**Full Version:** ~1,850 characters, 23 hashtags (includes 482 page count)
+**Medium Version:** ~970 characters, 14 hashtags (includes 482 page count)
+**Concise Version:** ~390 characters, 7 hashtags (includes 482 page count)
+
+**Why mention page count?**
+- Makes the scope more tangible and impressive
+- 482 pages is equivalent to a substantial printed textbook
+- Helps readers understand the comprehensiveness of the resource
+- Provides context for the "free" value proposition
 
 ---
 
@@ -162,7 +220,7 @@ This textbook is particularly timely given the growing focus on financial litera
 **Next steps:**
 1. Copy your preferred version (full, medium, or concise)
 2. Paste into LinkedIn post composer
-3. Add a screenshot of your textbook or learning graph (highly recommended)
+3. **Upload the cover image** from `docs/img/cover-landscape.png` (highly recommended - already configured!)
 4. Review and post!
 
-**Pro tip:** Posts with images get 2x more engagement on LinkedIn. Consider creating a simple graphic with the key statistics or using a screenshot of the interactive learning graph visualization.
+**Pro tip:** Your textbook already has a professional cover image (`img/cover-landscape.png`) with Open Graph metadata configured in `docs/index.md`. Use this image for your LinkedIn post - it's optimized for social media sharing and will give your announcement a polished, professional appearance. Posts with images get 2x more engagement on LinkedIn!
