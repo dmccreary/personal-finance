@@ -1,123 +1,39 @@
-# Personal Finance Chapters
+# Chapters
 
-## 1. [Foundational Financial Concepts](01-foundational-financial-concepts/index.md)
+This textbook is organized into 12 chapters covering 200 concepts in personal finance.
 
-- Money management principles
-- Financial goal setting
-- Economic literacy fundamentals
-- Financial decision-making frameworks
-- Opportunity cost
-- Time value of money
+## Chapter Overview
 
-## 2. [Banking & Cash Management](./02-banking-and-cash-management/index.md)
+1. [Foundational Financial Concepts](01-foundational-financial-concepts/index.md) - Core principles including money management, goal setting, opportunity cost, time value of money, and financial decision-making frameworks.
 
-- Types of financial institutions
-- Checking and savings accounts
-- Online and mobile banking
-- Account fees and features
-- ATM usage and debit cards
-- Balancing accounts
-- Electronic payment systems
+2. [Banking and Cash Management](02-banking-and-cash-management/index.md) - Financial institutions, account types, electronic banking, mobile apps, payment systems, and account security.
 
-## 3. [Budgeting & Financial Planning](./03-budgeting-and-financial-planning/index.md)
+3. [Budgeting and Financial Planning](03-budgeting-and-financial-planning/index.md) - Personal budgeting methods, expense tracking, emergency funds, automatic savings, and budget adjustment strategies.
 
-- Creating personal budgets
-- Income tracking
-- Expense categorization
-- Needs vs. wants analysis
-- Emergency funds
-- Saving strategies
-- Financial record keeping
+4. [Credit and Debt Management](04-credit-and-debt-management/index.md) - Credit scores, credit reports, building credit, credit cards, types of debt, interest calculations, and debt repayment strategies.
 
-## 4. [Credit & Debt Management](./04-credit-and-debt-management/index.md)
+5. [Saving and Investing](05-saving-and-investing/index.md) - Investment fundamentals, risk and return, stocks, bonds, mutual funds, ETFs, asset allocation, diversification, and portfolio management.
 
-- Credit scores and reports
-- Building and maintaining good credit
-- Credit cards and responsible usage
-- Types of consumer debt
-- Interest rates and calculations
-- Debt repayment strategies
-- Avoiding predatory lending
+6. [Income and Taxes](06-income-and-taxes/index.md) - Understanding income, paycheck withholding, tax forms, federal and state taxes, tax filing, deductions, credits, and tax planning.
 
-## 5. [Saving & Investing](./05-saving-and-investing/index.md)
+7. [Insurance and Risk Management](07-insurance-and-risk-management/index.md) - Insurance principles, health insurance, auto insurance, life insurance, disability insurance, and risk management strategies.
 
-- Savings account options
-- Investment fundamentals
-- Risk and return concepts
-- Stock market basics
-- Bonds and fixed income
-- Mutual funds and ETFs
-- Compound interest
-- Dollar-cost averaging
+8. [Major Purchases and Loans](08-major-purchases-and-loans/index.md) - Auto loans, mortgages, loan terms, renting vs buying decisions, comparison shopping, and negotiation skills.
 
-## 6. [Income & Taxes](./06-income-and-taxes/index.md)
+9. [Consumer Protection and Financial Security](09-consumer-protection-and-financial-security/index.md) - Identity theft prevention, online security, recognizing scams, consumer rights, and dispute resolution.
 
-- Understanding paychecks and withholding
-- Filing tax returns
-- W-4 and W-2 forms
-- Standard deductions vs. itemizing
-- Tax credits vs. deductions
-- State and local taxes
-- Tax planning basics
+10. [College and Education Planning](10-college-and-education-planning/index.md) - College cost estimation, financial aid, scholarships, student loans, college ROI, and alternative education pathways.
 
-## 7. [Insurance & Risk Management](./07-insurance-and-risk-management/index.md)
+11. [Career Planning and Income](11-career-planning-and-income/index.md) - Career exploration, understanding benefits, compensation evaluation, side hustles, salary negotiation, and professional development.
 
-- Insurance principles and terminology
-- Health insurance basics
-- Auto insurance requirements
-- Renter's and homeowner's insurance
-- Policy features (deductibles, premiums, etc.)
-- Filing claims
-- Liability protection
+12. [Retirement and Long-term Planning](12-retirement-and-long-term-planning/index.md) - Retirement accounts, employer matching, Social Security, retirement savings targets, and estate planning basics.
 
-## 8. [Major Purchases & Loans](./08-major-purchases-and-loans/index.md)
+## How to Use This Textbook
 
-- Auto loans and financing
-- Housing costs (renting vs. buying)
-- Mortgage basics
-- Student loan options and repayment
-- Comparison shopping
-- Negotiation skills
-- Understanding contracts
+This textbook is designed to be read sequentially, as each chapter builds on concepts from previous chapters. The foundational concepts in Chapters 1-3 are essential prerequisites for understanding later material. Chapters 4-8 cover core personal finance topics that every young adult should master. Chapters 9-12 address specialized topics important for long-term financial success.
 
-## 9. [Consumer Protection & Financial Security](./09-consumer-protection-and-financial-security/index.md)
+Dependencies between concepts have been carefully mapped to ensure you have the necessary background knowledge before encountering advanced topics. We recommend completing chapters in order, though you may reference specific concepts as needed.
 
-- Identity theft prevention
-- Online security practices
-- Common financial scams
-- Consumer rights
-- Dispute resolution
-- Reading financial agreements
-- Privacy protection
+---
 
-## 10. [College & Education Planning](./10-college-and-education-planning/index.md)
-
-- College cost estimation
-- Scholarship and grant opportunities
-- FAFSA and financial aid
-- Student loan types
-- College ROI calculations
-- Alternative education pathways
-- Work-study and part-time employment
-
-## 11. [Career Planning & Income](./11-career-planning-and-income/index.md)
-
-- Career exploration
-- Income potential research
-- Employee benefits overview
-- Entrepreneurship basics
-- Side hustle opportunities
-- Salary negotiation
-- Resume and interview skills
-
-## 12. Retirement & Long-term Planning
-
-- Retirement account types (401(k), IRA)
-- Employer-sponsored plans
-- Social Security basics
-- Power of early investing
-- Long-term investment strategies
-- Estate planning introduction
-- Financial independence concepts
-
-This curriculum covers the essential topics that help prepare high school students for financial independence and responsibility as they transition to adulthood.
+**Note:** Each chapter includes a list of concepts covered from the learning graph. The complete learning graph with concept dependencies is available in the [Learning Graph section](../learning-graph/index.md).

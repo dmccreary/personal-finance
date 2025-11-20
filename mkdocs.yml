@@ -10,36 +10,43 @@ nav:
   - Home: index.md
   - Course Description: course-description.md
   - Chapters:
-    - Introduction: chapters/index.md
-    - Foundational Financial Concepts:
-      - chapters/01-foundational-financial-concepts/index.md
-    - Banking & Cash Management:
-      - chapters/02-banking-and-cash-management/index.md
-      - chapters/02-banking-and-cash-management/regions-of-a-personal-check.md
-    - Budgeting & Financial Planning:
-      - chapters/03-budgeting-and-financial-planning/index.md
-    - Credit & Debt Management:
-      - chapters/04-credit-and-debt-management/index.md
+    - Overview: chapters/index.md
+    - Chapter 1 - Foundational Financial Concepts:
+      - Introduction: chapters/01-foundational-financial-concepts/index.md
+    - Chapter 2 - Banking & Cash Management:
+      - Introduction: chapters/02-banking-and-cash-management/index.md
+      - Regions of a Personal Check: chapters/02-banking-and-cash-management/regions-of-a-personal-check.md
+    - Chapter 3 - Budgeting & Financial Planning:
+      - Introduction: chapters/03-budgeting-and-financial-planning/index.md
+    - Chapter 4 - Credit & Debt Management:
+      - Introduction: chapters/04-credit-and-debt-management/index.md
       - The FICO Score: chapters/04-credit-and-debt-management/fico-score.md
       - Credit Card Bias: chapters/04-credit-and-debt-management/credit-card-bias.md
-    - Saving & Investing:
-      - chapters/05-saving-and-investing/index.md
+    - Chapter 5 - Saving & Investing:
+      - Introduction: chapters/05-saving-and-investing/index.md
       - Index Funds: chapters/05-saving-and-investing/index-funds.md
-    - Income & Taxes:
-      - chapters/06-income-and-taxes/index.md
-    - Insurance:
-      - chapters/07-insurance-and-risk-management/index.md
-    - Loans:
-      - chapters/08-major-purchases-and-loans/index.md
-    - Consumer Protection:
-      - chapters/09-consumer-protection-and-financial-security/index.md
-    - College:
-      - chapters/10-college-and-education-planning/index.md
-    - Careers:
-      - chapters/11-career-planning-and-income/index.md
-    - Retirement Planning:
-      - chapters/12-retirement-and-long-term-planning/index.md
-      - chapters/12-retirement-and-long-term-planning/social-security-planner.md
+    - Chapter 6 - Income & Taxes:
+      - Introduction: chapters/06-income-and-taxes/index.md
+    - Chapter 7 - Insurance & Risk Management:
+      - Introduction: chapters/07-insurance-and-risk-management/index.md
+    - Chapter 8 - Major Purchases & Loans:
+      - Introduction: chapters/08-major-purchases-and-loans/index.md
+    - Chapter 9 - Consumer Protection & Financial Security:
+      - Introduction: chapters/09-consumer-protection-and-financial-security/index.md
+    - Chapter 10 - College & Education Planning:
+      - Introduction: chapters/10-college-and-education-planning/index.md
+    - Chapter 11 - Career Planning & Income:
+      - Introduction: chapters/11-career-planning-and-income/index.md
+    - Chapter 12 - Retirement & Long-term Planning:
+      - Introduction: chapters/12-retirement-and-long-term-planning/index.md
+      - Social Security Planner: chapters/12-retirement-and-long-term-planning/social-security-planner.md
+  - Learning Graph:
+    - Overview: learning-graph/index.md
+    - Course Description Assessment: learning-graph/course-description-assessment.md
+    - Concept List: learning-graph/concept-list.md
+    - Concept Taxonomy: learning-graph/concept-taxonomy.md
+    - Quality Metrics: learning-graph/quality-metrics.md
+    - Taxonomy Distribution: learning-graph/taxonomy-distribution.md
   - Stories:
     - Introduction: stories/index.md
     - Passive Investing: stories/passive-investing.md

@@ -1,20 +1,30 @@
-# College & Education Planning
+# College and Education Planning
 
-## Overview
+## Summary
 
-This chapter examines strategies for funding post-secondary education. Students will learn about estimating college costs, exploring financial aid options, and evaluating student loan alternatives. We'll cover scholarship opportunities, the FAFSA process, and methods for calculating the return on education investment. Students will develop skills for making informed decisions about their educational futures.
+This chapter helps you navigate the complex financial landscape of higher education. You'll learn how to estimate college costs using net price calculators, and explore various funding sources including scholarships, grants, and the FAFSA (Free Application for Federal Student Aid) process. The chapter covers the differences between federal and private student loans, helping you understand the long-term implications of borrowing for education. You'll also learn to calculate college return on investment (ROI) by weighing education costs against potential career earnings, and explore alternative education pathways such as trade schools, certifications, and apprenticeships that may offer better value for certain career goals. Making informed decisions about education financing can save you from decades of unnecessary debt.
 
-## Topics Covered
-- College cost estimation
-- Scholarship and grant opportunities
-- FAFSA and financial aid
-- Student loan types
-- College ROI calculations
-- Alternative education pathways
-- Work-study and part-time employment
+## Concepts Covered
 
-## College Loan Payback Calculator
+This chapter covers the following 9 concepts from the learning graph:
 
-<iframe src="../../sims/college-loan-payback/main.html" height="400"  scrolling="no"></iframe>
+178. College Cost Estimation
+179. Net Price Calculator
+180. Scholarships
+181. Grants
+182. FAFSA
+183. Federal Student Loans
+184. Private Student Loans
+185. College ROI
+186. Alternative Education Paths
 
-[College Loan Payback Calculator](../../sims/college-loan-payback/index.md)
+## Prerequisites
+
+This chapter builds on concepts from:
+
+- [Chapter 1: Foundational Financial Concepts](../01-foundational-financial-concepts/index.md) - Financial goal setting and opportunity cost
+- [Chapter 4: Credit and Debt Management](../04-credit-and-debt-management/index.md) - Consumer debt
+
+---
+
+**TODO: Generate Chapter Content**

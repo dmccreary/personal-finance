@@ -1,0 +1,14 @@
+{
+  "title": "Personal Finance - A Practical Introduction to Modern Financial Literacy",
+  "description": "A comprehensive personal finance course for young adults covering banking, budgeting, credit, investing, taxes, insurance, and long-term financial planning. Designed for high school and college students beginning their journey to financial independence.",
+  "creator": "Dan McCreary",
+  "date": "2025-11-20",
+  "version": "1.0",
+  "format": "Learning Graph JSON v1.0",
+  "schema": "https://raw.githubusercontent.com/dmccreary/learning-graphs/refs/heads/main/src/schema/learning-graph-schema.json",
+  "license": "CC BY-NC-SA 4.0 DEED",
+  "audience": "High school students and college freshmen",
+  "prerequisites": "None",
+  "subject": "Personal Finance",
+  "language": "en-US"
+}
