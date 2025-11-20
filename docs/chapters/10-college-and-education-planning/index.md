@@ -509,3 +509,7 @@ Education is an investment—make sure it's a wise one:
 - **Think long-term:** Can you afford loan payments on entry-level salary?
 
 The best education decision balances passion with practicality, minimizes debt, and positions you for career success. Don't let societal pressure push you into six figures of debt for a degree that won't pay it back.
+
+## References
+
+1. [Free Application for Federal Student Aid (FAFSA)](https://www.usa.gov/fafsa) - 2025 - USAGov - Official U.S. government guide to the FAFSA process, explaining that completing and submitting the FAFSA is free and gives access to the largest source of financial aid for school, including grants, scholarships, and loans.

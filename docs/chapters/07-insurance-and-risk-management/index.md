@@ -1109,3 +1109,7 @@ Essential principles to remember:
 - **Shop around:** Insurance rates vary significantly between companies
 
 By understanding insurance principles and choosing appropriate coverage, you protect yourself from financial catastrophe while managing costs effectively. Insurance gives you peace of mind knowing that when life's unexpected challenges arise, you won't face financial ruin—you'll be protected.
+
+## References
+
+1. [What Young Adults Need to Know about Health Insurance](https://www.fairhealthconsumer.org/insurance-basics/your-costs/what-young-adults-need-to-know-about-health-insurance) - 2024 - FAIR Health - Comprehensive guide for people under 30 regarding health insurance enrollment and selection, covering plan types (HMOs, PPOs, HDHPs), cost-sharing mechanisms, and Marketplace plan categories from Catastrophic through Platinum tiers.

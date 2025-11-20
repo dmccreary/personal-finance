@@ -820,3 +820,7 @@ Banking is the foundation of your financial life, and choosing the right account
 **FDIC insurance** protects up to $250,000 per depositor per bank, guaranteeing you'll get your money back if your bank fails. For most people, this provides complete protection. Credit unions have equivalent NCUA insurance.
 
 With these banking fundamentals mastered, you're ready to build on this foundation with budgeting, saving, and investing strategies in the upcoming chapters. Good banking practices - choosing the right accounts, minimizing fees, using security best practices, and leveraging modern tools - will serve you throughout your entire financial life.
+
+## References
+
+1. [Money Smart for Grades 9-12](https://www.fdic.gov/consumer-resource-center/grades-9-12) - 2024 - FDIC - Free financial education curriculum with 22 comprehensive lessons covering banking basics, credit, investments, and career planning, designed for high school students with educator guides and standards alignment.

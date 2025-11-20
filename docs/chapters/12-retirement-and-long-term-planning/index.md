@@ -453,3 +453,9 @@ The difference between retiring comfortably and struggling financially is usuall
 Starting with just $200-300/month in your early 20s, consistently contributing and letting compound growth work its magic, can result in over a million dollars by retirement. That's the power of time plus consistent action.
 
 The best time to start was yesterday. The second best time is today.
+
+## References
+
+1. [Investment Calculator: Estimate Potential Returns](https://www.nerdwallet.com/calculator/investment-calculator) - 2024 - NerdWallet - Interactive tool helping users project investment growth by calculating potential returns based on initial investment amount, contribution frequency, time horizon, and expected rate of return to support retirement planning decisions.
+
+2. [Money Smart for Young People](https://www.fdic.gov/consumer-resource-center/money-smart-young-people) - 2024 - FDIC - Four free age-appropriate curricula promoting financial understanding from pre-K through 12th grade, including comprehensive lessons on retirement planning, savings strategies, and long-term financial security.

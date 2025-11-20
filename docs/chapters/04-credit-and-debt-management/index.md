@@ -626,3 +626,9 @@ Credit and debt management are essential skills for financial success in modern 
 Credit is neither inherently good nor bad - it's a tool. Used responsibly, credit builds wealth, enables major purchases at reasonable rates, and provides security. Misused, it creates crushing debt that takes years to escape. The choice is yours, and the habits you build now will impact your financial life for decades to come.
 
 With credit and debt mastered, you're ready to explore saving and investing strategies that harness the power of compound interest to build long-term wealth.
+
+## References
+
+1. [What is a FICO score?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-fico-score-en-1883/) - 2024 - Consumer Financial Protection Bureau - Official CFPB guide explaining FICO scores as a measure of creditworthiness, with practical recommendations for maintaining good credit including paying bills on time and limiting credit utilization.
+
+2. [What is a Credit Score?](https://www.myfico.com/credit-education/credit-scores) - 2024 - myFICO - Comprehensive educational resource explaining credit scoring fundamentals, score ranges from Poor through Exceptional, and why scores differ across credit bureaus, from the company that invented the FICO score.

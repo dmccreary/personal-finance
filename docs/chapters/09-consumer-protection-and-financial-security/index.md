@@ -899,3 +899,7 @@ Essential principles:
 - **Report fraud immediately:** Fast action minimizes damage
 
 By implementing these security practices and staying informed about common scams, you protect your financial wellbeing in an increasingly digital and risky world.
+
+## References
+
+1. [What is identity theft?](https://www.consumerfinance.gov/ask-cfpb/what-is-identity-theft-en-1243/) - 2024 - Consumer Financial Protection Bureau - Official CFPB resource explaining identity theft as when someone steals your identity to commit fraud, directing victims to IdentityTheft.gov and providing guidance on placing fraud alerts and security freezes.

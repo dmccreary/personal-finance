@@ -1120,3 +1120,9 @@ Budgeting is the foundation of personal financial success, transforming your rel
 Budgeting isn't about restriction - it's about freedom. When you tell your money where to go, you can spend guilt-free within your plan, knowing your needs are covered and your goals are funded. Start with simple methods, build the habit of tracking, and refine your approach over time. The perfect budget is the one you'll maintain for years, not the most detailed one you abandon after two weeks.
 
 With budgeting skills mastered, you're ready to explore credit and debt management, learning how to build excellent credit while avoiding the debt traps that derail so many financial plans.
+
+## References
+
+1. [The 50/30/20 Rule for Teens](https://banzai.org/wellness/resources/fifty-thirty-twenty-coach) - 2024 - Banzai - Interactive educational coach session teaching teens how to create a custom budget following the 50/30/20 rule, dividing income into needs (50%), wants (30%), and savings (20%).
+
+2. [Budgeting basics: The 50-30-20 rule](https://www.unfcu.org/financial-wellness/50-30-20-rule/) - 2024 - UNFCU - Financial wellness guide explaining the straightforward budgeting framework that divides after-tax income into needs, wants, and savings categories, with practical examples for implementing the strategy.

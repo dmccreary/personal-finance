@@ -537,3 +537,7 @@ Your career and earning potential are your greatest assets:
 - **Think long-term:** Career decisions compound over 40+ years
 
 Every $10,000 you increase your annual salary through smart career moves and negotiation is worth $400,000+ over your career. No investment opportunity will provide that return. Invest in yourself first.
+
+## References
+
+1. [Economics and Personal Finance Education](https://www.stlouisfed.org/education) - 2024 - Federal Reserve Bank of St. Louis - Comprehensive economic education hub providing teaching materials, professional development opportunities, and resources for K-12 educators covering economics and personal finance across grade levels.

@@ -49,4 +49,12 @@ This chapter builds on concepts from:
 
 ---
 
+## References
+
+1. [How to Start Investing as a Teenager](https://www.fool.com/investing/how-to-invest/investing-for-teens/) - 2024 - The Motley Fool - Comprehensive guide providing teenagers and parents with a roadmap for beginning an investment journey, emphasizing compound interest as a powerful wealth-building tool and offering five key steps from learning basics to making first purchases.
+
+2. [The Best Index Funds and How to Start Investing](https://www.nerdwallet.com/article/investing/how-to-invest-in-index-funds) - 2024 - NerdWallet - Educational article providing guidance on selecting index funds and beginning an investment journey with interactive navigation and tools to help users compare and understand index fund options.
+
+---
+
 **TODO: Generate Chapter Content**

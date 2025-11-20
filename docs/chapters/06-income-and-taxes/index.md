@@ -37,4 +37,10 @@ This chapter builds on concepts from:
 
 ---
 
+## References
+
+1. [Understanding Taxes - Your First Job](https://apps.irs.gov/app/understandingTaxes/teacher/whys_thm06_les02.jsp) - 2024 - IRS - Official IRS educational resource teaching students about tax responsibilities when starting their first job, focusing on Form W-4 completion, the pay-as-you-go withholding system, and maintaining financial records.
+
+---
+
 **TODO: Generate Chapter Content**

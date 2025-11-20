@@ -618,3 +618,9 @@ Now that you understand these foundational concepts, you're ready to explore how
 - Using technology safely for mobile and online banking
 
 The foundation is set. Now let's build on it!
+
+## References
+
+1. [The Time Value of Money](https://tpt.pbslearningmedia.org/resource/fin10.socst.personfin.timevalu/the-time-value-of-money/) - 2020 - PBS LearningMedia - Interactive video lesson teaching high school students about compound interest through comparative scenarios, demonstrating why starting savings earlier yields significantly better results despite contributing less overall.
+
+2. [High School Personal Finance Curriculum](https://www.atlantafed.org/education/teach/lessons-and-activities/high-school-personal-finance-curriculum) - 2024 - Federal Reserve Bank of Atlanta - Comprehensive four-part curriculum unit called "Katrina's Classroom" covering goals, decision making, financial institutions, credit, education, careers, and budgeting with interactive activities aligned to Jump$tart National Personal Finance Standards.
