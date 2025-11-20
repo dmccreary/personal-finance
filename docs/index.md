@@ -3,7 +3,7 @@
 article h1 {display: none}
 </style>
 
-![](img/cover.png){width="400px"}
+![](img/cover-landscape.png){width="600px"}
 
 Welcome to the Personal Finance with AI website.
 

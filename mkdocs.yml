@@ -52,13 +52,7 @@ nav:
       - Content: chapters/12-retirement-and-long-term-planning/index.md
       - Quiz: chapters/12-retirement-and-long-term-planning/quiz.md
       - Social Security Planner: chapters/12-retirement-and-long-term-planning/social-security-planner.md
-  - Learning Graph:
-    - Overview: learning-graph/index.md
-    - Course Description Assessment: learning-graph/course-description-assessment.md
-    - Concept List: learning-graph/concept-list.md
-    - Concept Taxonomy: learning-graph/concept-taxonomy.md
-    - Quality Metrics: learning-graph/quality-metrics.md
-    - Taxonomy Distribution: learning-graph/taxonomy-distribution.md
+
   - Stories:
     - Introduction: stories/index.md
     - Passive Investing: stories/passive-investing.md
@@ -78,6 +72,14 @@ nav:
     - US Treasury Bills: sims/t-bills/index.md
     - Yield Curve: sims/yield-curve/index.md
 
+  - Learning Graph:
+    - Overview: learning-graph/index.md
+    - Course Description Assessment: learning-graph/course-description-assessment.md
+    - Concept List: learning-graph/concept-list.md
+    - Concept Taxonomy: learning-graph/concept-taxonomy.md
+    - Quality Metrics: learning-graph/quality-metrics.md
+    - Taxonomy Distribution: learning-graph/taxonomy-distribution.md
+  
   - Prompts:
     - Introduction: prompts/index.md
     - Bloom Taxonomy: prompts/02-bloom-taxonomy.md
@@ -96,6 +98,8 @@ nav:
     - Introduction: resources/index.md
     - Minnesota Personal Finance Legislation: resources/mn-legislation.md
     - Smart Money for Young People: resources/smart-money-for-young-people.md
+  
+  - FAQs: faq.md
   - Glossary: glossary.md
   - How We Built This Site: how-we-built-this-site.md
   - References: references.md
@@ -129,12 +133,14 @@ plugins:
   - social
   - social_override
 markdown_extensions:
-  - meta
+  - md_in_html
+  - attr_list
   - admonition
+  - meta
   - pymdownx.details
   - pymdownx.superfences
-  - attr_list
-  - md_in_html
+  
+  
   - pymdownx.highlight:
       linenums: true
 extra_css:
