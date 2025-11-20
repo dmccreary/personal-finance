@@ -63,18 +63,7 @@ nav:
     - Introduction: stories/index.md
     - Passive Investing: stories/passive-investing.md
     - Selection Bias: stories/selection-bias/index.md
-  - Prompts:
-    - Introduction: prompts/index.md
-    - Bloom Taxonomy: prompts/02-bloom-taxonomy.md
-    - Concept Enumeration: prompts/04-concept-enumeration.md
-    - Concept Dependency: prompts/06-concept-dependency.md
-    - Concept Taxonomy: prompts/08-concept-taxonomy.md
-    - Concept Classification: prompts/10-concept-classification.md
-    - Glossary: prompts/12-glossary-prompt.md
-    - List of MicroSims: prompts/14-list-of-microsims.md
-    - US High School Topics: prompts/03-us-high-school-topics.md
-    - Storytelling: prompts/13-storytelling.md
-    - Cover Image: prompts/15-cover-image.md
+
   - MicroSims:
     - Introduction: sims/index.md
     - Learning Graph: sims/learning-graph/index.md
@@ -89,6 +78,20 @@ nav:
     - US Treasury Bills: sims/t-bills/index.md
     - Yield Curve: sims/yield-curve/index.md
 
+  - Prompts:
+    - Introduction: prompts/index.md
+    - Bloom Taxonomy: prompts/02-bloom-taxonomy.md
+    - Concept Enumeration: prompts/04-concept-enumeration.md
+    - Concept Dependency: prompts/06-concept-dependency.md
+    - Concept Taxonomy: prompts/08-concept-taxonomy.md
+    - Concept Classification: prompts/10-concept-classification.md
+    - Glossary: prompts/12-glossary-prompt.md
+    - List of MicroSims: prompts/14-list-of-microsims.md
+    - US High School Topics: prompts/03-us-high-school-topics.md
+    - Storytelling: prompts/13-storytelling.md
+    - Cover Image: prompts/15-cover-image.md
+    - Cover Image Wide Landscape: prompts/16
+  
   - Resources:
     - Introduction: resources/index.md
     - Minnesota Personal Finance Legislation: resources/mn-legislation.md
