@@ -1,0 +1,2183 @@
+{
+  "metadata": {
+    "title": "Personal Finance - A Practical Introduction to Modern Financial Literacy",
+    "description": "A comprehensive personal finance course for young adults covering banking, budgeting, credit, investing, taxes, insurance, and long-term financial planning. Designed for high school and college students beginning their journey to financial independence.",
+    "creator": "Dan McCreary",
+    "date": "2025-11-20",
+    "version": "1.0",
+    "format": "Learning Graph JSON v1.0",
+    "schema": "https://raw.githubusercontent.com/dmccreary/learning-graphs/refs/heads/main/src/schema/learning-graph-schema.json",
+    "license": "CC BY-NC-SA 4.0 DEED",
+    "audience": "High school students and college freshmen",
+    "prerequisites": "None",
+    "subject": "Personal Finance",
+    "language": "en-US"
+  },
+  "groups": {
+    "FOUND": {
+      "classifierName": "Foundation Concepts",
+      "color": "#8B4513",
+      "font": {
+        "color": "white"
+      }
+    },
+    "BANK": {
+      "classifierName": "Banking & Accounts",
+      "color": "#4169E1",
+      "font": {
+        "color": "white"
+      }
+    },
+    "BUDG": {
+      "classifierName": "Budgeting & Planning",
+      "color": "#32CD32",
+      "font": {
+        "color": "black"
+      }
+    },
+    "CRED": {
+      "classifierName": "Credit & Debt",
+      "color": "#FF6347",
+      "font": {
+        "color": "white"
+      }
+    },
+    "INV": {
+      "classifierName": "Investing & Savings",
+      "color": "#FFD700",
+      "font": {
+        "color": "black"
+      }
+    },
+    "TAX": {
+      "classifierName": "Income & Taxes",
+      "color": "#9370DB",
+      "font": {
+        "color": "white"
+      }
+    },
+    "INS": {
+      "classifierName": "Insurance & Risk",
+      "color": "#20B2AA",
+      "font": {
+        "color": "white"
+      }
+    },
+    "LOAN": {
+      "classifierName": "Loans & Purchases",
+      "color": "#FF8C00",
+      "font": {
+        "color": "black"
+      }
+    },
+    "SEC": {
+      "classifierName": "Security & Protection",
+      "color": "#DC143C",
+      "font": {
+        "color": "white"
+      }
+    },
+    "EDU": {
+      "classifierName": "Education Planning",
+      "color": "#4682B4",
+      "font": {
+        "color": "white"
+      }
+    },
+    "CAR": {
+      "classifierName": "Career & Income",
+      "color": "#FF69B4",
+      "font": {
+        "color": "black"
+      }
+    },
+    "RET": {
+      "classifierName": "Retirement Planning",
+      "color": "#708090",
+      "font": {
+        "color": "white"
+      }
+    }
+  },
+  "nodes": [
+    {
+      "id": 1,
+      "label": "Money Management Principles",
+      "group": "FOUND",
+      "shape": "box"
+    },
+    {
+      "id": 2,
+      "label": "Financial Goal Setting",
+      "group": "FOUND",
+      "shape": "box"
+    },
+    {
+      "id": 3,
+      "label": "SMART Goals Framework",
+      "group": "FOUND"
+    },
+    {
+      "id": 4,
+      "label": "Economic Literacy",
+      "group": "FOUND",
+      "shape": "box"
+    },
+    {
+      "id": 5,
+      "label": "Financial Decision Making",
+      "group": "FOUND"
+    },
+    {
+      "id": 6,
+      "label": "Opportunity Cost",
+      "group": "FOUND"
+    },
+    {
+      "id": 7,
+      "label": "Trade-offs",
+      "group": "FOUND"
+    },
+    {
+      "id": 8,
+      "label": "Time Value of Money",
+      "group": "FOUND"
+    },
+    {
+      "id": 9,
+      "label": "Net Worth Calculation",
+      "group": "FOUND"
+    },
+    {
+      "id": 10,
+      "label": "Net Worth Tracking",
+      "group": "FOUND"
+    },
+    {
+      "id": 11,
+      "label": "Assets and Liabilities",
+      "group": "FOUND",
+      "shape": "box"
+    },
+    {
+      "id": 12,
+      "label": "Personal Balance Sheet",
+      "group": "FOUND"
+    },
+    {
+      "id": 13,
+      "label": "Income Statement",
+      "group": "FOUND"
+    },
+    {
+      "id": 14,
+      "label": "Cash Flow Management",
+      "group": "FOUND"
+    },
+    {
+      "id": 15,
+      "label": "Financial Independence",
+      "group": "FOUND"
+    },
+    {
+      "id": 16,
+      "label": "Wealth Building Strategies",
+      "group": "FOUND"
+    },
+    {
+      "id": 17,
+      "label": "Financial Planning Process",
+      "group": "FOUND"
+    },
+    {
+      "id": 18,
+      "label": "Commercial Banks",
+      "group": "BANK",
+      "shape": "box"
+    },
+    {
+      "id": 19,
+      "label": "Credit Unions",
+      "group": "BANK",
+      "shape": "box"
+    },
+    {
+      "id": 20,
+      "label": "Online Banking Services",
+      "group": "BANK"
+    },
+    {
+      "id": 21,
+      "label": "Checking Accounts",
+      "group": "BANK"
+    },
+    {
+      "id": 22,
+      "label": "Savings Accounts",
+      "group": "BANK"
+    },
+    {
+      "id": 23,
+      "label": "High-Yield Savings Accounts",
+      "group": "BANK"
+    },
+    {
+      "id": 24,
+      "label": "Account Fees",
+      "group": "BANK"
+    },
+    {
+      "id": 25,
+      "label": "Account Features Comparison",
+      "group": "BANK"
+    },
+    {
+      "id": 26,
+      "label": "Mobile Banking Apps",
+      "group": "BANK"
+    },
+    {
+      "id": 27,
+      "label": "ATM Usage",
+      "group": "BANK"
+    },
+    {
+      "id": 28,
+      "label": "Debit Cards",
+      "group": "BANK"
+    },
+    {
+      "id": 29,
+      "label": "Account Reconciliation",
+      "group": "BANK"
+    },
+    {
+      "id": 30,
+      "label": "Electronic Payments",
+      "group": "BANK"
+    },
+    {
+      "id": 31,
+      "label": "ACH Transfers",
+      "group": "BANK"
+    },
+    {
+      "id": 32,
+      "label": "Wire Transfers",
+      "group": "BANK"
+    },
+    {
+      "id": 33,
+      "label": "Peer-to-Peer Payment Apps",
+      "group": "BANK"
+    },
+    {
+      "id": 34,
+      "label": "Banking Security",
+      "group": "BANK"
+    },
+    {
+      "id": 35,
+      "label": "FDIC Insurance",
+      "group": "BANK"
+    },
+    {
+      "id": 36,
+      "label": "Personal Budgeting",
+      "group": "BUDG"
+    },
+    {
+      "id": 37,
+      "label": "50/30/20 Rule",
+      "group": "BUDG"
+    },
+    {
+      "id": 38,
+      "label": "Zero-Based Budgeting",
+      "group": "BUDG"
+    },
+    {
+      "id": 39,
+      "label": "Envelope Method",
+      "group": "BUDG"
+    },
+    {
+      "id": 40,
+      "label": "Income Tracking",
+      "group": "BUDG"
+    },
+    {
+      "id": 41,
+      "label": "Expense Categorization",
+      "group": "BUDG"
+    },
+    {
+      "id": 42,
+      "label": "Fixed Expenses",
+      "group": "BUDG"
+    },
+    {
+      "id": 43,
+      "label": "Variable Expenses",
+      "group": "BUDG"
+    },
+    {
+      "id": 44,
+      "label": "Needs vs Wants Analysis",
+      "group": "BUDG"
+    },
+    {
+      "id": 45,
+      "label": "Emergency Fund",
+      "group": "BUDG"
+    },
+    {
+      "id": 46,
+      "label": "Three-Month Emergency Fund",
+      "group": "BUDG"
+    },
+    {
+      "id": 47,
+      "label": "Six-Month Emergency Fund",
+      "group": "BUDG"
+    },
+    {
+      "id": 48,
+      "label": "Automatic Savings",
+      "group": "BUDG"
+    },
+    {
+      "id": 49,
+      "label": "Pay Yourself First",
+      "group": "BUDG"
+    },
+    {
+      "id": 50,
+      "label": "Financial Records Organization",
+      "group": "BUDG"
+    },
+    {
+      "id": 51,
+      "label": "Budget Tracking Tools",
+      "group": "BUDG"
+    },
+    {
+      "id": 52,
+      "label": "Spending Patterns Analysis",
+      "group": "BUDG"
+    },
+    {
+      "id": 53,
+      "label": "Budget Adjustment Strategies",
+      "group": "BUDG"
+    },
+    {
+      "id": 54,
+      "label": "Credit Score",
+      "group": "CRED",
+      "shape": "box"
+    },
+    {
+      "id": 55,
+      "label": "FICO Score",
+      "group": "CRED"
+    },
+    {
+      "id": 56,
+      "label": "VantageScore",
+      "group": "CRED"
+    },
+    {
+      "id": 57,
+      "label": "Credit Report",
+      "group": "CRED"
+    },
+    {
+      "id": 58,
+      "label": "Credit Bureaus",
+      "group": "CRED"
+    },
+    {
+      "id": 59,
+      "label": "Building Credit History",
+      "group": "CRED"
+    },
+    {
+      "id": 60,
+      "label": "Credit Utilization Ratio",
+      "group": "CRED"
+    },
+    {
+      "id": 61,
+      "label": "Payment History",
+      "group": "CRED"
+    },
+    {
+      "id": 62,
+      "label": "Length of Credit History",
+      "group": "CRED"
+    },
+    {
+      "id": 63,
+      "label": "Credit Mix",
+      "group": "CRED"
+    },
+    {
+      "id": 64,
+      "label": "New Credit Inquiries",
+      "group": "CRED"
+    },
+    {
+      "id": 65,
+      "label": "Credit Cards",
+      "group": "CRED"
+    },
+    {
+      "id": 66,
+      "label": "Credit Card APR",
+      "group": "CRED"
+    },
+    {
+      "id": 67,
+      "label": "Credit Card Rewards",
+      "group": "CRED"
+    },
+    {
+      "id": 68,
+      "label": "Responsible Credit Card Use",
+      "group": "CRED"
+    },
+    {
+      "id": 69,
+      "label": "Minimum Payments",
+      "group": "CRED"
+    },
+    {
+      "id": 70,
+      "label": "Consumer Debt",
+      "group": "CRED"
+    },
+    {
+      "id": 71,
+      "label": "Secured Debt",
+      "group": "CRED"
+    },
+    {
+      "id": 72,
+      "label": "Unsecured Debt",
+      "group": "CRED"
+    },
+    {
+      "id": 73,
+      "label": "Good Debt vs Bad Debt",
+      "group": "CRED"
+    },
+    {
+      "id": 74,
+      "label": "Interest Rate Calculation",
+      "group": "CRED"
+    },
+    {
+      "id": 75,
+      "label": "Debt Avalanche Method",
+      "group": "CRED"
+    },
+    {
+      "id": 76,
+      "label": "Debt Snowball Method",
+      "group": "CRED"
+    },
+    {
+      "id": 77,
+      "label": "Predatory Lending",
+      "group": "CRED"
+    },
+    {
+      "id": 78,
+      "label": "Payday Loans",
+      "group": "CRED"
+    },
+    {
+      "id": 79,
+      "label": "Certificates of Deposit",
+      "group": "INV"
+    },
+    {
+      "id": 80,
+      "label": "Investment Fundamentals",
+      "group": "INV"
+    },
+    {
+      "id": 81,
+      "label": "Risk and Return",
+      "group": "INV"
+    },
+    {
+      "id": 82,
+      "label": "Risk Tolerance",
+      "group": "INV"
+    },
+    {
+      "id": 83,
+      "label": "Investment Time Horizon",
+      "group": "INV"
+    },
+    {
+      "id": 84,
+      "label": "Stock Market",
+      "group": "INV"
+    },
+    {
+      "id": 85,
+      "label": "Individual Stocks",
+      "group": "INV"
+    },
+    {
+      "id": 86,
+      "label": "Market Indices",
+      "group": "INV"
+    },
+    {
+      "id": 87,
+      "label": "Bonds",
+      "group": "INV"
+    },
+    {
+      "id": 88,
+      "label": "Fixed Income Securities",
+      "group": "INV"
+    },
+    {
+      "id": 89,
+      "label": "Treasury Bonds",
+      "group": "INV"
+    },
+    {
+      "id": 90,
+      "label": "Corporate Bonds",
+      "group": "INV"
+    },
+    {
+      "id": 91,
+      "label": "Municipal Bonds",
+      "group": "INV"
+    },
+    {
+      "id": 92,
+      "label": "Mutual Funds",
+      "group": "INV"
+    },
+    {
+      "id": 93,
+      "label": "Exchange-Traded Funds",
+      "group": "INV"
+    },
+    {
+      "id": 94,
+      "label": "Index Funds",
+      "group": "INV"
+    },
+    {
+      "id": 95,
+      "label": "Active vs Passive Investing",
+      "group": "INV"
+    },
+    {
+      "id": 96,
+      "label": "Expense Ratios",
+      "group": "INV"
+    },
+    {
+      "id": 97,
+      "label": "Compound Interest",
+      "group": "INV"
+    },
+    {
+      "id": 98,
+      "label": "Rule of 72",
+      "group": "INV"
+    },
+    {
+      "id": 99,
+      "label": "Dollar-Cost Averaging",
+      "group": "INV"
+    },
+    {
+      "id": 100,
+      "label": "Asset Allocation",
+      "group": "INV"
+    },
+    {
+      "id": 101,
+      "label": "Diversification",
+      "group": "INV"
+    },
+    {
+      "id": 102,
+      "label": "Portfolio Rebalancing",
+      "group": "INV"
+    },
+    {
+      "id": 103,
+      "label": "Market Volatility",
+      "group": "INV"
+    },
+    {
+      "id": 104,
+      "label": "Bull Market",
+      "group": "INV"
+    },
+    {
+      "id": 105,
+      "label": "Bear Market",
+      "group": "INV"
+    },
+    {
+      "id": 106,
+      "label": "Investment Account Types",
+      "group": "INV"
+    },
+    {
+      "id": 107,
+      "label": "Taxable Investment Accounts",
+      "group": "INV"
+    },
+    {
+      "id": 108,
+      "label": "Capital Gains",
+      "group": "INV"
+    },
+    {
+      "id": 109,
+      "label": "Gross Income",
+      "group": "TAX"
+    },
+    {
+      "id": 110,
+      "label": "Net Income",
+      "group": "TAX"
+    },
+    {
+      "id": 111,
+      "label": "Paycheck Withholding",
+      "group": "TAX"
+    },
+    {
+      "id": 112,
+      "label": "W-4 Form",
+      "group": "TAX"
+    },
+    {
+      "id": 113,
+      "label": "W-2 Form",
+      "group": "TAX"
+    },
+    {
+      "id": 114,
+      "label": "Federal Income Tax",
+      "group": "TAX"
+    },
+    {
+      "id": 115,
+      "label": "State Income Tax",
+      "group": "TAX"
+    },
+    {
+      "id": 116,
+      "label": "FICA Taxes",
+      "group": "TAX"
+    },
+    {
+      "id": 117,
+      "label": "Tax Filing",
+      "group": "TAX"
+    },
+    {
+      "id": 118,
+      "label": "Form 1040",
+      "group": "TAX"
+    },
+    {
+      "id": 119,
+      "label": "Standard Deduction",
+      "group": "TAX"
+    },
+    {
+      "id": 120,
+      "label": "Itemized Deductions",
+      "group": "TAX"
+    },
+    {
+      "id": 121,
+      "label": "Tax Credits",
+      "group": "TAX"
+    },
+    {
+      "id": 122,
+      "label": "Tax Deductions",
+      "group": "TAX"
+    },
+    {
+      "id": 123,
+      "label": "Marginal Tax Rate",
+      "group": "TAX"
+    },
+    {
+      "id": 124,
+      "label": "Effective Tax Rate",
+      "group": "TAX"
+    },
+    {
+      "id": 125,
+      "label": "Tax Brackets",
+      "group": "TAX"
+    },
+    {
+      "id": 126,
+      "label": "Tax Planning",
+      "group": "TAX"
+    },
+    {
+      "id": 127,
+      "label": "Tax-Advantaged Accounts",
+      "group": "TAX"
+    },
+    {
+      "id": 128,
+      "label": "Insurance Principles",
+      "group": "INS",
+      "shape": "box"
+    },
+    {
+      "id": 129,
+      "label": "Insurance Premium",
+      "group": "INS"
+    },
+    {
+      "id": 130,
+      "label": "Insurance Deductible",
+      "group": "INS"
+    },
+    {
+      "id": 131,
+      "label": "Co-payment",
+      "group": "INS"
+    },
+    {
+      "id": 132,
+      "label": "Out-of-Pocket Maximum",
+      "group": "INS"
+    },
+    {
+      "id": 133,
+      "label": "Health Insurance",
+      "group": "INS"
+    },
+    {
+      "id": 134,
+      "label": "HMO Plans",
+      "group": "INS"
+    },
+    {
+      "id": 135,
+      "label": "PPO Plans",
+      "group": "INS"
+    },
+    {
+      "id": 136,
+      "label": "HDHP Plans",
+      "group": "INS"
+    },
+    {
+      "id": 137,
+      "label": "Health Savings Account",
+      "group": "INS"
+    },
+    {
+      "id": 138,
+      "label": "Auto Insurance",
+      "group": "INS"
+    },
+    {
+      "id": 139,
+      "label": "Liability Coverage",
+      "group": "INS"
+    },
+    {
+      "id": 140,
+      "label": "Collision Coverage",
+      "group": "INS"
+    },
+    {
+      "id": 141,
+      "label": "Comprehensive Coverage",
+      "group": "INS"
+    },
+    {
+      "id": 142,
+      "label": "Renter's Insurance",
+      "group": "INS"
+    },
+    {
+      "id": 143,
+      "label": "Homeowner's Insurance",
+      "group": "INS"
+    },
+    {
+      "id": 144,
+      "label": "Term Life Insurance",
+      "group": "INS"
+    },
+    {
+      "id": 145,
+      "label": "Whole Life Insurance",
+      "group": "INS"
+    },
+    {
+      "id": 146,
+      "label": "Disability Insurance",
+      "group": "INS"
+    },
+    {
+      "id": 147,
+      "label": "Umbrella Policy",
+      "group": "INS"
+    },
+    {
+      "id": 148,
+      "label": "Insurance Claims Process",
+      "group": "INS"
+    },
+    {
+      "id": 149,
+      "label": "Risk Management Strategy",
+      "group": "INS"
+    },
+    {
+      "id": 150,
+      "label": "Auto Loans",
+      "group": "LOAN"
+    },
+    {
+      "id": 151,
+      "label": "Loan Interest Rates",
+      "group": "LOAN"
+    },
+    {
+      "id": 152,
+      "label": "Loan Term Length",
+      "group": "LOAN"
+    },
+    {
+      "id": 153,
+      "label": "New vs Used Vehicles",
+      "group": "LOAN"
+    },
+    {
+      "id": 154,
+      "label": "Vehicle Depreciation",
+      "group": "LOAN"
+    },
+    {
+      "id": 155,
+      "label": "Total Cost of Ownership",
+      "group": "LOAN"
+    },
+    {
+      "id": 156,
+      "label": "Renting vs Buying",
+      "group": "LOAN"
+    },
+    {
+      "id": 157,
+      "label": "Mortgage",
+      "group": "LOAN"
+    },
+    {
+      "id": 158,
+      "label": "Fixed-Rate Mortgage",
+      "group": "LOAN"
+    },
+    {
+      "id": 159,
+      "label": "Adjustable-Rate Mortgage",
+      "group": "LOAN"
+    },
+    {
+      "id": 160,
+      "label": "FHA Loans",
+      "group": "LOAN"
+    },
+    {
+      "id": 161,
+      "label": "Conventional Loans",
+      "group": "LOAN"
+    },
+    {
+      "id": 162,
+      "label": "Down Payment",
+      "group": "LOAN"
+    },
+    {
+      "id": 163,
+      "label": "Closing Costs",
+      "group": "LOAN"
+    },
+    {
+      "id": 164,
+      "label": "Comparison Shopping",
+      "group": "LOAN"
+    },
+    {
+      "id": 165,
+      "label": "Negotiation Skills",
+      "group": "LOAN"
+    },
+    {
+      "id": 166,
+      "label": "Identity Theft",
+      "group": "SEC",
+      "shape": "box"
+    },
+    {
+      "id": 167,
+      "label": "Identity Theft Prevention",
+      "group": "SEC"
+    },
+    {
+      "id": 168,
+      "label": "Credit Monitoring",
+      "group": "SEC"
+    },
+    {
+      "id": 169,
+      "label": "Password Security",
+      "group": "SEC"
+    },
+    {
+      "id": 170,
+      "label": "Two-Factor Authentication",
+      "group": "SEC"
+    },
+    {
+      "id": 171,
+      "label": "Phishing Scams",
+      "group": "SEC"
+    },
+    {
+      "id": 172,
+      "label": "Ponzi Schemes",
+      "group": "SEC"
+    },
+    {
+      "id": 173,
+      "label": "Pyramid Schemes",
+      "group": "SEC"
+    },
+    {
+      "id": 174,
+      "label": "Consumer Rights",
+      "group": "SEC"
+    },
+    {
+      "id": 175,
+      "label": "CFPB Protection",
+      "group": "SEC"
+    },
+    {
+      "id": 176,
+      "label": "Dispute Resolution",
+      "group": "SEC"
+    },
+    {
+      "id": 177,
+      "label": "Credit Freeze",
+      "group": "SEC"
+    },
+    {
+      "id": 178,
+      "label": "College Cost Estimation",
+      "group": "EDU"
+    },
+    {
+      "id": 179,
+      "label": "Net Price Calculator",
+      "group": "EDU"
+    },
+    {
+      "id": 180,
+      "label": "Scholarships",
+      "group": "EDU"
+    },
+    {
+      "id": 181,
+      "label": "Grants",
+      "group": "EDU"
+    },
+    {
+      "id": 182,
+      "label": "FAFSA",
+      "group": "EDU"
+    },
+    {
+      "id": 183,
+      "label": "Federal Student Loans",
+      "group": "EDU"
+    },
+    {
+      "id": 184,
+      "label": "Private Student Loans",
+      "group": "EDU"
+    },
+    {
+      "id": 185,
+      "label": "College ROI",
+      "group": "EDU"
+    },
+    {
+      "id": 186,
+      "label": "Alternative Education Paths",
+      "group": "EDU"
+    },
+    {
+      "id": 187,
+      "label": "Career Exploration",
+      "group": "CAR"
+    },
+    {
+      "id": 188,
+      "label": "Income Potential Research",
+      "group": "CAR"
+    },
+    {
+      "id": 189,
+      "label": "Employee Benefits",
+      "group": "CAR"
+    },
+    {
+      "id": 190,
+      "label": "Total Compensation Package",
+      "group": "CAR"
+    },
+    {
+      "id": 191,
+      "label": "Side Hustles",
+      "group": "CAR"
+    },
+    {
+      "id": 192,
+      "label": "Salary Negotiation",
+      "group": "CAR"
+    },
+    {
+      "id": 193,
+      "label": "Professional Development",
+      "group": "CAR"
+    },
+    {
+      "id": 194,
+      "label": "401(k) Plan",
+      "group": "RET"
+    },
+    {
+      "id": 195,
+      "label": "Traditional IRA",
+      "group": "RET"
+    },
+    {
+      "id": 196,
+      "label": "Roth IRA",
+      "group": "RET"
+    },
+    {
+      "id": 197,
+      "label": "Employer Matching",
+      "group": "RET"
+    },
+    {
+      "id": 198,
+      "label": "Social Security Benefits",
+      "group": "RET"
+    },
+    {
+      "id": 199,
+      "label": "Retirement Savings Target",
+      "group": "RET"
+    },
+    {
+      "id": 200,
+      "label": "Estate Planning Basics",
+      "group": "RET"
+    }
+  ],
+  "edges": [
+    {
+      "from": 3,
+      "to": 2
+    },
+    {
+      "from": 5,
+      "to": 1
+    },
+    {
+      "from": 5,
+      "to": 4
+    },
+    {
+      "from": 6,
+      "to": 4
+    },
+    {
+      "from": 6,
+      "to": 5
+    },
+    {
+      "from": 7,
+      "to": 6
+    },
+    {
+      "from": 8,
+      "to": 4
+    },
+    {
+      "from": 9,
+      "to": 11
+    },
+    {
+      "from": 10,
+      "to": 9
+    },
+    {
+      "from": 12,
+      "to": 9
+    },
+    {
+      "from": 12,
+      "to": 11
+    },
+    {
+      "from": 13,
+      "to": 11
+    },
+    {
+      "from": 14,
+      "to": 13
+    },
+    {
+      "from": 15,
+      "to": 1
+    },
+    {
+      "from": 15,
+      "to": 2
+    },
+    {
+      "from": 15,
+      "to": 14
+    },
+    {
+      "from": 16,
+      "to": 8
+    },
+    {
+      "from": 16,
+      "to": 15
+    },
+    {
+      "from": 17,
+      "to": 2
+    },
+    {
+      "from": 17,
+      "to": 3
+    },
+    {
+      "from": 17,
+      "to": 5
+    },
+    {
+      "from": 20,
+      "to": 18
+    },
+    {
+      "from": 20,
+      "to": 19
+    },
+    {
+      "from": 21,
+      "to": 18
+    },
+    {
+      "from": 21,
+      "to": 19
+    },
+    {
+      "from": 22,
+      "to": 18
+    },
+    {
+      "from": 22,
+      "to": 19
+    },
+    {
+      "from": 23,
+      "to": 22
+    },
+    {
+      "from": 24,
+      "to": 21
+    },
+    {
+      "from": 25,
+      "to": 21
+    },
+    {
+      "from": 25,
+      "to": 22
+    },
+    {
+      "from": 26,
+      "to": 20
+    },
+    {
+      "from": 26,
+      "to": 21
+    },
+    {
+      "from": 27,
+      "to": 21
+    },
+    {
+      "from": 28,
+      "to": 21
+    },
+    {
+      "from": 29,
+      "to": 21
+    },
+    {
+      "from": 29,
+      "to": 14
+    },
+    {
+      "from": 30,
+      "to": 21
+    },
+    {
+      "from": 31,
+      "to": 30
+    },
+    {
+      "from": 32,
+      "to": 30
+    },
+    {
+      "from": 33,
+      "to": 30
+    },
+    {
+      "from": 34,
+      "to": 20
+    },
+    {
+      "from": 34,
+      "to": 26
+    },
+    {
+      "from": 35,
+      "to": 18
+    },
+    {
+      "from": 35,
+      "to": 19
+    },
+    {
+      "from": 36,
+      "to": 1
+    },
+    {
+      "from": 36,
+      "to": 14
+    },
+    {
+      "from": 37,
+      "to": 36
+    },
+    {
+      "from": 38,
+      "to": 36
+    },
+    {
+      "from": 39,
+      "to": 36
+    },
+    {
+      "from": 40,
+      "to": 13
+    },
+    {
+      "from": 41,
+      "to": 36
+    },
+    {
+      "from": 42,
+      "to": 41
+    },
+    {
+      "from": 43,
+      "to": 41
+    },
+    {
+      "from": 44,
+      "to": 5
+    },
+    {
+      "from": 44,
+      "to": 41
+    },
+    {
+      "from": 45,
+      "to": 2
+    },
+    {
+      "from": 45,
+      "to": 22
+    },
+    {
+      "from": 45,
+      "to": 36
+    },
+    {
+      "from": 46,
+      "to": 45
+    },
+    {
+      "from": 47,
+      "to": 46
+    },
+    {
+      "from": 48,
+      "to": 22
+    },
+    {
+      "from": 48,
+      "to": 36
+    },
+    {
+      "from": 49,
+      "to": 36
+    },
+    {
+      "from": 49,
+      "to": 48
+    },
+    {
+      "from": 50,
+      "to": 29
+    },
+    {
+      "from": 51,
+      "to": 36
+    },
+    {
+      "from": 52,
+      "to": 41
+    },
+    {
+      "from": 52,
+      "to": 51
+    },
+    {
+      "from": 53,
+      "to": 36
+    },
+    {
+      "from": 53,
+      "to": 52
+    },
+    {
+      "from": 55,
+      "to": 54
+    },
+    {
+      "from": 56,
+      "to": 54
+    },
+    {
+      "from": 57,
+      "to": 54
+    },
+    {
+      "from": 58,
+      "to": 57
+    },
+    {
+      "from": 59,
+      "to": 54
+    },
+    {
+      "from": 60,
+      "to": 55
+    },
+    {
+      "from": 60,
+      "to": 65
+    },
+    {
+      "from": 61,
+      "to": 55
+    },
+    {
+      "from": 62,
+      "to": 55
+    },
+    {
+      "from": 62,
+      "to": 59
+    },
+    {
+      "from": 63,
+      "to": 55
+    },
+    {
+      "from": 64,
+      "to": 55
+    },
+    {
+      "from": 65,
+      "to": 18
+    },
+    {
+      "from": 65,
+      "to": 19
+    },
+    {
+      "from": 66,
+      "to": 65
+    },
+    {
+      "from": 67,
+      "to": 65
+    },
+    {
+      "from": 68,
+      "to": 65
+    },
+    {
+      "from": 68,
+      "to": 66
+    },
+    {
+      "from": 69,
+      "to": 65
+    },
+    {
+      "from": 69,
+      "to": 66
+    },
+    {
+      "from": 70,
+      "to": 11
+    },
+    {
+      "from": 71,
+      "to": 70
+    },
+    {
+      "from": 72,
+      "to": 70
+    },
+    {
+      "from": 73,
+      "to": 70
+    },
+    {
+      "from": 73,
+      "to": 6
+    },
+    {
+      "from": 74,
+      "to": 66
+    },
+    {
+      "from": 75,
+      "to": 70
+    },
+    {
+      "from": 75,
+      "to": 74
+    },
+    {
+      "from": 76,
+      "to": 70
+    },
+    {
+      "from": 77,
+      "to": 70
+    },
+    {
+      "from": 77,
+      "to": 74
+    },
+    {
+      "from": 78,
+      "to": 77
+    },
+    {
+      "from": 79,
+      "to": 22
+    },
+    {
+      "from": 79,
+      "to": 8
+    },
+    {
+      "from": 80,
+      "to": 11
+    },
+    {
+      "from": 80,
+      "to": 22
+    },
+    {
+      "from": 81,
+      "to": 80
+    },
+    {
+      "from": 82,
+      "to": 81
+    },
+    {
+      "from": 83,
+      "to": 2
+    },
+    {
+      "from": 83,
+      "to": 81
+    },
+    {
+      "from": 84,
+      "to": 80
+    },
+    {
+      "from": 85,
+      "to": 84
+    },
+    {
+      "from": 86,
+      "to": 84
+    },
+    {
+      "from": 87,
+      "to": 80
+    },
+    {
+      "from": 88,
+      "to": 87
+    },
+    {
+      "from": 89,
+      "to": 87
+    },
+    {
+      "from": 90,
+      "to": 87
+    },
+    {
+      "from": 91,
+      "to": 87
+    },
+    {
+      "from": 92,
+      "to": 84
+    },
+    {
+      "from": 92,
+      "to": 87
+    },
+    {
+      "from": 93,
+      "to": 84
+    },
+    {
+      "from": 93,
+      "to": 92
+    },
+    {
+      "from": 94,
+      "to": 86
+    },
+    {
+      "from": 94,
+      "to": 93
+    },
+    {
+      "from": 95,
+      "to": 92
+    },
+    {
+      "from": 95,
+      "to": 94
+    },
+    {
+      "from": 96,
+      "to": 92
+    },
+    {
+      "from": 96,
+      "to": 93
+    },
+    {
+      "from": 97,
+      "to": 8
+    },
+    {
+      "from": 98,
+      "to": 97
+    },
+    {
+      "from": 99,
+      "to": 85
+    },
+    {
+      "from": 99,
+      "to": 92
+    },
+    {
+      "from": 100,
+      "to": 82
+    },
+    {
+      "from": 100,
+      "to": 83
+    },
+    {
+      "from": 101,
+      "to": 81
+    },
+    {
+      "from": 101,
+      "to": 100
+    },
+    {
+      "from": 102,
+      "to": 100
+    },
+    {
+      "from": 102,
+      "to": 101
+    },
+    {
+      "from": 103,
+      "to": 81
+    },
+    {
+      "from": 103,
+      "to": 84
+    },
+    {
+      "from": 104,
+      "to": 84
+    },
+    {
+      "from": 105,
+      "to": 84
+    },
+    {
+      "from": 106,
+      "to": 80
+    },
+    {
+      "from": 107,
+      "to": 106
+    },
+    {
+      "from": 108,
+      "to": 85
+    },
+    {
+      "from": 108,
+      "to": 107
+    },
+    {
+      "from": 109,
+      "to": 13
+    },
+    {
+      "from": 110,
+      "to": 109
+    },
+    {
+      "from": 111,
+      "to": 109
+    },
+    {
+      "from": 112,
+      "to": 111
+    },
+    {
+      "from": 113,
+      "to": 109
+    },
+    {
+      "from": 113,
+      "to": 111
+    },
+    {
+      "from": 114,
+      "to": 109
+    },
+    {
+      "from": 115,
+      "to": 109
+    },
+    {
+      "from": 116,
+      "to": 109
+    },
+    {
+      "from": 117,
+      "to": 114
+    },
+    {
+      "from": 118,
+      "to": 117
+    },
+    {
+      "from": 119,
+      "to": 117
+    },
+    {
+      "from": 120,
+      "to": 117
+    },
+    {
+      "from": 121,
+      "to": 117
+    },
+    {
+      "from": 122,
+      "to": 117
+    },
+    {
+      "from": 123,
+      "to": 114
+    },
+    {
+      "from": 124,
+      "to": 114
+    },
+    {
+      "from": 124,
+      "to": 123
+    },
+    {
+      "from": 125,
+      "to": 114
+    },
+    {
+      "from": 125,
+      "to": 123
+    },
+    {
+      "from": 126,
+      "to": 117
+    },
+    {
+      "from": 126,
+      "to": 121
+    },
+    {
+      "from": 126,
+      "to": 122
+    },
+    {
+      "from": 127,
+      "to": 106
+    },
+    {
+      "from": 127,
+      "to": 126
+    },
+    {
+      "from": 129,
+      "to": 128
+    },
+    {
+      "from": 130,
+      "to": 128
+    },
+    {
+      "from": 131,
+      "to": 128
+    },
+    {
+      "from": 132,
+      "to": 128
+    },
+    {
+      "from": 133,
+      "to": 128
+    },
+    {
+      "from": 134,
+      "to": 133
+    },
+    {
+      "from": 135,
+      "to": 133
+    },
+    {
+      "from": 136,
+      "to": 133
+    },
+    {
+      "from": 137,
+      "to": 136
+    },
+    {
+      "from": 138,
+      "to": 128
+    },
+    {
+      "from": 139,
+      "to": 138
+    },
+    {
+      "from": 140,
+      "to": 138
+    },
+    {
+      "from": 141,
+      "to": 138
+    },
+    {
+      "from": 142,
+      "to": 128
+    },
+    {
+      "from": 143,
+      "to": 128
+    },
+    {
+      "from": 144,
+      "to": 128
+    },
+    {
+      "from": 145,
+      "to": 128
+    },
+    {
+      "from": 146,
+      "to": 128
+    },
+    {
+      "from": 147,
+      "to": 139
+    },
+    {
+      "from": 148,
+      "to": 128
+    },
+    {
+      "from": 148,
+      "to": 129
+    },
+    {
+      "from": 149,
+      "to": 128
+    },
+    {
+      "from": 149,
+      "to": 82
+    },
+    {
+      "from": 150,
+      "to": 70
+    },
+    {
+      "from": 150,
+      "to": 74
+    },
+    {
+      "from": 151,
+      "to": 74
+    },
+    {
+      "from": 152,
+      "to": 150
+    },
+    {
+      "from": 153,
+      "to": 150
+    },
+    {
+      "from": 154,
+      "to": 153
+    },
+    {
+      "from": 155,
+      "to": 150
+    },
+    {
+      "from": 155,
+      "to": 154
+    },
+    {
+      "from": 156,
+      "to": 6
+    },
+    {
+      "from": 156,
+      "to": 36
+    },
+    {
+      "from": 157,
+      "to": 70
+    },
+    {
+      "from": 157,
+      "to": 74
+    },
+    {
+      "from": 158,
+      "to": 157
+    },
+    {
+      "from": 159,
+      "to": 157
+    },
+    {
+      "from": 160,
+      "to": 157
+    },
+    {
+      "from": 161,
+      "to": 157
+    },
+    {
+      "from": 162,
+      "to": 157
+    },
+    {
+      "from": 163,
+      "to": 157
+    },
+    {
+      "from": 164,
+      "to": 25
+    },
+    {
+      "from": 165,
+      "to": 5
+    },
+    {
+      "from": 165,
+      "to": 164
+    },
+    {
+      "from": 167,
+      "to": 166
+    },
+    {
+      "from": 168,
+      "to": 54
+    },
+    {
+      "from": 168,
+      "to": 57
+    },
+    {
+      "from": 168,
+      "to": 167
+    },
+    {
+      "from": 169,
+      "to": 34
+    },
+    {
+      "from": 170,
+      "to": 34
+    },
+    {
+      "from": 170,
+      "to": 169
+    },
+    {
+      "from": 171,
+      "to": 166
+    },
+    {
+      "from": 172,
+      "to": 80
+    },
+    {
+      "from": 173,
+      "to": 80
+    },
+    {
+      "from": 174,
+      "to": 1
+    },
+    {
+      "from": 175,
+      "to": 174
+    },
+    {
+      "from": 176,
+      "to": 65
+    },
+    {
+      "from": 176,
+      "to": 174
+    },
+    {
+      "from": 177,
+      "to": 167
+    },
+    {
+      "from": 177,
+      "to": 168
+    },
+    {
+      "from": 178,
+      "to": 2
+    },
+    {
+      "from": 179,
+      "to": 178
+    },
+    {
+      "from": 180,
+      "to": 178
+    },
+    {
+      "from": 181,
+      "to": 178
+    },
+    {
+      "from": 182,
+      "to": 178
+    },
+    {
+      "from": 183,
+      "to": 70
+    },
+    {
+      "from": 183,
+      "to": 182
+    },
+    {
+      "from": 184,
+      "to": 70
+    },
+    {
+      "from": 184,
+      "to": 182
+    },
+    {
+      "from": 185,
+      "to": 6
+    },
+    {
+      "from": 185,
+      "to": 178
+    },
+    {
+      "from": 186,
+      "to": 185
+    },
+    {
+      "from": 187,
+      "to": 2
+    },
+    {
+      "from": 188,
+      "to": 187
+    },
+    {
+      "from": 189,
+      "to": 109
+    },
+    {
+      "from": 190,
+      "to": 109
+    },
+    {
+      "from": 190,
+      "to": 189
+    },
+    {
+      "from": 191,
+      "to": 109
+    },
+    {
+      "from": 191,
+      "to": 187
+    },
+    {
+      "from": 192,
+      "to": 165
+    },
+    {
+      "from": 192,
+      "to": 188
+    },
+    {
+      "from": 193,
+      "to": 187
+    },
+    {
+      "from": 194,
+      "to": 106
+    },
+    {
+      "from": 194,
+      "to": 127
+    },
+    {
+      "from": 195,
+      "to": 106
+    },
+    {
+      "from": 195,
+      "to": 127
+    },
+    {
+      "from": 196,
+      "to": 106
+    },
+    {
+      "from": 196,
+      "to": 127
+    },
+    {
+      "from": 197,
+      "to": 194
+    },
+    {
+      "from": 198,
+      "to": 114
+    },
+    {
+      "from": 199,
+      "to": 2
+    },
+    {
+      "from": 199,
+      "to": 97
+    },
+    {
+      "from": 199,
+      "to": 194
+    },
+    {
+      "from": 200,
+      "to": 11
+    },
+    {
+      "from": 200,
+      "to": 15
+    }
+  ]
+}
