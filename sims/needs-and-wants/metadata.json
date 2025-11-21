@@ -1,0 +1,131 @@
+{
+  "title": "Needs vs Wants Categorization Game",
+  "creator": "Dan McCreary",
+  "subject": ["Personal Finance", "Budgeting", "Financial Literacy"],
+  "description": "An interactive game where students practice categorizing expenses as needs (essential) or wants (discretionary), developing critical budgeting skills through gameplay with immediate feedback.",
+  "date": "2025-11-20",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY 4.0",
+  "gradeLevel": "High School (9-12), Undergraduate",
+  "subjectArea": "Personal Finance",
+  "topic": "Needs vs Wants, Budgeting Fundamentals, Expense Categorization",
+  "learningObjectives": [
+    "Define and distinguish between needs (essential expenses) and wants (discretionary expenses)",
+    "Apply the needs vs wants framework to categorize real-world expenses correctly",
+    "Analyze context-dependent expenses to determine when circumstances change categorization",
+    "Evaluate personal spending to identify opportunities for financial improvement",
+    "Understand that context matters in financial decision-making"
+  ],
+  "bloomsTaxonomyLevels": ["Remembering", "Understanding", "Applying", "Analyzing", "Evaluating"],
+  "duration": "15-20 minutes",
+  "prerequisites": [
+    "Basic understanding of financial vocabulary (expense, budget, income)",
+    "Concept of limited resources requiring choices",
+    "Understanding that people make trade-offs with money"
+  ],
+  "framework": "p5.js",
+  "canvasDimensions": "800×600 (width-responsive)",
+  "responsive": "Width-responsive",
+  "dependencies": ["p5.js 1.11.10 CDN"],
+  "accessibility": [
+    "High contrast color scheme (colorblind-safe)",
+    "Large text sizes (28px for main content)",
+    "Click-based interaction (no complex gestures)",
+    "Text-based feedback for screen readers",
+    "Keyboard navigation support"
+  ],
+  "controls": [
+    {
+      "type": "Button",
+      "name": "NEED",
+      "description": "Click to categorize the current expense as a need (essential)",
+      "color": "Green (#90EE90)"
+    },
+    {
+      "type": "Button",
+      "name": "WANT",
+      "description": "Click to categorize the current expense as a want (discretionary)",
+      "color": "Blue (#87CEEB)"
+    },
+    {
+      "type": "Button",
+      "name": "IT DEPENDS",
+      "description": "Click when the expense category depends on individual context",
+      "color": "Yellow (#FFE4B5)"
+    },
+    {
+      "type": "Button",
+      "name": "Reset Game",
+      "description": "Restart the game with shuffled expenses"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "Expense Items",
+      "range": "30 different expenses",
+      "default": "Shuffled order",
+      "purpose": "Variety of realistic expenses covering housing, food, transportation, entertainment, insurance, education, and personal care"
+    },
+    {
+      "name": "Difficulty Levels",
+      "range": "Easy (clear-cut), Medium (some context), Hard (ambiguous)",
+      "default": "All levels included",
+      "purpose": "Progressive complexity to develop analytical skills"
+    },
+    {
+      "name": "Score Tracking",
+      "range": "0 to 30 correct",
+      "default": "0",
+      "purpose": "Track student progress and understanding"
+    }
+  ],
+  "modelType": "Educational Game / Classification Simulation",
+  "variables": [
+    "currentExpenseIndex (which expense is being shown)",
+    "score (number of correct categorizations)",
+    "totalAnswered (number of expenses categorized)",
+    "feedbackTimer (controls feedback display duration)",
+    "gameComplete (whether all expenses have been categorized)"
+  ],
+  "equations": [
+    "Percentage Score = (score / totalAnswered) × 100",
+    "Progress = currentExpenseIndex / total expenses"
+  ],
+  "assumptions": [
+    "Students understand basic financial vocabulary",
+    "Context for 'needs' is basic survival, safety, and ability to earn income",
+    "Modern context includes internet and phone as needs for most people",
+    "Some expenses are genuinely context-dependent without a single 'right' answer"
+  ],
+  "limitations": [
+    "Does not account for all individual circumstances and contexts",
+    "Simplified categorization may not reflect real-world gray areas completely",
+    "Does not address cultural differences in what constitutes needs vs wants",
+    "Fixed set of expenses may not reflect all student experiences"
+  ],
+  "educationalStandards": [
+    "National Standards for Financial Literacy: Standard I (Earning Income), Standard III (Saving)",
+    "Jump$tart Coalition: Financial Responsibility and Decision Making",
+    "Council for Economic Education: Personal Finance Competency Areas"
+  ],
+  "assessmentOpportunities": [
+    "Track in-game performance score (target: 75%+ accuracy)",
+    "Observe reasoning during class discussion of ambiguous items",
+    "Evaluate student's ability to categorize their own real expenses",
+    "Quiz on explaining why specific items are categorized as needs or wants"
+  ],
+  "keywords": [
+    "needs",
+    "wants",
+    "budgeting",
+    "essential expenses",
+    "discretionary spending",
+    "financial priorities",
+    "expense categorization",
+    "financial decision making",
+    "personal finance",
+    "money management"
+  ]
+}
