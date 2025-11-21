@@ -4,6 +4,8 @@
 
 Account reconciliation is the critical process of comparing your personal financial records with your bank statement to ensure accuracy and identify any discrepancies. This interactive workflow diagram guides you through each step of the reconciliation process, from downloading your statement to marking the reconciliation complete.
 
+[See this MicroSim in Chapter 2](../../chapters/02-banking-and-cash-management/#diagram-account-reconciliation-workflow)
+
 ## Interactive Diagram
 
 The diagram below provides a visual workflow with interactive features including checkboxes to track your progress, hover tooltips with detailed explanations, and a progress tracker to monitor completion.
@@ -14,12 +16,10 @@ The diagram below provides a visual workflow with interactive features including
     scrolling="no">
 </iframe>
 
-You can include this MicroSim in your web page by copying the following line.
+You can include this MicroSim in your web page by copying the following lines.
 ```yml
-<iframe src="main.html"
-    width="100%"
-    height="1850"
-    scrolling="no">
+<iframe src="https://dmccreary.github.io/personal-finance/sims/account-reconciliation/main.html"
+    width="100%" height="1850" scrolling="no">
 </iframe>
 ```
 

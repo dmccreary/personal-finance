@@ -399,6 +399,10 @@ Most people should reconcile at least monthly, though weekly is even better when
 
 #### Diagram: Account Reconciliation Workflow
 
+<iframe src="../../sims/account-reconciliation/main.html"
+    width="100%" height="1850" scrolling="no">
+</iframe>
+
 <details markdown="1">
     <summary>Interactive Account Reconciliation Process</summary>
     Type: workflow
