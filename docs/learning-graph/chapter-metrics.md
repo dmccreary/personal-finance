@@ -5,8 +5,8 @@ This file contains chapter-by-chapter metrics.
 | Chapter | Name | Sections | Diagrams | Words |
 |---------|------|----------|----------|-------|
 | 1 | [Foundational Financial Concepts](../chapters/01-foundational-financial-concepts/index.md) | 46 | 0 | 4,925 |
-| 2 | [Banking and Cash Management](../chapters/02-banking-and-cash-management/index.md) | 30 | 6 | 7,735 |
-| 3 | [Budgeting and Financial Planning](../chapters/03-budgeting-and-financial-planning/index.md) | 32 | 4 | 9,252 |
+| 2 | [Banking and Cash Management](../chapters/02-banking-and-cash-management/index.md) | 30 | 6 | 7,772 |
+| 3 | [Budgeting and Financial Planning](../chapters/03-budgeting-and-financial-planning/index.md) | 32 | 4 | 9,224 |
 | 4 | [Credit and Debt Management](../chapters/04-credit-and-debt-management/index.md) | 36 | 0 | 5,854 |
 | 5 | [Saving and Investing](../chapters/05-saving-and-investing/index.md) | 4 | 0 | 1,663 |
 | 6 | [Income and Taxes](../chapters/06-income-and-taxes/index.md) | 4 | 0 | 1,452 |
