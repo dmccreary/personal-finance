@@ -15,7 +15,7 @@ let currentExpenseIndex = 0;
 let score = 0;
 let totalAnswered = 0;
 let feedback = '';
-let feedbackTimer = 0;
+let showingFeedback = false;
 let gameComplete = false;
 
 // Buttons
@@ -165,8 +165,8 @@ function draw() {
     // Always display the expense card
     displayExpenseCard();
 
-    // Display feedback if there is any
-    if (feedbackTimer > 0) {
+    // Display feedback if showing
+    if (showingFeedback) {
       displayFeedback();
     }
   } else {
@@ -291,7 +291,7 @@ function displayGameComplete() {
 }
 
 function checkAnswer(answer) {
-  if (gameComplete || feedbackTimer > 0) return;
+  if (gameComplete || showingFeedback) return;
 
   let expense = expenses[currentExpenseIndex];
   let correct = (expense.category === answer);
@@ -308,12 +308,12 @@ function checkAnswer(answer) {
   }
 
   totalAnswered++;
-  feedbackTimer = 1; // Flag that we're showing feedback
+  showingFeedback = true;
 }
 
 function nextQuestion() {
   currentExpenseIndex++;
-  feedbackTimer = 0;
+  showingFeedback = false;
 
   // Hide Got it button
   gotItButton.hide();
@@ -335,12 +335,13 @@ function initializeExpenses() {
   score = 0;
   totalAnswered = 0;
   feedback = '';
-  feedbackTimer = 0;
+  showingFeedback = false;
   gameComplete = false;
 }
 
 function resetGame() {
   initializeExpenses();
+  gotItButton.hide();
 }
 
 function windowResized() {
