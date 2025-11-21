@@ -1,4 +1,12 @@
-# Interest Rate
+---
+title: Annual US Interest Rate for Prior 30 Years
+description: The annual average interest rate in the US from 1995 to 2025
+image: sims/interest-rate/interest-rate.png
+og:image: sims/interest-rate/interest-rate.png
+hide:
+    toc
+---
+# Annual US Interest Rate 1995 to 2025
 
 <iframe src="main.html" height="550px" scrolling="no"></iframe>
 

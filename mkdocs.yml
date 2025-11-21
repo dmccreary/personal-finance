@@ -74,6 +74,7 @@ nav:
     - Stock Market Historical Returns: sims/stock-market-returns/index.md
     - US Treasury Bills: sims/t-bills/index.md
     - Yield Curve: sims/yield-curve/index.md
+    - Needs vs Wants: sims/needs-and-wants/index.md
 
   - Learning Graph:
     - Overview: learning-graph/index.md
