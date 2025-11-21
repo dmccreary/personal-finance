@@ -92,34 +92,34 @@ The main drawback is the lack of physical branches. You can't walk in to deposit
 
 <details markdown="1">
     <summary>Types of Financial Institutions Comparison Chart</summary>
-    Type: infographic
+  Type: infographic
 
-    Purpose: Help students visually compare the three main types of financial institutions and make an informed choice
+  Purpose: Help students visually compare the three main types of financial institutions and make an informed choice
 
-    Layout: Three-column comparison with icons at top
+  Layout: Three-column comparison with icons at top
 
-    Columns:
-    1. Commercial Banks (blue theme, building icon)
-    2. Credit Unions (green theme, handshake icon)
-    3. Online Banks (purple theme, smartphone icon)
+  Columns:
+  1. Commercial Banks (blue theme, building icon)
+  2. Credit Unions (green theme, handshake icon)
+  3. Online Banks (purple theme, smartphone icon)
 
-    Comparison rows:
-    - Ownership: "Shareholder-owned" | "Member-owned nonprofit" | "Shareholder-owned"
-    - Branches: "Many locations" | "Fewer locations" | "No physical branches"
-    - Fees: "Higher fees" | "Lower fees" | "Lowest fees"
-    - Savings rates: "Low APY" | "Medium APY" | "Highest APY"
-    - Technology: "Advanced apps" | "Good apps" | "Best apps"
-    - Insurance: "FDIC $250k" | "NCUA $250k" | "FDIC $250k"
-    - Best for: "Comprehensive services" | "Lower costs, community" | "Best rates, tech users"
+  Comparison rows:
+  - Ownership: "Shareholder-owned" | "Member-owned nonprofit" | "Shareholder-owned"
+  - Branches: "Many locations" | "Fewer locations" | "No physical branches"
+  - Fees: "Higher fees" | "Lower fees" | "Lowest fees"
+  - Savings rates: "Low APY" | "Medium APY" | "Highest APY"
+  - Technology: "Advanced apps" | "Good apps" | "Best apps"
+  - Insurance: "FDIC $250k" | "NCUA $250k" | "FDIC $250k"
+  - Best for: "Comprehensive services" | "Lower costs, community" | "Best rates, tech users"
 
-    Interactive elements:
-    - Hover over each cell to see detailed explanation
-    - Click column header to highlight all advantages in that column
-    - Toggle at bottom to filter by priority: "Lowest fees" | "Most convenient" | "Best rates"
+  Interactive elements:
+  - Hover over each cell to see detailed explanation
+  - Click column header to highlight all advantages in that column
+  - Toggle at bottom to filter by priority: "Lowest fees" | "Most convenient" | "Best rates"
 
-    Visual style: Clean, modern cards with icons and color coding
+  Visual style: Clean, modern cards with icons and color coding
 
-    Implementation: HTML/CSS/JavaScript with interactive filtering
+  Implementation: HTML/CSS/JavaScript with interactive filtering
 </details>
 
 ## Essential Bank Accounts
@@ -174,54 +174,54 @@ High-yield savings accounts are almost exclusively offered by online banks. With
 
 <details markdown="1">
     <summary>Savings Account Growth Comparison MicroSim</summary>
-    Type: microsim
+Type: microsim
 
-    Learning objective: Demonstrate the power of compound interest and the significant difference between traditional and high-yield savings accounts over time (Bloom's: Understanding, Analyzing)
+Learning objective: Demonstrate the power of compound interest and the significant difference between traditional and high-yield savings accounts over time (Bloom's: Understanding, Analyzing)
 
-    Canvas layout (900x600px):
-    - Top area (900x400): Line graph showing account balance growth over time
-    - Bottom area (900x200): Control panel with inputs
+Canvas layout (900x600px):
+- Top area (900x400): Line graph showing account balance growth over time
+- Bottom area (900x200): Control panel with inputs
 
-    Visual elements:
-    - Two lines on graph: Blue (traditional savings 0.5% APY), Green (high-yield savings 4.5% APY)
-    - X-axis: Time in years (0-30)
-    - Y-axis: Account balance in dollars
-    - Shaded area between lines showing the "lost earnings" with traditional savings
-    - Data point markers showing values at 1, 5, 10, 20, and 30 years
+Visual elements:
+- Two lines on graph: Blue (traditional savings 0.5% APY), Green (high-yield savings 4.5% APY)
+- X-axis: Time in years (0-30)
+- Y-axis: Account balance in dollars
+- Shaded area between lines showing the "lost earnings" with traditional savings
+- Data point markers showing values at 1, 5, 10, 20, and 30 years
 
-    Interactive controls:
-    - Slider: Initial deposit ($100 - $10,000, default: $5,000)
-    - Slider: Monthly deposit ($0 - $1,000, default: $100)
-    - Slider: Traditional APY (0.1% - 1.0%, default: 0.5%)
-    - Slider: High-yield APY (3.0% - 6.0%, default: 4.5%)
-    - Slider: Time horizon (1 - 30 years, default: 10)
-    - Display: Total contributed amount
-    - Display: Traditional account final balance
-    - Display: High-yield account final balance
-    - Display: Difference between accounts
-    - Button: "Reset to defaults"
+Interactive controls:
+- Slider: Initial deposit ($100 - $10,000, default: $5,000)
+- Slider: Monthly deposit ($0 - $1,000, default: $100)
+- Slider: Traditional APY (0.1% - 1.0%, default: 0.5%)
+- Slider: High-yield APY (3.0% - 6.0%, default: 4.5%)
+- Slider: Time horizon (1 - 30 years, default: 10)
+- Display: Total contributed amount
+- Display: Traditional account final balance
+- Display: High-yield account final balance
+- Display: Difference between accounts
+- Button: "Reset to defaults"
 
-    Default scenario:
-    - Initial deposit: $5,000
-    - Monthly deposit: $100
-    - Traditional APY: 0.5%
-    - High-yield APY: 4.5%
-    - Time: 10 years
-    - Results: Traditional = $17,764, High-yield = $21,967, Difference = $4,203
+Default scenario:
+- Initial deposit: $5,000
+- Monthly deposit: $100
+- Traditional APY: 0.5%
+- High-yield APY: 4.5%
+- Time: 10 years
+- Results: Traditional = $17,764, High-yield = $21,967, Difference = $4,203
 
-    Behavior:
-    - Graph updates in real-time as sliders move
-    - Tooltip on hover shows exact balance at that year
-    - Animate line drawing when parameters change
-    - Highlight the difference area in gold
-    - Show percentage difference as well as dollar difference
+Behavior:
+- Graph updates in real-time as sliders move
+- Tooltip on hover shows exact balance at that year
+- Animate line drawing when parameters change
+- Highlight the difference area in gold
+- Show percentage difference as well as dollar difference
 
-    Educational insights displayed:
-    - "After 10 years, you've earned $X more with high-yield savings"
-    - "That's equivalent to Y months of contributions!"
-    - "Your money is working Z times harder with a high-yield account"
+Educational insights displayed:
+- "After 10 years, you've earned $X more with high-yield savings"
+- "That's equivalent to Y months of contributions!"
+- "Your money is working Z times harder with a high-yield account"
 
-    Implementation: p5.js for visualization, compound interest formula: A = P(1 + r/12)^(12t) + PMT × (((1 + r/12)^(12t) - 1) / (r/12))
+Implementation: p5.js for visualization, compound interest formula: A = P(1 + r/12)^(12t) + PMT × (((1 + r/12)^(12t) - 1) / (r/12))
 </details>
 
 ### Account Features Comparison
@@ -259,58 +259,62 @@ Bank fees can quietly drain hundreds of dollars from your accounts each year if 
 
 #### Diagram: Annual Cost of Common Banking Fees
 
+<iframe src="../../sims/banking-fees-impact/main.html" width="100%" height="520" scrolling="no"></iframe>
+
+
 <details markdown="1">
     <summary>Banking Fees Impact Chart</summary>
-    Type: chart
+  Type: chart
+  Status: done
 
-    Purpose: Show students the real annual cost of various banking fees to motivate fee avoidance
+  Purpose: Show students the real annual cost of various banking fees to motivate fee avoidance
 
-    Chart type: Stacked bar chart showing annual costs
+  Chart type: Stacked bar chart showing annual costs
 
-    Scenarios:
-    1. "Fee-aware banker" (Green bar)
-    2. "Average user" (Yellow bar)
-    3. "Fee-heavy user" (Red bar)
+  Scenarios:
+  1. "Fee-aware banker" (Green bar)
+  2. "Average user" (Yellow bar)
+  3. "Fee-heavy user" (Red bar)
 
-    Fee categories (stacked):
-    - Monthly maintenance fees
-    - Overdraft fees
-    - ATM fees
-    - Other fees (paper statements, wire transfers, etc.)
+  Fee categories (stacked):
+  - Monthly maintenance fees
+  - Overdraft fees
+  - ATM fees
+  - Other fees (paper statements, wire transfers, etc.)
 
-    Data:
-    Fee-aware banker (Total: $0-20/year):
-    - Monthly maintenance: $0 (uses account with no fee)
-    - Overdraft: $0 (tracks balance carefully)
-    - ATM: $0 (uses in-network ATMs only)
-    - Other: $0-20 (occasional wire transfer)
+  Data:
+  Fee-aware banker (Total: $0-20/year):
+  - Monthly maintenance: $0 (uses account with no fee)
+  - Overdraft: $0 (tracks balance carefully)
+  - ATM: $0 (uses in-network ATMs only)
+  - Other: $0-20 (occasional wire transfer)
 
-    Average user (Total: $200-300/year):
-    - Monthly maintenance: $120 (doesn't meet waiver requirements)
-    - Overdraft: $70 (2 overdrafts/year)
-    - ATM: $60 (uses out-of-network ATM 2x/month)
-    - Other: $30
+  Average user (Total: $200-300/year):
+  - Monthly maintenance: $120 (doesn't meet waiver requirements)
+  - Overdraft: $70 (2 overdrafts/year)
+  - ATM: $60 (uses out-of-network ATM 2x/month)
+  - Other: $30
 
-    Fee-heavy user (Total: $500-700/year):
-    - Monthly maintenance: $144 ($12/month)
-    - Overdraft: $280 (8 overdrafts/year)
-    - ATM: $180 (out-of-network ATM weekly)
-    - Other: $70
+  Fee-heavy user (Total: $500-700/year):
+  - Monthly maintenance: $144 ($12/month)
+  - Overdraft: $280 (8 overdrafts/year)
+  - ATM: $180 (out-of-network ATM weekly)
+  - Other: $70
 
-    Y-axis: Total annual fees ($0-$800)
-    X-axis: User type
+  Y-axis: Total annual fees ($0-$800)
+  X-axis: User type
 
-    Title: "Annual Banking Fees by User Behavior"
+  Title: "Annual Banking Fees by User Behavior"
 
-    Annotations:
-    - Arrow pointing to fee-heavy user: "That's 2-3 months of rent for some students!"
-    - Callout: "Simple awareness can save you $500+/year"
+  Annotations:
+  - Arrow pointing to fee-heavy user: "That's 2-3 months of rent for some students!"
+  - Callout: "Simple awareness can save you $500+/year"
 
-    Interactive features:
-    - Hover over each segment to see exact amount and tips to avoid
-    - Click segment to see detailed breakdown and avoidance strategies
+  Interactive features:
+  - Hover over each segment to see exact amount and tips to avoid
+  - Click segment to see detailed breakdown and avoidance strategies
 
-    Implementation: Chart.js stacked bar chart with tooltips
+  Implementation: Chart.js stacked bar chart with tooltips
 </details>
 
 ## Modern Banking Tools
@@ -406,6 +410,7 @@ Most people should reconcile at least monthly, though weekly is even better when
 <details markdown="1">
     <summary>Interactive Account Reconciliation Process</summary>
     Type: workflow
+    **Status:** Done
 
     Purpose: Guide students through the systematic process of reconciling bank accounts
 
@@ -478,7 +483,7 @@ Most people should reconcile at least monthly, though weekly is even better when
     - Click decision points to see branching paths highlighted
     - "Download printable checklist" button
 
-    Implementation: Mermaid.js flowchart with JavaScript overlay for interactivity
+    Implementation: mermaid-generator skill using theMermaid.js flowchart with JavaScript overlay for interactivity
 </details>
 
 ## Electronic Payment Systems

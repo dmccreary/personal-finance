@@ -16,6 +16,8 @@ The diagram below provides a visual workflow with interactive features including
     scrolling="no">
 </iframe>
 
+[Run the Interactive Account Reconciliation Process Fullscreen](main.html){ .md-button .md-button--primary }
+
 You can include this MicroSim in your web page by copying the following lines.
 ```yml
 <iframe src="https://dmccreary.github.io/personal-finance/sims/account-reconciliation/main.html"
