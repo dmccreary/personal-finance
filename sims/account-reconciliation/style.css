@@ -1,0 +1,21 @@
+/* Account Reconciliation Process - External Styles */
+/* Note: Most styles are inline in main.html for iframe compatibility */
+
+/* Additional print styles if needed */
+@media print {
+    @page {
+        margin: 0;
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+    }
+}
+
+/* Responsive adjustments for very narrow screens */
+@media (max-width: 400px) {
+    .mermaid text {
+        font-size: 14px !important;
+    }
+}

@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Account Reconciliation Process</title>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #ffffff;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+        }
+
+        .container {
+            width: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        #diagram-container {
+            width: 100%;
+            margin: 0;
+            padding: 8px 0;
+            background: white;
+        }
+
+        .mermaid {
+            width: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        .progress-container {
+            background: #f8f9fa;
+            padding: 12px;
+            border-bottom: 2px solid #dee2e6;
+            text-align: center;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 24px;
+            background: #e9ecef;
+            border-radius: 12px;
+            overflow: hidden;
+            margin: 8px 0;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #51cf66 0%, #43e97b 100%);
+            width: 0%;
+            transition: width 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            font-size: 12px;
+        }
+
+        .progress-text {
+            font-size: 14px;
+            color: #495057;
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+
+        .checklist-panel {
+            background: #f8f9fa;
+            padding: 16px;
+            border-top: 2px solid #dee2e6;
+        }
+
+        .checklist-title {
+            font-size: 16px;
+            font-weight: bold;
+            color: #212529;
+            margin-bottom: 12px;
+        }
+
+        .checklist-item {
+            display: flex;
+            align-items: center;
+            padding: 8px;
+            margin: 4px 0;
+            background: white;
+            border-radius: 6px;
+            border: 1px solid #dee2e6;
+            transition: all 0.2s ease;
+        }
+
+        .checklist-item:hover {
+            background: #e7f5ff;
+            border-color: #4facfe;
+        }
+
+        .checklist-item.completed {
+            background: #d3f9d8;
+            border-color: #51cf66;
+        }
+
+        .checklist-item input[type="checkbox"] {
+            width: 20px;
+            height: 20px;
+            margin-right: 10px;
+            cursor: pointer;
+        }
+
+        .checklist-item label {
+            flex: 1;
+            cursor: pointer;
+            font-size: 14px;
+            color: #212529;
+        }
+
+        .checklist-item.completed label {
+            text-decoration: line-through;
+            color: #495057;
+        }
+
+        .tooltip {
+            position: fixed;
+            background: #2c3e50;
+            color: white;
+            padding: 12px 16px;
+            border-radius: 8px;
+            font-size: 14px;
+            max-width: 300px;
+            z-index: 1000;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.2s ease;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+        }
+
+        .tooltip.show {
+            opacity: 1;
+        }
+
+        .tooltip::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            border: 8px solid transparent;
+            border-top-color: #2c3e50;
+        }
+
+        .formula-display {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            border-radius: 8px;
+            padding: 12px;
+            margin: 16px 0;
+            text-align: center;
+            display: none;
+        }
+
+        .formula-display.show {
+            display: block;
+        }
+
+        .formula-label {
+            font-size: 14px;
+            color: #856404;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+
+        .formula {
+            font-size: 20px;
+            font-family: 'Courier New', monospace;
+            color: #212529;
+            font-weight: bold;
+        }
+
+        .controls {
+            text-align: center;
+            padding: 12px;
+            background: #f8f9fa;
+            border-top: 2px solid #dee2e6;
+        }
+
+        .btn {
+            background: #4facfe;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            margin: 4px;
+            transition: all 0.2s ease;
+        }
+
+        .btn:hover {
+            background: #0083b0;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+
+        .btn-success {
+            background: #51cf66;
+        }
+
+        .btn-success:hover {
+            background: #43e97b;
+        }
+
+        .celebration {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) scale(0);
+            background: white;
+            padding: 40px;
+            border-radius: 16px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+            z-index: 2000;
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+
+        .celebration.show {
+            transform: translate(-50%, -50%) scale(1);
+        }
+
+        .celebration-icon {
+            font-size: 64px;
+            margin-bottom: 16px;
+        }
+
+        .celebration-text {
+            font-size: 24px;
+            font-weight: bold;
+            color: #51cf66;
+            margin-bottom: 8px;
+        }
+
+        .celebration-subtext {
+            font-size: 14px;
+            color: #6c757d;
+        }
+
+        @media print {
+            .progress-container,
+            .checklist-panel,
+            .controls {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Progress Tracker -->
+        <div class="progress-container">
+            <div class="progress-text">Reconciliation Progress</div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill">0%</div>
+            </div>
+        </div>
+
+        <!-- Mermaid Diagram -->
+        <div id="diagram-container">
+            <div class="mermaid">
+flowchart TD
+    Start("1. Download Bank Statement"):::dataNode
+    Step1["2. Gather Personal Records"]:::dataNode
+    Step2["3. Compare Beginning Balance"]:::processNode
+    Step3["4. Check Each Transaction"]:::processNode
+    Decision1{"5. All Transactions Match?"}:::decisionNode
+    Step4["6. Investigate Discrepancies"]:::processNode
+    Decision2{"7. Error or Fraud?"}:::decisionNode
+    Step5["8a. Contact Bank"]:::errorNode
+    Step6["8b. Update Personal Records"]:::processNode
+    Step7["9. Calculate Ending Balance"]:::processNode
+    Decision3{"10. Balances Match?"}:::decisionNode
+    Success("11. Mark Reconciliation Complete ✓"):::successNode
+
+    Start --> Step1 --> Step2 --> Step3 --> Decision1
+    Decision1 -->|Yes| Step7
+    Decision1 -->|No| Step4 --> Decision2
+    Decision2 -->|Error/Fraud| Step5 --> Step7
+    Decision2 -->|Your Mistake| Step6 --> Step7
+    Step7 --> Decision3
+    Decision3 -->|Yes| Success
+    Decision3 -->|No| Step4
+
+    classDef dataNode fill:#4facfe,stroke:#2c3e50,stroke-width:3px,color:#fff,font-size:16px
+    classDef processNode fill:#51cf66,stroke:#2c3e50,stroke-width:3px,color:#fff,font-size:16px
+    classDef decisionNode fill:#ffd93d,stroke:#2c3e50,stroke-width:3px,color:#2c3e50,font-size:16px
+    classDef errorNode fill:#ff6b6b,stroke:#2c3e50,stroke-width:3px,color:#fff,font-size:16px
+    classDef successNode fill:#43e97b,stroke:#2c3e50,stroke-width:3px,color:#fff,font-size:16px
+
+    linkStyle default stroke:#6c757d,stroke-width:2px,font-size:14px
+            </div>
+        </div>
+
+        <!-- Formula Display -->
+        <div class="formula-display" id="formulaDisplay">
+            <div class="formula-label">Ending Balance Formula:</div>
+            <div class="formula">B<sub>end</sub> = B<sub>start</sub> + D - W</div>
+            <div style="font-size: 12px; color: #6c757d; margin-top: 8px;">
+                (Beginning Balance + Deposits - Withdrawals)
+            </div>
+        </div>
+
+        <!-- Interactive Checklist -->
+        <div class="checklist-panel">
+            <div class="checklist-title">📋 Reconciliation Checklist</div>
+
+            <div class="checklist-item" data-step="0">
+                <input type="checkbox" id="check0">
+                <label for="check0">Statement downloaded</label>
+            </div>
+
+            <div class="checklist-item" data-step="1">
+                <input type="checkbox" id="check1">
+                <label for="check1">Records ready</label>
+            </div>
+
+            <div class="checklist-item" data-step="2">
+                <input type="checkbox" id="check2">
+                <label for="check2">Balances match (beginning)</label>
+            </div>
+
+            <div class="checklist-item" data-step="3">
+                <input type="checkbox" id="check3">
+                <label for="check3">All transactions reviewed</label>
+            </div>
+
+            <div class="checklist-item" data-step="4">
+                <input type="checkbox" id="check4">
+                <label for="check4">Discrepancies investigated (if needed)</label>
+            </div>
+
+            <div class="checklist-item" data-step="5">
+                <input type="checkbox" id="check5">
+                <label for="check5">Bank contacted or records updated (if needed)</label>
+            </div>
+
+            <div class="checklist-item" data-step="6">
+                <input type="checkbox" id="check6">
+                <label for="check6">Balance calculated</label>
+            </div>
+
+            <div class="checklist-item" data-step="7">
+                <input type="checkbox" id="check7">
+                <label for="check7">Balances match (ending)</label>
+            </div>
+
+            <div class="checklist-item" data-step="8">
+                <input type="checkbox" id="check8">
+                <label for="check8">Reconciliation complete!</label>
+            </div>
+        </div>
+
+        <!-- Controls -->
+        <div class="controls">
+            <button class="btn" onclick="resetChecklist()">Reset Checklist</button>
+            <button class="btn btn-success" onclick="downloadChecklist()">Download Printable Checklist</button>
+        </div>
+    </div>
+
+    <!-- Tooltip -->
+    <div class="tooltip" id="tooltip"></div>
+
+    <!-- Celebration Animation -->
+    <div class="celebration" id="celebration">
+        <div class="celebration-icon">✅</div>
+        <div class="celebration-text">Reconciliation Complete!</div>
+        <div class="celebration-subtext">Great job balancing your account!</div>
+    </div>
+
+    <script>
+        // Initialize Mermaid
+        mermaid.initialize({
+            startOnLoad: true,
+            theme: 'default',
+            flowchart: {
+                useMaxWidth: true,
+                htmlLabels: true,
+                curve: 'basis'
+            }
+        });
+
+        // Hover tooltips for each step
+        const tooltips = {
+            'Start': 'Access your statement through mobile app or website - usually under "Statements" section',
+            'Step1': 'Collect receipts, check your budgeting app, or review your transaction log',
+            'Step2': 'Does last month\'s ending balance equal this month\'s starting balance? If not, investigate why.',
+            'Step3': 'Go line by line through your statement. Mark off each transaction you recognize.',
+            'Decision1': 'Do all bank transactions appear in your records and vice versa?',
+            'Step4': 'Common causes: forgotten transactions, bank errors, pending items not yet cleared, or fraud.\n\n• Check if transaction is pending\n• Review receipts for that date\n• Search email for automatic payment confirmations\n• Look for duplicate charges\n• Identify unauthorized transactions',
+            'Decision2': 'Determine if the discrepancy is an innocent mistake or potential fraud',
+            'Step5': 'Call fraud department immediately. Don\'t wait. They\'ll freeze your account and investigate.',
+            'Step6': 'Add the missing transaction to your records. Adjust your budget if needed.',
+            'Step7': 'Beginning balance + deposits - withdrawals = ending balance\n\nFormula: B_end = B_start + D - W',
+            'Decision3': 'Does your calculated balance equal the bank\'s ending balance?',
+            'Success': 'Date your statement and save it. You\'re done for this month!'
+        };
+
+        // Setup tooltip functionality
+        setTimeout(() => {
+            const nodes = document.querySelectorAll('.node, .cluster');
+            const tooltip = document.getElementById('tooltip');
+
+            nodes.forEach((node, index) => {
+                const nodeId = Object.keys(tooltips)[index];
+                if (nodeId && tooltips[nodeId]) {
+                    node.style.cursor = 'help';
+
+                    node.addEventListener('mouseenter', (e) => {
+                        tooltip.textContent = tooltips[nodeId];
+                        tooltip.classList.add('show');
+
+                        const rect = node.getBoundingClientRect();
+                        tooltip.style.left = rect.left + rect.width / 2 + 'px';
+                        tooltip.style.top = rect.top - 10 + 'px';
+                        tooltip.style.transform = 'translate(-50%, -100%)';
+
+                        // Show formula for Step7
+                        if (nodeId === 'Step7') {
+                            document.getElementById('formulaDisplay').classList.add('show');
+                        }
+                    });
+
+                    node.addEventListener('mouseleave', () => {
+                        tooltip.classList.remove('show');
+                        document.getElementById('formulaDisplay').classList.remove('show');
+                    });
+                }
+            });
+        }, 1000);
+
+        // Checklist functionality
+        const checkboxes = document.querySelectorAll('.checklist-item input[type="checkbox"]');
+        const progressFill = document.getElementById('progressFill');
+        const celebration = document.getElementById('celebration');
+
+        checkboxes.forEach((checkbox, index) => {
+            checkbox.addEventListener('change', () => {
+                const item = checkbox.closest('.checklist-item');
+                if (checkbox.checked) {
+                    item.classList.add('completed');
+                } else {
+                    item.classList.remove('completed');
+                }
+                updateProgress();
+            });
+        });
+
+        function updateProgress() {
+            const total = checkboxes.length;
+            const checked = document.querySelectorAll('.checklist-item input:checked').length;
+            const percentage = Math.round((checked / total) * 100);
+
+            progressFill.style.width = percentage + '%';
+            progressFill.textContent = percentage + '%';
+
+            // Show celebration if all checked
+            if (percentage === 100) {
+                celebration.classList.add('show');
+                setTimeout(() => {
+                    celebration.classList.remove('show');
+                }, 3000);
+            }
+        }
+
+        function resetChecklist() {
+            checkboxes.forEach(checkbox => {
+                checkbox.checked = false;
+                checkbox.closest('.checklist-item').classList.remove('completed');
+            });
+            updateProgress();
+        }
+
+        function downloadChecklist() {
+            const checklist = `ACCOUNT RECONCILIATION CHECKLIST
+=====================================
+
+□ Download bank statement
+  → Access your statement through mobile app or website
+
+□ Gather personal records
+  → Collect receipts, check your budgeting app, or review your transaction log
+
+□ Compare beginning balance
+  → Does last month's ending balance equal this month's starting balance?
+
+□ Check each transaction
+  → Go line by line through your statement. Mark off each transaction.
+
+□ All transactions match?
+  → Do all bank transactions appear in your records and vice versa?
+
+□ Investigate discrepancies (if needed)
+  → Check for: forgotten transactions, bank errors, pending items, or fraud
+
+□ Contact bank OR update records (if needed)
+  → Bank errors/fraud: Call immediately
+  → Your mistake: Update your records and budget
+
+□ Calculate ending balance
+  → Formula: Beginning Balance + Deposits - Withdrawals = Ending Balance
+
+□ Balances match?
+  → Does your calculated balance equal the bank's ending balance?
+
+□ Mark reconciliation complete
+  → Date your statement and save it. You're done!
+
+=====================================
+Generated by Personal Finance Textbook
+`;
+
+            const blob = new Blob([checklist], { type: 'text/plain' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'account-reconciliation-checklist.txt';
+            a.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // Initialize progress
+        updateProgress();
+    </script>
+</body>
+</html>
