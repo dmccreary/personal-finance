@@ -1,0 +1,77 @@
+Type: Game
+
+Purpose: Help students practice categorizing expenses as needs or wants through interactive scenarios (Bloom's: Applying, Analyzing)
+
+Layout: Interactive decision tree with draggable expense items
+
+Main sections:
+
+- Top: "Drag each expense to the correct category"
+- Left column: "NEEDS" (green background)
+- Right column: "WANTS" (blue background)
+- Bottom: Expense cards to drag
+
+Expense cards (30 items to categorize):
+
+1. "Rent for apartment" → Need
+2. "Netflix subscription" → Want
+3. "Groceries - basic foods" → Need
+4. "Steak and premium foods" → Want (or partial want)
+5. "Car payment" → Need (if required for work) or Want (if not essential)
+6. "Car insurance" → Need
+7. "Health insurance" → Need
+8. "Gym membership" → Want
+9. "Electric bill" → Need
+10. "Internet service" → Need (in modern context)
+11. "Cable TV" → Want
+12. "Phone bill" → Need
+13. "Latest iPhone" → Want
+14. "Student loan payment" → Need
+15. "Coffee shop visits" → Want
+16. "Work clothes" → Need
+17. "Designer fashion" → Want
+18. "Prescription medication" → Need
+19. "Vitamins and supplements" → Want (usually)
+20. "Gas for commuting to work" → Need
+21. "Concert tickets" → Want
+22. "Emergency fund contribution" → Need
+23. "Vacation savings" → Want
+24. "Textbooks for classes" → Need
+25. "Gaming console" → Want
+26. "Minimum credit card payment" → Need
+27. "Extra debt payment" → Want (good want!)
+28. "Haircut" → Need (basic grooming)
+29. "Hair coloring/styling" → Want
+30. "Laundry" → Need
+
+Interactive features:
+
+- Drag and drop expense cards to categorize
+- Some items are "tricky" and could be either depending on context (shows "It depends!" when dropped)
+- Click expense for context: "Why this matters: ..." explanation
+- Progress tracker: "X/30 categorized correctly"
+- "Check answers" button provides feedback
+- For ambiguous items, popup explains: "This could be either! Here's why..."
+- Difficulty levels:
+- Easy mode: Clear-cut items only
+- Medium mode: Mix of clear and ambiguous
+- Hard mode: Many context-dependent items
+
+Special features:
+- "The Gray Area" middle column appears in hard mode for ambiguous items
+- Hovering over categorized item shows monthly cost impact
+- Summary shows: "Your needs: $X | Your wants: $Y | Ratio: Z%"
+- Tips section: "Remember: Wants aren't bad! Budget for them after needs and savings."
+
+Visual style:
+- Card-based interface with smooth drag-and-drop
+- Green (needs), Blue (wants), Yellow (gray area/depends)
+- Checkmarks for correct placements, "?" for ambiguous
+- Clean, gamified design to make learning fun
+
+Educational insights:
+- "Great job! Most people underestimate how many wants they have."
+- "Tip: The 'cheaper alternative' test helps clarify needs vs wants"
+- "Remember: Context matters. A car is a need if required for work, a want if you live on a bus line."
+
+Implementation: HTML/CSS/JavaScript with drag-and-drop library (interact.js or native HTML5 drag-and-drop)

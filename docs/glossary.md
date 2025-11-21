@@ -6,11 +6,71 @@ This glossary provides clear, concise definitions for key concepts covered in th
 
 ## A
 
+#### 401(k) Plan
+
+An employer-sponsored retirement savings plan that allows employees to contribute a portion of their pre-tax salary, often with matching contributions from employers.
+
+**Example:** In this class, we'll analyze how contributing to a 401(k) plan with a 5% employer match can potentially double your retirement savings compared to saving the same amount in a standard savings account.
+
 #### 401(k) Plans
 
 An employer-sponsored retirement savings plan that allows employees to contribute a portion of their pre-tax salary, often with matching contributions from employers.
 
 **Example:** In this class, we'll analyze how contributing to a 401(k) plan with a 5% employer match can potentially double your retirement savings compared to saving the same amount in a standard savings account.
+
+#### Account Features Comparison
+
+The systematic evaluation of banking products to identify differences in fees, interest rates, accessibility, and services.
+
+**Example:** In this class, you'll learn how to create comparison matrices for checking and savings accounts to select the best options for your needs.
+
+#### Account Fees
+
+Charges imposed by financial institutions for maintaining accounts or performing specific transactions.
+
+**Example:** This course teaches you how to identify and minimize account fees that can silently reduce your savings over time.
+
+#### Account Reconciliation
+
+The process of comparing bank statements with personal records to ensure accuracy and identify discrepancies or unauthorized transactions.
+
+**Example:** You'll practice account reconciliation techniques in this class to catch errors, fraud, and forgotten subscriptions before they impact your finances.
+
+#### ACH Transfers
+
+Automated Clearing House transfers; electronic bank-to-bank money movements that process in batches, typically taking 1-3 business days.
+
+**Example:** This course explains how ACH transfers offer a secure, low-cost method for paying bills and moving money between your accounts at different banks.
+
+#### Adjustable-Rate Mortgage
+
+A home loan with an interest rate that can change periodically based on market conditions, typically starting with a lower rate than fixed mortgages.
+
+**Example:** In this class, you'll analyze adjustable-rate mortgages to understand the trade-offs between lower initial payments and future rate uncertainty.
+
+#### Assets and Liabilities
+
+Assets are items of value owned by an individual, while liabilities are debts or financial obligations owed to others.
+
+**Example:** This course teaches you how to categorize your possessions and debts to calculate your net worth and track financial progress.
+
+#### ATM Usage
+
+The practice of using automated teller machines to perform banking transactions such as cash withdrawals, deposits, and balance inquiries.
+
+**Example:** You'll learn strategies in this class to minimize ATM fees by using in-network machines and understanding daily withdrawal limits.
+
+#### Auto Insurance
+
+Coverage that protects against financial loss from vehicle accidents, theft, or damage, required by law in most states.
+
+**Example:** This course helps you understand the different components of auto insurance and how to select appropriate coverage levels for your situation.
+
+#### Auto Loans
+
+Secured loans used to finance vehicle purchases, with the vehicle serving as collateral for the debt.
+
+**Example:** In this class, you'll calculate total auto loan costs including interest and compare financing options from dealers, banks, and credit unions.
 
 #### 529 Plans
 
@@ -30,6 +90,12 @@ An automated investment strategy that uses computer programs to execute trades b
 
 **Example:** During our investment module, you'll learn how algorithmic investing allows individual investors to implement sophisticated strategies previously available only to professional traders.
 
+#### Alternative Education Paths
+
+Non-traditional routes to career preparation including trade schools, apprenticeships, bootcamps, and online certifications.
+
+**Example:** This course evaluates alternative education paths that can lead to well-paying careers without traditional four-year degree costs and debt.
+
 #### Angel Investing
 
 The practice where wealthy individuals provide capital to startup companies in exchange for ownership equity or convertible debt.
@@ -44,6 +110,12 @@ The strategic distribution of investments across different asset classes based o
 
 ## B
 
+#### Automatic Savings
+
+The use of automated systems to regularly transfer funds from checking to savings accounts, facilitating consistent saving habits.
+
+**Example:** This course shows you how automatic savings through direct deposit splits or scheduled transfers can help you build wealth effortlessly.
+
 #### Balance Sheet
 
 A financial statement showing what an individual or organization owns (assets), owes (liabilities), and the difference between them (net worth/equity) at a specific point in time.
@@ -56,6 +128,12 @@ Charges imposed by financial institutions for account maintenance, transactions,
 
 **Example:** In our banking module, you'll learn how to identify and avoid common bank fees that can silently drain your accounts over time.
 
+#### Banking Security
+
+Protection measures and practices designed to safeguard financial accounts and personal information from theft, fraud, and unauthorized access.
+
+**Example:** This course covers essential banking security practices including strong passwords, two-factor authentication, and recognizing phishing attempts.
+
 #### Banking System
 
 The network of institutions and services that facilitate the holding, transferring, and lending of money within an economy.
@@ -67,6 +145,12 @@ The network of institutions and services that facilitate the holding, transferri
 A legal process that provides relief from debt when an individual or business cannot meet their financial obligations, with different chapters offering various solutions.
 
 **Example:** While we hope you'll never need this information, we'll discuss how bankruptcy serves as a last-resort financial safety net and the long-term implications for your credit.
+
+#### Bear Market
+
+A prolonged period of declining investment prices, typically defined as a 20% or greater drop from recent highs.
+
+**Example:** In this class, you'll learn how to maintain your investment strategy during bear markets rather than selling at the worst possible time.
 
 #### Behavioral Finance
 
@@ -92,11 +176,35 @@ A financial plan allocating expected income toward expected expenses, savings, a
 
 **Example:** You'll develop a personalized monthly budget during this course that aligns your spending with your values and financial goals.
 
+#### Budget Adjustment Strategies
+
+Techniques for modifying spending plans in response to changing income, expenses, or financial priorities.
+
+**Example:** This course teaches you flexible budget adjustment strategies to handle unexpected expenses or income changes without derailing your financial goals.
+
+#### Budget Tracking Tools
+
+Software applications, spreadsheets, or paper systems used to monitor income and expenses against planned amounts.
+
+**Example:** You'll evaluate various budget tracking tools in this class, from simple spreadsheets to sophisticated apps that automatically categorize transactions.
+
 #### Building Credit
 
 The process of establishing and improving creditworthiness through responsible financial behavior to enhance credit scores and borrowing capabilities.
 
 **Example:** We'll explore concrete strategies for building credit, such as becoming an authorized user on a parent's credit card and making small, regular purchases that you pay off immediately.
+
+#### Building Credit History
+
+The process of establishing a track record of responsible borrowing and repayment over time.
+
+**Example:** This course explains how building credit history through consistent, on-time payments creates opportunities for better loan terms in the future.
+
+#### Bull Market
+
+A sustained period of rising investment prices, characterized by investor optimism and strong economic indicators.
+
+**Example:** This course explains how to take advantage of bull markets while maintaining diversification to protect against inevitable market corrections.
 
 #### Buy Now Pay Later Services
 
@@ -105,6 +213,24 @@ Financial products allowing consumers to purchase items immediately and pay for 
 **Example:** This class will analyze the benefits and potential pitfalls of buy now pay later services that have become increasingly popular among young consumers.
 
 ## C
+
+#### Capital Gains
+
+Profits earned from selling an investment for more than its purchase price, subject to capital gains tax.
+
+**Example:** This course explains how capital gains taxes differ for short-term (under one year) and long-term holdings, affecting your investment strategy.
+
+#### Career Exploration
+
+The process of researching and evaluating different career paths to match personal interests, skills, and financial goals.
+
+**Example:** In this class, you'll learn how to assess career options based on income potential, job satisfaction, and alignment with your values.
+
+#### Cash Flow Management
+
+The practice of monitoring and optimizing the timing and amounts of money flowing into and out of accounts.
+
+**Example:** This course teaches cash flow management techniques to ensure you always have sufficient funds for obligations while maximizing savings opportunities.
 
 #### Cash Flow Statement
 
@@ -160,11 +286,29 @@ Physical items collected and valued for their rarity, condition, historical sign
 
 **Example:** In our alternative investments module, you'll analyze whether collectibles like limited-edition sneakers can be viable investments or if they're better viewed as consumption purchases.
 
+#### College Cost Estimation
+
+The process of calculating the total expenses for attending college, including tuition, fees, room, board, and other costs.
+
+**Example:** You'll learn to use net price calculators in this class to estimate actual college costs after scholarships and grants.
+
 #### College Funding
 
 The strategies and vehicles used to save and pay for higher education expenses.
 
 **Example:** This course evaluates various college funding approaches beyond student loans, including 529 plans, scholarships, work-study programs, and income-sharing agreements.
+
+#### College ROI
+
+Return on investment for higher education, comparing the cost of degree programs with expected earnings increases.
+
+**Example:** This course teaches you to calculate college ROI by comparing total educational costs against projected lifetime earnings for different degree programs.
+
+#### Collision Coverage
+
+Auto insurance that pays for vehicle damage from collisions with other vehicles or objects, regardless of fault.
+
+**Example:** You'll learn in this class when collision coverage is necessary and when dropping it makes financial sense for older vehicles.
 
 #### Collision Insurance
 
@@ -184,6 +328,18 @@ Basic goods and raw materials, such as gold, oil, or agricultural products, that
 
 **Example:** We'll examine how commodities like gold can serve as inflation hedges in your investment portfolio during economic uncertainty.
 
+#### Comparison Shopping
+
+The practice of comparing prices, features, and terms across multiple providers before making purchase decisions.
+
+**Example:** This course demonstrates comparison shopping techniques for major purchases like insurance, banking services, and loans to save thousands of dollars.
+
+#### Comprehensive Coverage
+
+Auto insurance protecting against non-collision damage such as theft, vandalism, weather, or falling objects.
+
+**Example:** In this class, you'll evaluate whether comprehensive coverage is cost-effective based on your vehicle value and geographic risks.
+
 #### Compound Interest
 
 The interest earned on both the initial principal and the accumulated interest over time, resulting in accelerated growth of savings or investments.
@@ -195,6 +351,24 @@ The interest earned on both the initial principal and the accumulated interest o
 Auto insurance coverage that pays for damage to your vehicle caused by events other than collisions, such as theft, vandalism, natural disasters, or falling objects.
 
 **Example:** In our risk management section, you'll evaluate whether comprehensive insurance is worth the premium cost based on factors like your vehicle's value and where you live.
+
+#### Conventional Loans
+
+Mortgage loans not insured or guaranteed by the federal government, typically requiring higher credit scores and down payments than government-backed loans.
+
+**Example:** This course compares conventional loans with FHA and VA loans to help you determine which mortgage type best suits your financial situation.
+
+#### Co-payment
+
+A fixed amount paid by the insured for covered healthcare services, with the insurance company paying the remainder.
+
+**Example:** This course explains how co-payments differ from deductibles and how they affect your total out-of-pocket healthcare expenses.
+
+#### Corporate Bonds
+
+Debt securities issued by corporations to raise capital, offering higher yields than government bonds but with greater default risk.
+
+**Example:** In this class, you'll learn how corporate bonds can enhance portfolio returns while assessing the credit risk of different issuers.
 
 #### Consumer Debt
 
@@ -214,11 +388,53 @@ Companies that collect and maintain consumer credit information, which they use 
 
 **Example:** You'll learn how to contact the three major credit bureaus (Equifax, Experian, and TransUnion) to dispute inaccurate information on your credit reports.
 
+#### Credit Card APR
+
+Annual Percentage Rate; the yearly interest rate charged on credit card balances not paid in full by the due date.
+
+**Example:** You'll learn in this class how credit card APR significantly impacts the true cost of purchases when you carry a balance month to month.
+
+#### Credit Card Rewards
+
+Incentive programs offering cash back, points, or travel miles for credit card purchases.
+
+**Example:** This course teaches you to evaluate credit card rewards programs by calculating whether the benefits exceed any annual fees.
+
+#### Credit Cards
+
+Payment cards allowing users to borrow funds up to a preset limit to pay for goods and services, with repayment expected monthly.
+
+**Example:** In this class, you'll learn to use credit cards responsibly to build credit while avoiding the debt trap that ensnares many young adults.
+
 #### Credit Counseling
 
 Professional guidance services that help individuals develop strategies to address credit problems and debt management.
 
 **Example:** In our debt management section, we'll explore situations where credit counseling services might be beneficial and how to identify reputable non-profit counselors.
+
+#### Credit Freeze
+
+A restriction placed on credit reports that prevents potential creditors from accessing credit history, protecting against identity theft.
+
+**Example:** This course explains how to implement credit freezes as a powerful identity theft prevention tool that you can lift temporarily when needed.
+
+#### Credit Mix
+
+The variety of credit account types in a person's credit history, including credit cards, loans, and mortgages.
+
+**Example:** You'll learn in this class how credit mix represents 10% of your credit score and why having diverse credit types can improve your score.
+
+#### Credit Monitoring
+
+Regular review of credit reports and scores to detect errors, fraud, or unexpected changes.
+
+**Example:** This course demonstrates how to set up free credit monitoring to receive alerts about new accounts or inquiries on your credit reports.
+
+#### Credit Report
+
+A detailed record of an individual's credit history compiled by credit bureaus and used by lenders to assess creditworthiness.
+
+**Example:** In this class, you'll obtain and review your free annual credit reports from all three bureaus to identify and dispute any errors.
 
 #### Credit Reports
 
@@ -231,6 +447,12 @@ Detailed summaries of an individual's credit history, including payment records,
 A numerical representation of an individual's creditworthiness based on their credit history, commonly used by lenders to assess the likelihood of repayment.
 
 **Example:** You'll discover the five factors that determine your credit score and specific actions you can take to improve each component.
+
+#### Credit Utilization Ratio
+
+The percentage of available credit currently being used, calculated by dividing total credit card balances by total credit limits.
+
+**Example:** This course teaches you to keep your credit utilization ratio below 30% to optimize your credit score while maintaining financial flexibility.
 
 #### Credit Unions
 
@@ -258,6 +480,18 @@ The process of converting one country's currency into another, with rates that f
 
 ## D
 
+#### Debit Cards
+
+Payment cards that directly deduct funds from a linked checking account when used for purchases or ATM withdrawals.
+
+**Example:** This course explains the security and budgeting advantages of debit cards compared to credit cards for daily transactions.
+
+#### Debt Avalanche Method
+
+A debt repayment strategy focusing on paying off debts with the highest interest rates first while making minimum payments on others.
+
+**Example:** You'll calculate in this class how the debt avalanche method saves more money in interest compared to other repayment strategies.
+
 #### Debt Consolidation
 
 The process of combining multiple debts into a single loan, ideally with a lower interest rate or more favorable repayment terms.
@@ -270,6 +504,12 @@ Systematic approaches to paying down debt efficiently through methods like the s
 
 **Example:** You'll create personalized debt reduction strategies in class by analyzing your specific debts and choosing between interest-saving and motivational approaches.
 
+#### Debt Snowball Method
+
+A debt repayment strategy focusing on paying off the smallest debts first to build momentum and motivation.
+
+**Example:** This course compares the debt snowball method's psychological benefits against the debt avalanche method's interest savings.
+
 #### Debt Settlement
 
 The process of negotiating with creditors to allow a borrower to pay a lump sum that is less than the full amount owed to satisfy a debt.
@@ -281,6 +521,24 @@ The process of negotiating with creditors to allow a borrower to pay a lump sum 
 The amount a policyholder must pay out-of-pocket before insurance coverage begins to pay for covered losses.
 
 **Example:** Through practical exercises, you'll determine appropriate deductible levels for various insurance policies by balancing premium savings against your emergency fund capacity.
+
+#### Disability Insurance
+
+Insurance that provides income replacement if the policyholder becomes unable to work due to illness or injury.
+
+**Example:** This course explains why disability insurance could be more important than life insurance for young professionals whose greatest asset is their future earning potential.
+
+#### Dispute Resolution
+
+Processes for addressing disagreements with creditors, financial institutions, or service providers to achieve fair outcomes.
+
+**Example:** You'll learn in this class how to use dispute resolution mechanisms to challenge credit report errors and billing mistakes.
+
+#### Down Payment
+
+An initial upfront payment made when purchasing a high-value item, typically a home or vehicle, with the remainder financed through a loan.
+
+**Example:** This course teaches you to save strategically for down payments that reduce loan amounts, lower interest costs, and may eliminate mortgage insurance requirements.
 
 #### Deflation
 
@@ -326,17 +584,35 @@ An increase in the production of goods and services over time, typically measure
 
 **Example:** We'll analyze how economic growth affects employment opportunities, wage levels, and investment returns across different sectors of the economy.
 
+#### Economic Literacy
+
+The understanding of basic economic concepts and their application to personal and societal financial decisions.
+
+**Example:** This course builds economic literacy by explaining how concepts like supply and demand, inflation, and interest rates affect your daily financial choices.
+
 #### Economic Indicators
 
 Statistics that provide information about economic activity and performance, used to analyze current conditions and predict future developments.
 
 **Example:** You'll learn to interpret key economic indicators like unemployment rates and consumer confidence indexes to make more informed financial and investment decisions.
 
+#### Effective Tax Rate
+
+The percentage of total income paid in taxes, calculated by dividing total tax by total income.
+
+**Example:** This course teaches you to calculate your effective tax rate to understand your true tax burden and compare it to marginal rates.
+
 #### Electronic Banking
 
 Banking services accessible through electronic channels, including online platforms, mobile apps, and ATMs.
 
 **Example:** Our banking module will cover electronic banking security best practices, such as enabling two-factor authentication and recognizing phishing attempts.
+
+#### Electronic Payments
+
+Digital transactions that transfer funds without physical cash or checks, including credit card payments, wire transfers, and mobile payments.
+
+**Example:** This course explores various electronic payment methods to help you choose secure, convenient, and cost-effective options for different situations.
 
 #### Emergency Fund
 
@@ -350,11 +626,29 @@ Developing economies transitioning toward more advanced economic systems, often 
 
 **Example:** Our investment diversity section will explore how allocating a portion of your portfolio to emerging markets can potentially boost long-term returns while adding diversification.
 
+#### Employee Benefits
+
+Non-wage compensation provided by employers, including health insurance, retirement plans, paid time off, and other perks.
+
+**Example:** You'll learn in this class to evaluate employee benefits packages as a crucial component of total compensation when comparing job offers.
+
+#### Employer Matching
+
+Contributions made by employers to employee retirement accounts, typically matching a percentage of the employee's contributions.
+
+**Example:** This course emphasizes the importance of contributing enough to capture full employer matching, which provides an immediate 100% return on your investment.
+
 #### Employer Retirement Plans
 
 Workplace-sponsored programs that help employees save for retirement, often with tax advantages and potential employer matching contributions.
 
 **Example:** This course will explain why contributing at least enough to get your full employer match in retirement plans is one of the most important financial decisions you can make.
+
+#### Envelope Method
+
+A budgeting technique using physical or digital envelopes to allocate cash or funds to specific spending categories.
+
+**Example:** In this class, you'll explore how the envelope method provides tangible spending limits that can be more effective than abstract budget numbers.
 
 #### Equities
 
@@ -386,11 +680,29 @@ Exchange-Traded Funds; investment funds traded on stock exchanges that hold asse
 
 **Example:** This course will explain how ETFs combine the diversification benefits of mutual funds with the trading flexibility of individual stocks, often at lower cost.
 
+#### Exchange-Traded Funds
+
+Investment funds traded on stock exchanges that hold diversified portfolios of assets and typically track specific market indexes.
+
+**Example:** You'll learn in this class how Exchange-Traded Funds offer low-cost diversification and tax efficiency for long-term investors.
+
+#### Expense Categorization
+
+The process of classifying spending into defined groups such as housing, transportation, food, and entertainment for budgeting purposes.
+
+**Example:** This course teaches you systematic expense categorization to identify spending patterns and opportunities for savings.
+
 #### Expense Categories
 
 Classifications used to organize and analyze spending patterns for budgeting and financial planning purposes.
 
 **Example:** You'll develop personalized expense categories that align with your lifestyle, distinguishing between fixed necessities, variable expenses, and discretionary spending.
+
+#### Expense Ratios
+
+Annual fees charged by mutual funds and ETFs, expressed as a percentage of assets, to cover operating and management costs.
+
+**Example:** This course demonstrates how expense ratios compound over time, with a 1% difference potentially costing tens of thousands of dollars over decades.
 
 #### Expense Tracking
 
@@ -400,11 +712,23 @@ The process of recording and categorizing all expenditures to understand spendin
 
 ## F
 
+#### FAFSA
+
+Free Application for Federal Student Aid; the form used to apply for federal financial aid for college, including grants, loans, and work-study programs.
+
+**Example:** This course guides you through completing the FAFSA to maximize your eligibility for federal financial aid and need-based scholarships.
+
 #### Family Insurance Needs
 
 Insurance requirements specific to households with dependents, typically including enhanced life, health, disability, and property coverage.
 
 **Example:** This course will help you understand how family insurance needs evolve with the addition of children, requiring adjustments to coverage types and amounts.
+
+#### Federal Income Tax
+
+Tax levied by the federal government on individual and business income, calculated using a progressive rate structure.
+
+**Example:** This course demystifies federal income tax calculations, helping you understand marginal rates, deductions, and credits.
 
 #### Federal Reserve
 
@@ -417,6 +741,42 @@ The central banking system of the United States, responsible for monetary policy
 Education loans issued or guaranteed by the U.S. government, typically offering more favorable terms, protections, and repayment options than private alternatives.
 
 **Example:** You'll learn why federal student loans should generally be exhausted before considering private loans due to their lower interest rates and income-driven repayment options.
+
+#### FHA Loans
+
+Federal Housing Administration loans; government-insured mortgages that require lower down payments and credit scores than conventional loans.
+
+**Example:** This course explains how FHA loans can make homeownership accessible to first-time buyers who haven't yet saved large down payments.
+
+#### FICA Taxes
+
+Federal Insurance Contributions Act taxes; payroll taxes funding Social Security and Medicare programs, automatically withheld from wages.
+
+**Example:** You'll learn in this class how FICA taxes are calculated and why they appear as separate deductions on your paycheck.
+
+#### FICO Score
+
+A credit score model developed by Fair Isaac Corporation, ranging from 300-850, widely used by lenders to assess credit risk.
+
+**Example:** This course explains the five factors determining your FICO Score and strategies to improve each component for better lending terms.
+
+#### 50/30/20 Rule
+
+A budgeting guideline allocating 50% of after-tax income to needs, 30% to wants, and 20% to savings and debt repayment.
+
+**Example:** In this class, you'll apply the 50/30/20 rule to your income to create a balanced budget that covers necessities while building wealth.
+
+#### Financial Decision Making
+
+The process of evaluating options and choosing actions that best align with financial goals and values.
+
+**Example:** This course teaches structured financial decision making frameworks to help you make confident choices about major purchases, investments, and career moves.
+
+#### Financial Goal Setting
+
+The practice of establishing specific, measurable financial objectives with defined timelines and action plans.
+
+**Example:** You'll learn in this class how effective financial goal setting transforms vague aspirations into achievable milestones with clear progress indicators.
 
 #### Financial Goals
 
@@ -466,6 +826,12 @@ Resources and strategies providing protection against financial hardship, includ
 
 **Example:** This class will help you construct a comprehensive financial safety net with multiple layers of protection against life's unexpected challenges.
 
+#### Financial Records Organization
+
+The systematic arrangement and storage of financial documents for easy retrieval, tax preparation, and financial planning.
+
+**Example:** This course teaches you to establish a financial records organization system for tax documents, account statements, and important contracts.
+
 #### Financial Statements
 
 Documents that summarize an individual's or organization's financial position, including balance sheets, income statements, and cash flow statements.
@@ -496,17 +862,35 @@ Government decisions about taxation and spending, designed to influence economic
 
 **Example:** You'll learn how fiscal policy changes like tax cuts or infrastructure spending can affect your employment prospects and investment returns.
 
+#### Fixed Expenses
+
+Costs that remain relatively constant each month, such as rent, insurance premiums, and loan payments.
+
+**Example:** This course teaches you to identify fixed expenses as the foundation of your budget, which must be covered before allocating funds to variable expenses.
+
 #### Fixed Income Securities
 
 Investment instruments that pay investors fixed interest or dividend payments until their maturity date, including bonds and certificates of deposit.
 
 **Example:** This class will explain how fixed income securities can provide stability and income in investment portfolios, especially as you approach financial goals.
 
+#### Fixed-Rate Mortgage
+
+A home loan with an interest rate that remains constant throughout the entire loan term, providing payment predictability.
+
+**Example:** You'll learn in this class how fixed-rate mortgages offer payment certainty compared to adjustable-rate mortgages, beneficial when interest rates are low.
+
 #### Flexible Spending Accounts
 
 Employer-sponsored benefit programs allowing employees to set aside pre-tax dollars for specific expenses, typically for healthcare or dependent care.
 
 **Example:** Our workplace benefits section will demonstrate how Flexible Spending Accounts can save hundreds in taxes when used for predictable medical or childcare expenses.
+
+#### Form 1040
+
+The standard federal income tax form used by individuals to file their annual tax returns with the IRS.
+
+**Example:** This course walks you through completing Form 1040, explaining each section to demystify the tax filing process.
 
 #### Flood Insurance
 
@@ -544,6 +928,24 @@ Standardized contracts obligating parties to buy or sell an asset at a predeterm
 
 ## G
 
+#### Good Debt vs Bad Debt
+
+The distinction between debt that builds wealth or future earning potential (good) versus debt for depreciating assets or consumption (bad).
+
+**Example:** This course teaches you to distinguish good debt like student loans and mortgages from bad debt like high-interest credit cards for discretionary purchases.
+
+#### Grants
+
+Financial aid awards that do not require repayment, typically based on financial need or merit.
+
+**Example:** You'll learn in this class how to research and apply for grants that can significantly reduce college costs without creating debt burdens.
+
+#### Gross Income
+
+Total income earned before any deductions, taxes, or withholdings are subtracted.
+
+**Example:** This course explains how gross income differs from net income and why understanding both is crucial for budgeting and tax planning.
+
 #### Geopolitical Risks
 
 Potential for international political events or conflicts to affect investment markets and economic conditions.
@@ -569,6 +971,18 @@ An investment strategy focused on companies expected to grow at an above-average
 **Example:** This class compares growth investing with value investing approaches, helping you understand which style aligns better with your financial goals and risk tolerance.
 
 ## H
+
+#### Health Insurance
+
+Insurance coverage that pays for medical expenses, including doctor visits, hospital stays, prescriptions, and preventive care.
+
+**Example:** This course helps you compare health insurance plans by evaluating premiums, deductibles, networks, and total out-of-pocket costs.
+
+#### Health Savings Account
+
+Tax-advantaged savings account available to those with high-deductible health plans, usable for qualified medical expenses.
+
+**Example:** You'll discover in this class why Health Savings Accounts offer triple tax advantages for both current healthcare costs and long-term savings.
 
 #### HDHP Plans
 
@@ -606,6 +1020,12 @@ The sequence of steps involved in purchasing residential property, from initial 
 
 **Example:** Our housing module walks through the entire home buying process, from determining affordability to negotiating offers and securing financing.
 
+#### Homeowner's Insurance
+
+Property insurance covering a residence, its contents, and liability for accidents on the property.
+
+**Example:** This course explains how homeowner's insurance protects your largest asset and why understanding policy limits and exclusions is essential.
+
 #### Homeowners Insurance
 
 Property insurance that covers losses and damages to a person's residence along with furnishings and other assets, plus liability coverage for accidents on the property.
@@ -620,11 +1040,29 @@ Health Savings Accounts; tax-advantaged accounts used with high-deductible healt
 
 ## I
 
+#### Identity Theft
+
+The fraudulent acquisition and use of another person's personal information, typically for financial gain.
+
+**Example:** This course teaches you to recognize identity theft warning signs and respond quickly to minimize damage if your information is compromised.
+
+#### Identity Theft Prevention
+
+Proactive measures to protect personal information and reduce the risk of identity theft.
+
+**Example:** You'll learn identity theft prevention strategies in this class, including credit freezes, strong passwords, and careful document shredding.
+
 #### Identity Protection
 
 Measures taken to safeguard personal information and prevent its unauthorized use for fraudulent purposes.
 
 **Example:** Our personal security section covers comprehensive identity protection strategies, from securing digital accounts to monitoring credit reports regularly.
+
+#### Income Potential Research
+
+The process of investigating expected earnings for different careers, industries, and educational paths.
+
+**Example:** This course teaches you to research income potential using labor statistics, industry reports, and professional networks to inform career decisions.
 
 #### Income Sources
 
@@ -632,11 +1070,23 @@ Various channels through which individuals receive money, including wages, inves
 
 **Example:** You'll explore diverse income sources beyond traditional employment, including side hustles, passive investments, and entrepreneurial ventures.
 
+#### Income Statement
+
+A financial document summarizing income and expenses over a specific period to determine net income or loss.
+
+**Example:** In this class, you'll create a personal income statement to understand your cash flow patterns and identify improvement opportunities.
+
 #### Income Tax
 
 A tax levied on the financial income of individuals and businesses, typically calculated as a percentage of taxable income.
 
 **Example:** This course demystifies income tax calculations, helping you understand how tax brackets work and why your marginal tax rate differs from your effective tax rate.
+
+#### Income Tracking
+
+The practice of recording all sources of income to understand total earnings and plan finances accurately.
+
+**Example:** This course teaches income tracking techniques for both regular paychecks and irregular income sources like freelance work or investment returns.
 
 #### Index Funds
 
@@ -649,6 +1099,12 @@ Investment funds designed to track the performance of a specific market index by
 Tax-advantaged accounts designed to help individuals save for retirement, available in traditional (tax-deferred) and Roth (tax-free growth) variations.
 
 **Example:** This class will help you decide between traditional and Roth IRAs based on your current tax situation and expectations for future income and tax rates.
+
+#### Individual Stocks
+
+Shares of ownership in a single company, offering higher potential returns but greater risk than diversified funds.
+
+**Example:** This course explains when investing in individual stocks might be appropriate and why most beginners should focus on diversified funds first.
 
 #### Inflation
 
@@ -668,11 +1124,35 @@ Loans that are repaid through regular payments over a set period, typically incl
 
 **Example:** You'll analyze different types of installment debt to understand which forms can be considered "good debt" that potentially increases your net worth over time.
 
+#### Insurance Claims Process
+
+The procedure for filing and resolving claims with insurance companies after experiencing covered losses.
+
+**Example:** This course walks you through the insurance claims process so you'll be prepared to document losses and navigate settlements effectively.
+
 #### Insurance Coverage
 
 The specific protections provided by an insurance policy, detailing what losses or damages will be paid for by the insurer.
 
 **Example:** This class teaches you to assess insurance coverage needs based on your specific risk factors rather than industry averages or sales recommendations.
+
+#### Insurance Deductible
+
+The amount a policyholder must pay out-of-pocket before insurance coverage begins paying for a covered loss.
+
+**Example:** This course helps you select appropriate insurance deductibles by balancing lower premiums against your emergency fund capacity.
+
+#### Insurance Premium
+
+The regular payment made to an insurance company to maintain coverage, typically paid monthly, quarterly, or annually.
+
+**Example:** You'll learn in this class how to evaluate insurance premiums in context with coverage limits, deductibles, and your specific risk factors.
+
+#### Insurance Principles
+
+Fundamental concepts underlying insurance, including risk pooling, indemnification, and insurable interest.
+
+**Example:** This course explains insurance principles so you understand how insurance works and make informed decisions about coverage needs.
 
 #### Insurance Coverage Amounts
 
@@ -686,6 +1166,12 @@ Specialized vocabulary used in insurance policies and by insurance professionals
 
 **Example:** Our insurance module includes a comprehensive review of insurance terminology to help you understand the precise meanings of terms like premium, deductible, and exclusion.
 
+#### Interest Rate Calculation
+
+The mathematical process of determining the cost of borrowing or return on savings, typically expressed as an annual percentage.
+
+**Example:** This course teaches you interest rate calculation methods to understand the true cost of loans and returns on investments.
+
 #### Interest Rates
 
 The proportion of a loan charged as interest to the borrower, typically expressed as an annual percentage of the loan outstanding.
@@ -697,6 +1183,24 @@ The proportion of a loan charged as interest to the borrower, typically expresse
 Financial markets outside an investor's home country, offering additional investment opportunities and diversification benefits.
 
 **Example:** You'll explore how incorporating international markets into your investment strategy can reduce portfolio volatility while capturing global growth opportunities.
+
+#### Investment Account Types
+
+Various account structures for holding investments, each with distinct tax treatments, contribution limits, and withdrawal rules.
+
+**Example:** This course compares investment account types including taxable brokerage accounts, IRAs, and 401(k) plans to optimize your savings strategy.
+
+#### Investment Fundamentals
+
+Basic principles underlying successful investing, including risk-return relationships, diversification, and time horizons.
+
+**Example:** You'll learn investment fundamentals in this class that provide a foundation for making informed decisions throughout your life.
+
+#### Investment Time Horizon
+
+The length of time an investor expects to hold an investment before needing the funds.
+
+**Example:** This course teaches you to match investment time horizons with appropriate asset allocations, keeping short-term funds safe while maximizing long-term growth.
 
 #### IRA Accounts
 
@@ -711,6 +1215,18 @@ Eligible expenses that taxpayers can claim individually on tax returns instead o
 **Example:** Our tax planning section will help you track potential itemized deductions throughout the year and determine whether they're likely to exceed the standard deduction.
 
 ## L
+
+#### Length of Credit History
+
+The age of credit accounts, including the oldest account, newest account, and average age of all accounts.
+
+**Example:** This course explains how length of credit history affects 15% of your credit score and why keeping old accounts open benefits your score.
+
+#### Liability Coverage
+
+Insurance protection against claims resulting from injuries and damage to people or property.
+
+**Example:** You'll learn in this class why adequate liability coverage is essential to protect your assets and future earnings from lawsuits.
 
 #### Liability Insurance
 
@@ -730,6 +1246,18 @@ Flexible loans allowing borrowers to draw funds up to a preset limit and pay int
 
 **Example:** Our credit module compares personal lines of credit with credit cards, explaining when each might be the more appropriate borrowing tool.
 
+#### Loan Interest Rates
+
+The percentage charged on borrowed money, determining the cost of a loan beyond the principal amount.
+
+**Example:** This course teaches you to compare loan interest rates using APR to understand the true cost including fees and other charges.
+
+#### Loan Term Length
+
+The duration over which a loan must be repaid, significantly impacting monthly payments and total interest costs.
+
+**Example:** You'll analyze in this class how loan term length affects affordability and total cost, comparing 48-month versus 72-month auto loans.
+
 #### Long-Term Care Insurance
 
 Insurance coverage that helps pay for extended care services, including nursing home care, home health care, or assisted living.
@@ -737,6 +1265,12 @@ Insurance coverage that helps pay for extended care services, including nursing 
 **Example:** This class discusses when to consider purchasing long-term care insurance and alternative strategies for funding potential care needs in advanced age.
 
 ## M
+
+#### Marginal Tax Rate
+
+The tax rate applied to your last dollar of income, representing the percentage you pay on additional earnings.
+
+**Example:** This course explains how marginal tax rates guide financial decisions like whether to work overtime or make deductible contributions.
 
 #### Market Cycles
 
@@ -807,11 +1341,35 @@ MicroSims have input controls that the users manipulate to see how their financi
 **Example:** The [College Loan Payback](sims/college-loan-payback/index.md) MicroSim can teach you the benefits
 of paying off loans early to avoid excessive interest payments.
 
+#### Minimum Payments
+
+The smallest amount a creditor will accept each billing period to keep an account in good standing.
+
+**Example:** This course demonstrates how making only minimum payments on credit cards can extend debt repayment for decades and cost thousands in interest.
+
 #### Mobile Banking
 
 Financial services accessed through mobile devices, allowing users to conduct transactions, check balances, deposit checks, and manage accounts remotely.
 
 **Example:** You'll learn security best practices for mobile banking, such as using biometric authentication and avoiding public Wi-Fi for financial transactions.
+
+#### Mobile Banking Apps
+
+Software applications enabling banking services on smartphones and tablets, offering convenient account access.
+
+**Example:** This course helps you evaluate mobile banking apps based on features, security, and compatibility with budgeting tools.
+
+#### Money Management
+
+The process of budgeting, saving, investing, spending, and overseeing financial resources to achieve goals.
+
+**Example:** You'll develop comprehensive money management skills in this class, from tracking daily expenses to planning for long-term wealth building.
+
+#### Money Management Principles
+
+Fundamental guidelines for handling finances effectively, including living below your means and paying yourself first.
+
+**Example:** This course teaches timeless money management principles that form the foundation of financial success regardless of income level.
 
 #### Monetary Policy
 
@@ -837,6 +1395,12 @@ Investment vehicles that invest in short-term, low-risk securities such as gover
 
 **Example:** This course explains how money market funds serve as a cash management tool offering better returns than checking accounts while maintaining liquidity.
 
+#### Mortgage
+
+Long-term loans used to finance the purchase of real estate, with the property serving as collateral.
+
+**Example:** This course teaches you how to evaluate mortgage options and understand the long-term financial commitment of homeownership.
+
 #### Mortgage Loans
 
 Long-term loans used to finance the purchase of real estate, with the property serving as collateral.
@@ -849,6 +1413,12 @@ Various structures of home loans with different interest rates, terms, and payme
 
 **Example:** This class compares fixed-rate, adjustable-rate, FHA, VA, and other mortgage types to help you determine which would best suit your housing needs and financial situation.
 
+#### Municipal Bonds
+
+Debt securities issued by state and local governments to fund public projects, often offering tax-exempt interest income.
+
+**Example:** This course explains how municipal bonds can provide tax-advantaged income for investors in higher tax brackets.
+
 #### Mutual Funds
 
 Investment vehicles that pool money from multiple investors to purchase a diversified portfolio of stocks, bonds, or other securities, managed by professional fund managers.
@@ -857,13 +1427,67 @@ Investment vehicles that pool money from multiple investors to purchase a divers
 
 ## N
 
+#### Needs vs Wants Analysis
+
+The process of distinguishing between essential expenditures and discretionary spending to prioritize budget allocations.
+
+**Example:** This course teaches you needs vs wants analysis to make conscious spending decisions aligned with your financial goals.
+
+#### Negotiation Skills
+
+Abilities and techniques for discussing terms to reach mutually beneficial agreements in financial transactions.
+
+**Example:** You'll develop negotiation skills in this class for salary discussions, major purchases, and service contracts to save thousands of dollars.
+
+#### Net Income
+
+Income remaining after all deductions, taxes, and withholdings are subtracted from gross income.
+
+**Example:** This course emphasizes budgeting based on net income since that's the amount actually available for spending and saving.
+
+#### Net Price Calculator
+
+Online tools provided by colleges to estimate actual costs after scholarships, grants, and financial aid.
+
+**Example:** You'll learn to use net price calculators in this class to compare the true affordability of different colleges.
+
 #### Net Worth
 
 The difference between an individual's total assets and total liabilities, representing their overall financial position.
 
 **Example:** Throughout this course, you'll track your net worth as the most comprehensive measure of financial progress, rather than focusing solely on income.
 
+#### Net Worth Calculation
+
+The mathematical process of subtracting total liabilities from total assets to determine financial position.
+
+**Example:** This course teaches net worth calculation as a quarterly practice to monitor your financial trajectory.
+
+#### Net Worth Tracking
+
+The ongoing monitoring of net worth over time to measure financial progress toward goals.
+
+**Example:** You'll establish net worth tracking systems in this class to visualize wealth accumulation and identify areas for improvement.
+
+#### New Credit Inquiries
+
+Credit report entries showing when lenders or others have accessed your credit information, potentially affecting credit scores.
+
+**Example:** This course explains how new credit inquiries impact 10% of your credit score and strategies to minimize their effect.
+
+#### New vs Used Vehicles
+
+The comparison of purchasing brand-new cars versus previously owned vehicles, considering costs, depreciation, and warranties.
+
+**Example:** You'll analyze new vs used vehicles in this class, discovering how buying used can save tens of thousands in depreciation costs.
+
 ## O
+
+#### Out-of-Pocket Maximum
+
+The most an insured person pays for covered health services in a plan year, after which insurance covers 100% of costs.
+
+**Example:** This course teaches you to consider out-of-pocket maximums when comparing health insurance plans to understand worst-case cost scenarios.
 
 #### Online Banks
 
@@ -885,6 +1509,30 @@ Financial contracts giving buyers the right, but not the obligation, to buy or s
 
 ## P
 
+#### Password Security
+
+Practices and techniques for creating and managing strong, unique passwords to protect financial accounts.
+
+**Example:** This course teaches password security fundamentals including length, complexity, and the use of password managers for financial accounts.
+
+#### Pay Yourself First
+
+The savings strategy of setting aside money for savings and investments before paying other expenses.
+
+**Example:** You'll learn in this class how the pay yourself first principle through automatic transfers ensures consistent wealth building.
+
+#### Paycheck Withholding
+
+Amounts deducted from paychecks for taxes, insurance, retirement contributions, and other obligations before you receive net pay.
+
+**Example:** This course explains paycheck withholding components so you understand where your gross pay goes and can adjust withholdings appropriately.
+
+#### Payment History
+
+The record of on-time, late, or missed payments, representing the most important factor in credit scores.
+
+**Example:** You'll learn in this class how payment history accounts for 35% of your credit score, making on-time payments crucial.
+
 #### Payday Loans
 
 Short-term, high-interest loans typically due on the borrower's next payday.
@@ -903,11 +1551,29 @@ Online platforms connecting borrowers directly with individual lenders, bypassin
 
 **Example:** Our alternative banking module explores how peer-to-peer lending can potentially offer better rates for borrowers and higher returns for investors than traditional banking relationships.
 
+#### Peer-to-Peer Payment Apps
+
+Mobile applications enabling direct money transfers between individuals without traditional banking intermediaries.
+
+**Example:** This course compares peer-to-peer payment apps like Venmo, Zelle, and Cash App, evaluating their security features and transaction limits.
+
 #### Permanent Life Insurance
 
 Life insurance policies that provide coverage for the insured's entire life and include a cash value component that grows over time.
 
 **Example:** This class compares permanent life insurance with term policies, helping you determine which type best fits your protection needs and financial goals.
+
+#### Personal Balance Sheet
+
+A financial statement listing an individual's assets, liabilities, and net worth at a specific point in time.
+
+**Example:** This course guides you in creating a personal balance sheet to visualize your current financial position and set realistic goals.
+
+#### Personal Budgeting
+
+The process of creating a spending plan for individual or household finances based on income and expenses.
+
+**Example:** You'll master personal budgeting techniques in this class to align your spending with your values and financial objectives.
 
 #### Personal Finance
 
@@ -920,6 +1586,36 @@ The management of an individual's or family's financial resources, including bud
 Unsecured loans issued based on creditworthiness rather than collateral, typically used for consolidating debt, financing large purchases, or covering unexpected expenses.
 
 **Example:** You'll analyze scenarios where personal loans might be appropriate funding solutions compared to credit cards or other borrowing options.
+
+#### Phishing Scams
+
+Fraudulent attempts to obtain sensitive information by disguising as trustworthy entities in electronic communications.
+
+**Example:** This course teaches you to identify phishing scams targeting financial accounts through suspicious emails, texts, and phone calls.
+
+#### Ponzi Schemes
+
+Fraudulent investment operations paying returns to earlier investors using capital from newer investors rather than legitimate profits.
+
+**Example:** You'll learn to recognize Ponzi schemes in this class by identifying red flags like guaranteed high returns and pressure to recruit new investors.
+
+#### Portfolio Rebalancing
+
+The process of realigning investment portfolio allocations back to target percentages through buying or selling assets.
+
+**Example:** This course explains how portfolio rebalancing maintains desired risk levels and can improve long-term returns through systematic buying low and selling high.
+
+#### Private Student Loans
+
+Education loans issued by banks, credit unions, or online lenders with market-based rates and fewer protections than federal loans.
+
+**Example:** You'll learn when private student loans might be necessary in this class and how to secure the most favorable terms available.
+
+#### Professional Development
+
+Activities and education aimed at improving skills, knowledge, and career advancement potential.
+
+**Example:** This course emphasizes professional development as an investment in your earning potential with potentially the highest return of any financial decision.
 
 #### Policy Exclusions
 
@@ -944,6 +1640,12 @@ Rare, naturally occurring metallic elements with high economic value, such as go
 Unfair, deceptive, or fraudulent lending practices that impose unreasonable loan terms on borrowers, often targeting vulnerable populations.
 
 **Example:** You'll learn to identify warning signs of predatory lending, such as excessive fees, balloon payments, and pressure tactics to make quick decisions.
+
+#### Pyramid Schemes
+
+Illegal business models where participants profit primarily from recruiting others rather than selling legitimate products or services.
+
+**Example:** This course teaches you to distinguish pyramid schemes from legitimate multi-level marketing by examining compensation structures and product viability.
 
 #### Premiums
 
@@ -982,6 +1684,60 @@ The value of money expressed in terms of the amount of goods or services it can 
 **Example:** This course demonstrates how inflation erodes purchasing power over time, emphasizing why maintaining adequate investment growth is essential for long-term financial goals.
 
 ## R
+
+#### Renter's Insurance
+
+Coverage protecting tenants' personal belongings and providing liability protection within rented properties.
+
+**Example:** This course explains why renter's insurance is essential and affordable protection for your possessions and liability risks.
+
+#### Renting vs Buying
+
+The analysis comparing the financial and lifestyle implications of renting versus purchasing a home.
+
+**Example:** You'll conduct comprehensive renting vs buying analyses in this class considering payments, opportunity costs, taxes, and flexibility.
+
+#### Responsible Credit Card Use
+
+Practices for using credit cards wisely, including paying balances in full and monitoring spending patterns.
+
+**Example:** This course teaches responsible credit card use to build credit and earn rewards without accumulating debt.
+
+#### Retirement Savings Target
+
+The amount needed to accumulate by retirement to maintain desired lifestyle throughout retirement years.
+
+**Example:** You'll calculate your retirement savings target in this class based on expected expenses, Social Security, and desired retirement age.
+
+#### Risk and Return
+
+The fundamental investment principle that higher potential returns require accepting higher levels of risk.
+
+**Example:** This course explores the risk and return relationship across asset classes to set realistic expectations for your portfolio.
+
+#### Risk Management Strategy
+
+A comprehensive approach to identifying, assessing, and mitigating financial risks through insurance, diversification, and emergency planning.
+
+**Example:** You'll develop a risk management strategy in this class addressing major threats to your financial security.
+
+#### Risk Tolerance
+
+An individual's willingness and ability to withstand investment losses in pursuit of potential gains.
+
+**Example:** This course helps you assess your risk tolerance to select appropriate investments matching your comfort level and time horizon.
+
+#### Roth IRA
+
+An individual retirement account with after-tax contributions but tax-free qualified withdrawals in retirement.
+
+**Example:** You'll learn in this class when Roth IRA contributions make more sense than traditional IRA deductions based on your tax situation.
+
+#### Rule of 72
+
+A mathematical shortcut estimating how long an investment takes to double by dividing 72 by the annual rate of return.
+
+**Example:** This course teaches you the Rule of 72 to quickly evaluate investment growth rates and compound interest effects.
 
 #### Real Estate Investment Trusts
 
@@ -1068,6 +1824,60 @@ Digital platforms providing automated, algorithm-driven financial planning and i
 **Example:** You'll compare traditional financial advisors with robo-advisors to understand which might better serve your needs at different stages of your financial journey.
 
 ## S
+
+#### Salary Negotiation
+
+The process of discussing and reaching agreement on compensation terms with employers or potential employers.
+
+**Example:** This course teaches salary negotiation techniques that can add thousands to your lifetime earnings through higher starting salaries and raises.
+
+#### Scholarships
+
+Merit-based or need-based financial aid awards for education that do not require repayment.
+
+**Example:** You'll learn in this class how to research and apply for scholarships that can significantly reduce college costs without creating debt.
+
+#### Secured Debt
+
+Loans backed by collateral that lenders can seize if borrowers default, typically offering lower interest rates than unsecured debt.
+
+**Example:** This course explains how secured debt like mortgages and auto loans typically cost less than unsecured debt due to reduced lender risk.
+
+#### Side Hustles
+
+Part-time income-generating activities pursued alongside primary employment to increase earnings or develop skills.
+
+**Example:** You'll explore various side hustles in this class to diversify income sources and accelerate progress toward financial goals.
+
+#### Six-Month Emergency Fund
+
+Savings equal to six months of essential expenses, providing extended financial security during major disruptions.
+
+**Example:** This course helps you build toward a six-month emergency fund as protection against prolonged job loss or disability.
+
+#### SMART Goals Framework
+
+A goal-setting methodology using Specific, Measurable, Achievable, Relevant, and Time-bound criteria for effective planning.
+
+**Example:** You'll apply the SMART goals framework in this class to transform vague aspirations into actionable financial plans.
+
+#### Spending Patterns Analysis
+
+The examination of spending habits over time to identify trends, opportunities for savings, and alignment with values.
+
+**Example:** This course teaches spending patterns analysis to reveal unconscious habits and prioritize changes with the greatest financial impact.
+
+#### State Income Tax
+
+Tax levied by state governments on income earned within or by residents of the state.
+
+**Example:** You'll learn in this class how state income tax rates vary dramatically, potentially influencing relocation decisions.
+
+#### Stock Market
+
+The collection of markets and exchanges where stocks are bought, sold, and issued, facilitating capital formation and investment.
+
+**Example:** This course demystifies the stock market to help you understand how it functions and your role as an investor.
 
 #### Sales Tax
 
@@ -1161,6 +1971,84 @@ Money borrowed to finance higher education expenses, available through federal g
 
 ## T
 
+#### Tax Brackets
+
+Income ranges taxed at progressively higher rates in the U.S. federal income tax system.
+
+**Example:** This course explains how tax brackets work and why understanding them helps optimize financial decisions like retirement contributions.
+
+#### Tax Deductions
+
+Expenses that can be subtracted from gross income to reduce taxable income and overall tax liability.
+
+**Example:** You'll learn in this class to identify and track tax deductions throughout the year to minimize your tax bill legally.
+
+#### Tax Filing
+
+The process of submitting required tax forms and payment information to federal and state tax authorities.
+
+**Example:** This course guides you through tax filing procedures to ensure accurate, timely submission and maximize refunds or minimize payments.
+
+#### Tax Planning
+
+Strategic decision-making throughout the year to minimize tax liability through legal deductions, credits, and timing.
+
+**Example:** You'll develop tax planning strategies in this class to reduce lifetime tax costs and keep more of your earnings.
+
+#### Tax-Advantaged Accounts
+
+Investment and savings accounts offering special tax treatment such as tax deductions, tax-deferred growth, or tax-free withdrawals.
+
+**Example:** This course explains how to maximize tax-advantaged accounts like IRAs, 401(k)s, and HSAs to accelerate wealth building.
+
+#### Taxable Investment Accounts
+
+Brokerage accounts without special tax benefits, subject to taxes on dividends, interest, and capital gains.
+
+**Example:** You'll learn in this class when taxable investment accounts complement tax-advantaged accounts for flexible, penalty-free access to funds.
+
+#### Three-Month Emergency Fund
+
+Savings equal to three months of essential expenses, providing basic financial security for temporary setbacks.
+
+**Example:** This course helps you build a three-month emergency fund as your first financial priority before pursuing other goals.
+
+#### Total Compensation Package
+
+The complete value of employment including salary, benefits, bonuses, retirement contributions, and perks.
+
+**Example:** You'll learn to evaluate total compensation packages in this class rather than focusing solely on salary when comparing job offers.
+
+#### Total Cost of Ownership
+
+The complete expense of owning an asset including purchase price, maintenance, insurance, taxes, and depreciation.
+
+**Example:** This course teaches total cost of ownership analysis for vehicles and homes to make informed purchase decisions.
+
+#### Trade-offs
+
+The economic concept that choosing one option requires giving up alternative options and their potential benefits.
+
+**Example:** You'll analyze financial trade-offs in this class to make conscious decisions aligned with your priorities and values.
+
+#### Traditional IRA
+
+An individual retirement account offering tax deductions for contributions with taxable withdrawals in retirement.
+
+**Example:** This course helps you determine when traditional IRA contributions provide greater benefits than Roth IRA contributions.
+
+#### Treasury Bonds
+
+Long-term debt securities issued by the U.S. government, paying semi-annual interest with maturities over 10 years.
+
+**Example:** You'll learn in this class how Treasury bonds provide safe, predictable income for conservative portions of investment portfolios.
+
+#### Two-Factor Authentication
+
+A security method requiring two forms of verification before granting access to accounts or systems.
+
+**Example:** This course emphasizes enabling two-factor authentication on all financial accounts to significantly reduce hacking risk.
+
 #### Tangible Assets
 
 Physical assets that have inherent value due to their physical properties, such as real estate, precious metals, art, and collectibles.
@@ -1211,6 +2099,18 @@ Debt obligations issued by the U.S. Department of the Treasury, including bills,
 
 ## U
 
+#### Umbrella Policy
+
+Supplemental liability insurance providing coverage beyond limits of other policies like auto and homeowners insurance.
+
+**Example:** This course explains how umbrella policies offer cost-effective protection for assets and future earnings against major liability claims.
+
+#### Unsecured Debt
+
+Loans not backed by collateral, relying solely on the borrower's creditworthiness, typically carrying higher interest rates.
+
+**Example:** You'll learn in this class how unsecured debt like credit cards and personal loans cost more than secured debt due to higher lender risk.
+
 #### U.S. Healthcare System
 
 The organization, financing, and delivery of healthcare services in the United States, including public programs, private insurance, and direct payment models.
@@ -1225,6 +2125,24 @@ Supplemental insurance providing additional liability coverage beyond the limits
 
 ## V
 
+#### VantageScore
+
+A credit scoring model developed by the three major credit bureaus as an alternative to FICO scores.
+
+**Example:** This course explains how VantageScore differs from FICO scores and why lenders may use either model to assess creditworthiness.
+
+#### Variable Expenses
+
+Costs that fluctuate from month to month, such as groceries, utilities, entertainment, and gasoline.
+
+**Example:** You'll learn in this class to budget for variable expenses using averages while building flexibility for month-to-month variations.
+
+#### Vehicle Depreciation
+
+The decline in a vehicle's value over time due to age, mileage, condition, and market factors.
+
+**Example:** This course demonstrates how vehicle depreciation represents the largest ownership cost and why buying used can significantly reduce this expense.
+
 #### Venture Capital
 
 Financing provided to early-stage, high-potential growth startup companies in exchange for equity ownership.
@@ -1232,6 +2150,12 @@ Financing provided to early-stage, high-potential growth startup companies in ex
 **Example:** You'll explore how venture capital differs from other forms of business financing and the stages of funding from seed capital through later investment rounds.
 
 ## W
+
+#### W-2 Form
+
+The IRS tax form employers provide to employees showing annual wages and taxes withheld from paychecks.
+
+**Example:** This course explains how to read your W-2 form to verify withholding accuracy and complete your tax return correctly.
 
 #### W-4 Form
 
@@ -1245,8 +2169,34 @@ The process of increasing net worth through systematic saving, investing, and as
 
 **Example:** Our comprehensive financial planning section introduces proven wealth-building principles including paying yourself first, leveraging compound growth, and maintaining a long-term perspective.
 
+#### Wealth Building Strategies
+
+Systematic approaches to accumulating assets through income optimization, strategic investing, and expense management.
+
+**Example:** This course teaches wealth building strategies applicable at any income level, from maximizing employer matches to tax-advantaged investing.
+
+#### Whole Life Insurance
+
+Permanent life insurance providing lifetime coverage with a cash value component that grows over time.
+
+**Example:** You'll compare whole life insurance with term policies in this class to determine which type best fits your protection and investment needs.
+
+#### Wire Transfers
+
+Electronic fund transfers between financial institutions, typically completed within hours for domestic transfers.
+
+**Example:** This course explains when wire transfers are necessary despite their cost and how to execute them securely for time-sensitive payments.
+
 #### Workplace Benefits
 
 Non-wage compensation provided to employees, including insurance coverage, retirement plans, paid time off, and various perks.
 
 **Example:** You'll learn to evaluate the full value of workplace benefits packages when comparing job offers, as these benefits often represent 20-30% of total compensation.
+
+## Z
+
+#### Zero-Based Budgeting
+
+A budgeting method where every dollar of income is allocated to specific expenses, savings, or debt repayment, with income minus expenses equaling zero.
+
+**Example:** This course teaches zero-based budgeting to ensure every dollar has a purpose, maximizing intentional spending and savings.

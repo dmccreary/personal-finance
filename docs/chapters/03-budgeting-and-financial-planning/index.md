@@ -83,14 +83,14 @@ Categorizing expenses means organizing all your spending into logical groups. Th
 
 Common expense categories:
 
-**Housing costs:**
+#### Housing costs:
 - Rent or mortgage payment
 - Utilities (electricity, gas, water, sewage)
 - Internet and phone service
 - Renter's insurance
 - Maintenance and repairs
 
-**Transportation:**
+#### Transportation:
 - Car payment or lease
 - Auto insurance
 - Gas and fuel
@@ -99,34 +99,34 @@ Common expense categories:
 - Maintenance and repairs
 - Vehicle registration
 
-**Food:**
+#### Food:
 - Groceries
 - Dining out (restaurants, takeout, delivery)
 - Coffee shops and snacks
 
-**Personal care:**
+#### Personal care:
 - Clothing and shoes
 - Haircuts and personal grooming
 - Toiletries and cosmetics
 
-**Healthcare:**
+#### Healthcare:
 - Health insurance premiums
 - Co-pays and deductibles
 - Prescriptions
 - Over-the-counter medications
 
-**Entertainment and recreation:**
+#### Entertainment and recreation:
 - Streaming services (Netflix, Spotify, etc.)
 - Hobbies and activities
 - Concerts, movies, events
 - Gym memberships
 
-**Education:**
+#### Education:
 - Tuition and fees
 - Textbooks and supplies
 - Student loan payments
 
-**Savings and debt:**
+#### Savings and debt:
 - Emergency fund contributions
 - Retirement savings
 - Other savings goals
@@ -168,7 +168,10 @@ Most budgets typically consist of 50-70% fixed expenses and 30-50% variable expe
 
 One of the most powerful budgeting skills is distinguishing between needs and wants. This distinction helps you prioritize spending and identify areas where you can cut back without sacrificing your wellbeing.
 
-**Needs** are expenses required for your basic survival and ability to earn income:
+#### Needs
+
+Needs are expenses required for your basic survival and ability to earn income:
+
 - Housing (shelter)
 - Basic food and water
 - Essential clothing
@@ -177,7 +180,10 @@ One of the most powerful budgeting skills is distinguishing between needs and wa
 - Insurance
 - Minimum debt payments
 
-**Wants** are everything else - they enhance your life but aren't strictly necessary:
+#### Wants
+
+Wants are everything else - they enhance your life but aren't strictly necessary:
+
 - Dining out and takeout
 - Entertainment and streaming services
 - Latest technology and gadgets
@@ -189,6 +195,7 @@ One of the most powerful budgeting skills is distinguishing between needs and wa
 The tricky part is that the line between needs and wants isn't always clear. You need food, but do you need organic produce and name-brand items? You need transportation, but do you need a new car or would a used one suffice? You need housing, but do you need a one-bedroom apartment alone or could you have roommates?
 
 **A useful test for needs vs. wants:**
+
 1. What happens if I don't have this? If the answer is "nothing major" or "I'll be less entertained," it's a want.
 2. Can I substitute something cheaper? If yes, the extra cost above the cheaper option is a want.
 3. Is this required for my health, safety, or ability to work? If no, probably a want.
@@ -199,80 +206,80 @@ Here's the important part: **wants aren't bad**. A budget with zero wants is uns
 
 <details markdown="1">
     <summary>Interactive Needs vs. Wants Decision Tree</summary>
-    Type: infographic
+Type: infographic
 
-    Purpose: Help students practice categorizing expenses as needs or wants through interactive scenarios (Bloom's: Applying, Analyzing)
+Purpose: Help students practice categorizing expenses as needs or wants through interactive scenarios (Bloom's: Applying, Analyzing)
 
-    Layout: Interactive decision tree with draggable expense items
+Layout: Interactive decision tree with draggable expense items
 
-    Main sections:
-    - Top: "Drag each expense to the correct category"
-    - Left column: "NEEDS" (green background)
-    - Right column: "WANTS" (blue background)
-    - Bottom: Expense cards to drag
+Main sections:
+- Top: "Drag each expense to the correct category"
+- Left column: "NEEDS" (green background)
+- Right column: "WANTS" (blue background)
+- Bottom: Expense cards to drag
 
-    Expense cards (30 items to categorize):
-    1. "Rent for apartment" → Need
-    2. "Netflix subscription" → Want
-    3. "Groceries - basic foods" → Need
-    4. "Steak and premium foods" → Want (or partial want)
-    5. "Car payment" → Need (if required for work) or Want (if not essential)
-    6. "Car insurance" → Need
-    7. "Health insurance" → Need
-    8. "Gym membership" → Want
-    9. "Electric bill" → Need
-    10. "Internet service" → Need (in modern context)
-    11. "Cable TV" → Want
-    12. "Phone bill" → Need
-    13. "Latest iPhone" → Want
-    14. "Student loan payment" → Need
-    15. "Coffee shop visits" → Want
-    16. "Work clothes" → Need
-    17. "Designer fashion" → Want
-    18. "Prescription medication" → Need
-    19. "Vitamins and supplements" → Want (usually)
-    20. "Gas for commuting to work" → Need
-    21. "Concert tickets" → Want
-    22. "Emergency fund contribution" → Need
-    23. "Vacation savings" → Want
-    24. "Textbooks for classes" → Need
-    25. "Gaming console" → Want
-    26. "Minimum credit card payment" → Need
-    27. "Extra debt payment" → Want (good want!)
-    28. "Haircut" → Need (basic grooming)
-    29. "Hair coloring/styling" → Want
-    30. "Laundry" → Need
+Expense cards (30 items to categorize):
+1. "Rent for apartment" → Need
+2. "Netflix subscription" → Want
+3. "Groceries - basic foods" → Need
+4. "Steak and premium foods" → Want (or partial want)
+5. "Car payment" → Need (if required for work) or Want (if not essential)
+6. "Car insurance" → Need
+7. "Health insurance" → Need
+8. "Gym membership" → Want
+9. "Electric bill" → Need
+10. "Internet service" → Need (in modern context)
+11. "Cable TV" → Want
+12. "Phone bill" → Need
+13. "Latest iPhone" → Want
+14. "Student loan payment" → Need
+15. "Coffee shop visits" → Want
+16. "Work clothes" → Need
+17. "Designer fashion" → Want
+18. "Prescription medication" → Need
+19. "Vitamins and supplements" → Want (usually)
+20. "Gas for commuting to work" → Need
+21. "Concert tickets" → Want
+22. "Emergency fund contribution" → Need
+23. "Vacation savings" → Want
+24. "Textbooks for classes" → Need
+25. "Gaming console" → Want
+26. "Minimum credit card payment" → Need
+27. "Extra debt payment" → Want (good want!)
+28. "Haircut" → Need (basic grooming)
+29. "Hair coloring/styling" → Want
+30. "Laundry" → Need
 
-    Interactive features:
-    - Drag and drop expense cards to categorize
-    - Some items are "tricky" and could be either depending on context (shows "It depends!" when dropped)
-    - Click expense for context: "Why this matters: ..." explanation
-    - Progress tracker: "X/30 categorized correctly"
-    - "Check answers" button provides feedback
-    - For ambiguous items, popup explains: "This could be either! Here's why..."
-    - Difficulty levels:
-      - Easy mode: Clear-cut items only
-      - Medium mode: Mix of clear and ambiguous
-      - Hard mode: Many context-dependent items
+Interactive features:
+- Drag and drop expense cards to categorize
+- Some items are "tricky" and could be either depending on context (shows "It depends!" when dropped)
+- Click expense for context: "Why this matters: ..." explanation
+- Progress tracker: "X/30 categorized correctly"
+- "Check answers" button provides feedback
+- For ambiguous items, popup explains: "This could be either! Here's why..."
+- Difficulty levels:
+- Easy mode: Clear-cut items only
+- Medium mode: Mix of clear and ambiguous
+- Hard mode: Many context-dependent items
 
-    Special features:
-    - "The Gray Area" middle column appears in hard mode for ambiguous items
-    - Hovering over categorized item shows monthly cost impact
-    - Summary shows: "Your needs: $X | Your wants: $Y | Ratio: Z%"
-    - Tips section: "Remember: Wants aren't bad! Budget for them after needs and savings."
+Special features:
+- "The Gray Area" middle column appears in hard mode for ambiguous items
+- Hovering over categorized item shows monthly cost impact
+- Summary shows: "Your needs: $X | Your wants: $Y | Ratio: Z%"
+- Tips section: "Remember: Wants aren't bad! Budget for them after needs and savings."
 
-    Visual style:
-    - Card-based interface with smooth drag-and-drop
-    - Green (needs), Blue (wants), Yellow (gray area/depends)
-    - Checkmarks for correct placements, "?" for ambiguous
-    - Clean, gamified design to make learning fun
+Visual style:
+- Card-based interface with smooth drag-and-drop
+- Green (needs), Blue (wants), Yellow (gray area/depends)
+- Checkmarks for correct placements, "?" for ambiguous
+- Clean, gamified design to make learning fun
 
-    Educational insights:
-    - "Great job! Most people underestimate how many wants they have."
-    - "Tip: The 'cheaper alternative' test helps clarify needs vs wants"
-    - "Remember: Context matters. A car is a need if required for work, a want if you live on a bus line."
+Educational insights:
+- "Great job! Most people underestimate how many wants they have."
+- "Tip: The 'cheaper alternative' test helps clarify needs vs wants"
+- "Remember: Context matters. A car is a need if required for work, a want if you live on a bus line."
 
-    Implementation: HTML/CSS/JavaScript with drag-and-drop library (interact.js or native HTML5 drag-and-drop)
+Implementation: HTML/CSS/JavaScript with drag-and-drop library (interact.js or native HTML5 drag-and-drop)
 </details>
 
 ## Budgeting Methods
