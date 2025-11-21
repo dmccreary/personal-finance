@@ -90,7 +90,7 @@ nav:
     - Book Metrics: learning-graph/book-metrics.md
     - Chapter Metrics: learning-graph/chapter-metrics.md
     - Quiz Quality Report: learning-graph/quiz-generation-report.md
-    - FAQ Log: learning-graph/faq.md
+    - FAQ Log: learning-graph/faqs.md
 
   - Prompts:
     - Introduction: prompts/index.md
