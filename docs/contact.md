@@ -2,7 +2,7 @@
 
 ## Primary Contact
 
-[Dan McCreary]()
+[Dan McCreary](https://www.linkedin.com/in/danmccreary/)
 
 ## Content Review
 
