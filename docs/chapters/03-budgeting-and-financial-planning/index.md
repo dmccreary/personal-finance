@@ -203,20 +203,18 @@ The tricky part is that the line between needs and wants isn't always clear. You
 Here's the important part: **wants aren't bad**. A budget with zero wants is unsustainable and miserable. The goal is to be conscious about your wants, prioritize them, and ensure they fit within your income after covering needs and savings. You might decide streaming services are important to you but daily coffee runs aren't, or vice versa. The key is making intentional choices rather than spending reflexively.
 
 #### Diagram: Needs vs. Wants Classification
-
+<iframe src="../../sims/needs-and-wants/main.html" height="520px" width="100%" scrolling="no"></iframe>
+[Run the Needs vs. Wants Classification Game Fullscreen](../../sims/needs-and-wants/main.html)
 <details markdown="1">
-    <summary>Interactive Needs vs. Wants Decision Tree</summary>
-Type: infographic
+    <summary>Interactive Needs vs. Wants Classifier Game</summary>
+Type: Expensed Classification Game
 
 Purpose: Help students practice categorizing expenses as needs or wants through interactive scenarios (Bloom's: Applying, Analyzing)
 
-Layout: Interactive decision tree with draggable expense items
-
 Main sections:
-- Top: "Drag each expense to the correct category"
-- Left column: "NEEDS" (green background)
-- Right column: "WANTS" (blue background)
-- Bottom: Expense cards to drag
+- Top: "Describe an Expense"
+- Middle "Correct/Incorrect with a Got it button
+- Bottom Control Area Buttons: "Need" "Wants" "It Depends" and "Reset"
 
 Expense cards (30 items to categorize):
 1. "Rent for apartment" → Need
@@ -251,22 +249,13 @@ Expense cards (30 items to categorize):
 30. "Laundry" → Need
 
 Interactive features:
-- Drag and drop expense cards to categorize
-- Some items are "tricky" and could be either depending on context (shows "It depends!" when dropped)
-- Click expense for context: "Why this matters: ..." explanation
+- An expense appears at the top
+- The user must categorize it by pressing a Need or Want button
+- The right or wrong answer panel appears with feedback
+- After the user reads the response they press the "Got it" button
 - Progress tracker: "X/30 categorized correctly"
-- "Check answers" button provides feedback
+- After you classify an expense the feedback is displayed, right or wrong
 - For ambiguous items, popup explains: "This could be either! Here's why..."
-- Difficulty levels:
-- Easy mode: Clear-cut items only
-- Medium mode: Mix of clear and ambiguous
-- Hard mode: Many context-dependent items
-
-Special features:
-- "The Gray Area" middle column appears in hard mode for ambiguous items
-- Hovering over categorized item shows monthly cost impact
-- Summary shows: "Your needs: $X | Your wants: $Y | Ratio: Z%"
-- Tips section: "Remember: Wants aren't bad! Budget for them after needs and savings."
 
 Visual style:
 - Card-based interface with smooth drag-and-drop

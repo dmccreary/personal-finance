@@ -185,3 +185,195 @@ This MicroSim aligns with:
 - Can be embedded via iframe in any learning management system
 
 **For Educators**: This MicroSim can be easily modified to include expenses relevant to your students' specific context. Contact the developer for customization assistance.
+
+## Code Documentation
+
+### File Structure
+
+The Needs vs Wants MicroSim consists of four main files:
+
+- **needs-and-wants.js** - Core p5.js JavaScript simulation logic
+- **main.html** - HTML wrapper that loads p5.js and the simulation
+- **index.md** - This documentation page with lesson plans and examples
+- **metadata.json** - Educational metadata following Dublin Core standards
+
+### JavaScript Code Overview
+
+The simulation is built using p5.js with a clean separation between:
+
+1. **Canvas Layout**: Two-region design
+   - Drawing area (430px height) - displays expense cards and feedback
+   - Control area (80px height) - contains action buttons
+
+2. **Game State Variables**:
+   ```javascript
+   let expenses = [];              // Array of expense objects to categorize
+   let currentExpenseIndex = 0;    // Current question number
+   let score = 0;                  // Number of correct answers
+   let totalAnswered = 0;          // Total questions answered
+   let showingFeedback = false;    // Whether feedback is currently displayed
+   let gameComplete = false;       // Whether all questions answered
+   ```
+
+3. **Expense Data Structure**: Each expense has:
+   - `item` - The expense description (e.g., "Rent for apartment")
+   - `category` - Classification: "need", "want", or "depends"
+   - `difficulty` - Level: 1 (easy), 2 (medium), 3 (hard)
+   - `explanation` - Educational context for why it's categorized that way
+
+### Key Functions
+
+**setup()** - Initializes the canvas, creates buttons, loads expenses
+- Creates Need (green), Want (blue), It Depends (yellow) buttons
+- Creates Reset Game button
+- Creates "Got it!" button (initially hidden)
+- Shuffles expenses for varied gameplay
+
+**draw()** - Main rendering loop
+- Draws background regions (aliceblue for drawing, white for controls)
+- Displays title and score
+- Shows expense card or game complete screen
+- Renders feedback when answer is given
+
+**displayExpenseCard()** - Shows current expense
+- White card with silver border positioned at top (y=150)
+- 60px height, centered text
+- Only visible when not showing game complete
+
+**displayFeedback()** - Shows answer result
+- Yellow feedback box below expense card (y=300)
+- Displays correct/incorrect message in blue
+- Shows explanation in dark green
+- Reveals "Got it!" button to proceed
+
+**checkAnswer(answer)** - Processes user's categorization
+- Compares answer to correct category
+- Handles "depends" logic (accepts need or want)
+- Updates score and displays feedback
+- Prevents multiple answers per question
+
+**nextQuestion()** - Advances to next expense
+- Increments question index
+- Hides feedback and "Got it!" button
+- Checks for game completion
+
+**displayGameComplete()** - Final score screen
+- Shows percentage and personalized message
+- Provides educational insight about context
+- Appears when all expenses categorized
+
+### UI Control Flow
+
+1. User sees expense card with question
+2. User clicks Need, Want, or It Depends
+3. Feedback appears with explanation
+4. Answer buttons remain visible but disabled
+5. User clicks "Got it!" to continue
+6. Next question appears
+7. Repeat until all questions answered
+8. Final score displayed with Reset option
+
+### Responsive Design
+
+The simulation adapts to container width:
+- `updateCanvasSize()` reads container width
+- Canvas resizes on window resize events
+- Buttons reposition based on canvas width
+- Text wrapping adjusts to available space
+
+### Educational Design Patterns
+
+**Scaffolded Learning**:
+- Clear categorization (needs are essential)
+- Ambiguous items teach critical thinking
+- Explanations provide immediate learning
+
+**Feedback Design**:
+- Immediate (appears on click)
+- Explanatory (why it's categorized that way)
+- Non-punitive (encourages learning from mistakes)
+
+**Engagement Mechanics**:
+- Progress tracking (question X of Y)
+- Score display (reinforcement without high stakes)
+- Personalized completion messages
+- Button-controlled pacing (self-directed learning)
+
+### Customization Guide
+
+To modify expenses for your context:
+
+1. **Edit expenseData array** (lines 31-76):
+   ```javascript
+   {
+     item: "Your expense description",
+     category: "need", // or "want" or "depends"
+     difficulty: 1,    // 1=easy, 2=medium, 3=hard
+     explanation: "Why this is categorized this way"
+   }
+   ```
+
+2. **Adjust difficulty filtering**:
+   - Change `difficultyLevel` (line 29) to show only certain difficulty levels
+   - 1 = only clear-cut items
+   - 2 = includes some context-dependent items
+   - 3 = all items including ambiguous cases
+
+3. **Modify scoring messages** (lines 270-279):
+   - Adjust percentage thresholds
+   - Customize feedback messages for different score ranges
+
+4. **Change visual styling**:
+   - Button colors: lines 88-111 (Need, Want, Depends buttons)
+   - Feedback box color: line 219 (currently yellow)
+   - Card dimensions: lines 199-201 (expense card)
+
+### Testing the Code
+
+You can test the JavaScript directly in the p5.js editor:
+
+1. Go to [https://editor.p5js.org/](https://editor.p5js.org/)
+2. Copy the contents of `needs-and-wants.js`
+3. Paste into the editor
+4. Click Play to test
+5. Make modifications and see results immediately
+
+### Performance Considerations
+
+- **Minimal computational load**: Simple rendering, no complex physics
+- **30 questions**: Completes in 5-10 minutes
+- **No external API calls**: All data embedded in code
+- **Efficient redrawing**: Only updates on state changes
+- **Mobile-friendly**: Works on tablets and smartphones
+
+### Browser Compatibility
+
+Tested and working on:
+- Chrome 90+
+- Firefox 88+
+- Safari 14+
+- Edge 90+
+- Mobile Safari (iOS 14+)
+- Chrome Mobile (Android 10+)
+
+### Future Enhancement Ideas
+
+Potential extensions for advanced implementations:
+
+1. **Difficulty selector**: Let students choose easy/medium/hard
+2. **Category explanations**: Add "Why?" button for each category
+3. **Personal budget**: Have students add their own expenses
+4. **Data export**: Download results as CSV for analysis
+5. **Comparison mode**: Show how different people categorize same expense
+6. **Multiplayer**: Students compare categorizations with peers
+7. **Time tracking**: Analyze how long students spend on each question
+8. **Adaptive difficulty**: Adjust based on student performance
+
+### Support and Contribution
+
+This MicroSim is part of the Personal Finance with AI course:
+- **Repository**: [github.com/dmccreary/personal-finance](https://github.com/dmccreary/personal-finance)
+- **Issues**: Report bugs or request features via GitHub Issues
+- **License**: CC BY-NC-SA 4.0 for non-commercial educational use
+
+For questions about implementation or customization, please open an issue in the repository.
