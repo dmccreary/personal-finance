@@ -61,7 +61,8 @@ nav:
   - MicroSims:
     - Introduction: sims/index.md
     - Account Reconciliation: sims/account-reconciliation/index.md
-    - Learning Graph: sims/learning-graph/index.md
+    - Learning Graph v1: sims/learning-graph/index.md
+    - Graph Viewer v2: sims/graph-viewer/index.md
     - Compound Interest Visualizer: sims/compound-interest-visualizer/index.md
     - College Loan Payback: sims/college-loan-payback/index.md
     - Active vs Indexed Funds: sims/active-vs-indexed/index.md
