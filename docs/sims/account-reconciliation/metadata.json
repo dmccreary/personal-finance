@@ -1,0 +1,64 @@
+{
+  "title": "Interactive Account Reconciliation Process",
+  "description": "Interactive workflow diagram guiding students through the systematic process of reconciling bank accounts, featuring checkboxes for progress tracking, hover explanations, and step-by-step decision trees",
+  "subject": "Personal Finance",
+  "creator": "Claude AI with Mermaid Generator Skill",
+  "date": "2025-11-20",
+  "type": "Interactive Workflow Diagram",
+  "format": "text/html",
+  "language": "en-US",
+  "coverage": "High School / Introductory College",
+  "rights": "Educational Use",
+  "audience": "High School Students, Young Adults",
+  "diagram_type": "flowchart",
+  "direction": "TD",
+  "node_count": "12",
+  "edge_count": "14",
+  "concepts": [
+    "Account Reconciliation",
+    "Bank Statement Analysis",
+    "Transaction Verification",
+    "Discrepancy Investigation",
+    "Fraud Detection",
+    "Financial Record Keeping",
+    "Balance Calculation",
+    "Error Resolution",
+    "Consumer Protection"
+  ],
+  "bloom_taxonomy": "Apply",
+  "interactive_features": [
+    "Progress tracker with percentage completion",
+    "Clickable checkboxes for each reconciliation step",
+    "Hover tooltips with detailed explanations",
+    "Formula display for balance calculation",
+    "Celebration animation on completion",
+    "Downloadable printable checklist",
+    "Color-coded workflow paths"
+  ],
+  "color_coding": {
+    "blue": "Data gathering steps",
+    "green": "Process steps",
+    "yellow": "Decision points",
+    "red": "Error/fraud handling path"
+  },
+  "learning_objectives": [
+    "Apply systematic reconciliation procedures",
+    "Analyze discrepancies between records and statements",
+    "Evaluate error vs fraud scenarios",
+    "Calculate ending balances using formulas",
+    "Demonstrate proper investigation techniques"
+  ],
+  "version": "1.0",
+  "related_chapters": [
+    "Chapter 2: Banking and Cash Management",
+    "Chapter 3: Budgeting and Financial Planning",
+    "Chapter 9: Consumer Protection and Financial Security"
+  ],
+  "technical_requirements": {
+    "mermaid_version": "10.x",
+    "responsive": true,
+    "iframe_compatible": true,
+    "zero_margins": true,
+    "mobile_friendly": true
+  }
+}
