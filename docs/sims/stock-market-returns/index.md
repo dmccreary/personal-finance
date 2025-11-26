@@ -1,3 +1,11 @@
+---
+title: Historical Stock Market Returns
+description: Vertical bar chart showing US stock market return for the past 30 years with hover tooltips over each year.
+image: /sims/stock-market-returns/stock-market-returns.png
+og:image: /sims/stock-market-returns/stock-market-returns.png
+hide:
+    toc
+---
 # Historical Stock Market Returns
 
 <iframe src="main.html" height="560px" scrolling="no"></iframe>
