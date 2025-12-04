@@ -3,8 +3,7 @@ title: Historical Stock Market Returns
 description: Vertical bar chart showing US stock market return for the past 30 years with hover tooltips over each year.
 image: /sims/stock-market-returns/stock-market-returns.png
 og:image: /sims/stock-market-returns/stock-market-returns.png
-hide:
-    toc
+quality_score: 85
 ---
 # Historical Stock Market Returns
 
@@ -52,8 +51,46 @@ Here's a revised table of the S&P 500's annual returns from 2024 to 1995, with t
 | 1998 | 26.67             | Strong performance despite global financial crises, including the Russian default. |
 | 1997 | 31.01             | Robust gains amid Asian financial crisis. |
 | 1996 | 20.26             | Continued bull market driven by technology and internet growth. |
-| 1995 | 34.11             | Significant gains as the economy recovered from early 1990s recession. |
+| 1995 | 34.11             | Significant gains as the economy recovered from early 1990s recession. |
 
-*Data sourced from [MacroTrends](https://www.macrotrends.net/2526/sp-500-historical-annual-returns).*
+*Data sourced from [MacroTrends](https://www.macrotrends.net/2526/sp-500-historical-annual-returns).*
 
-Please note that these descriptions provide a general overview of factors influencing the market each year. Multiple elements can affect market performance, and the reasons listed are among the primary contributors for each respective year. 
+Please note that these descriptions provide a general overview of factors influencing the market each year. Multiple elements can affect market performance, and the reasons listed are among the primary contributors for each respective year.
+
+## Lesson Plan
+
+### Learning Objectives
+
+After completing this activity, students will be able to:
+
+1. **Analyze** historical stock market return patterns and variability
+2. **Identify** major economic events that influenced market performance
+3. **Calculate** average returns over different time periods
+4. **Evaluate** the concept of market volatility and risk
+
+### Target Audience
+
+High school and college students learning about investing.
+
+### Prerequisites
+
+- Basic understanding of percentages
+- Familiarity with stocks and the stock market
+
+### Activities
+
+1. **Exploration**: Identify the best and worst performing years in the past 30 years
+2. **Calculation**: Calculate the average annual return over different 10-year periods
+3. **Analysis**: Correlate market downturns with economic events
+
+### Assessment
+
+- Explain why negative return years don't mean investing is bad
+- Calculate what $10,000 would grow to over 30 years at the average return
+- Describe the relationship between recessions and market returns
+
+## References
+
+1. [MacroTrends - S&P 500 Historical Returns](https://www.macrotrends.net/2526/sp-500-historical-annual-returns) - Data source
+2. [Investopedia - S&P 500](https://www.investopedia.com/terms/s/sp500.asp) - Index explanation
+3. [Federal Reserve - Historical Recessions](https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions) - Economic context

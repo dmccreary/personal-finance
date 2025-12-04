@@ -3,9 +3,7 @@ title: Needs vs Wants
 description: An interactive categorization game where students practice distinguishing between essential expenses (needs) and optional expenses (wants).
 image: /sims/needs-and-wants/needs-and-wants.png
 og:image: /sims/needs-and-wants/needs-and-wants.png
-twitter:image: /sims/needs-and-wants/needs-and-wants.png
-social:
-   cards: false
+quality_score: 95
 ---
 
 # Needs vs Wants

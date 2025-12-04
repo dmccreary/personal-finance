@@ -1,10 +1,12 @@
+---
+title: Social Security Benefits Calculator
+description: Interactive visualization showing how Social Security claiming age affects lifetime benefits, with breakeven analysis for different starting ages.
+quality_score: 90
+---
+
 # Social Security Benefits: When to Start Taking Payments
 
 <iframe src="main.html" height="575px" scrolling="no"></iframe>
-
-<!--
-![Image Name](./image.png){ width="400" }
--->
 
 [Run the MicroSim](main.html){ .md-button .md-button--primary }
 [Edit this MicroSim](https://editor.p5js.org/dmccreary/sketches/dJq4nTXE4)
@@ -12,7 +14,7 @@
 ## Sample iframe
 
 ```html
-<iframe src="https://dmccreary.github.io/personal-finance/sims/seocial-security-crossover/main.html" height="535px"  scrolling="no"></iframe>
+<iframe src="https://dmccreary.github.io/personal-finance/sims/social-security-crossover/main.html" height="575px" scrolling="no"></iframe>
 ```
 
 ## Overview

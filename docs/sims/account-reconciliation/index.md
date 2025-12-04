@@ -1,3 +1,9 @@
+---
+title: Interactive Account Reconciliation Process
+description: Interactive workflow diagram guiding students through the systematic process of reconciling bank accounts with checkboxes and progress tracking.
+quality_score: 85
+---
+
 # Interactive Account Reconciliation Process
 
 ## Overview
@@ -18,11 +24,10 @@ The diagram below provides a visual workflow with interactive features including
 
 [Run the Interactive Account Reconciliation Process Fullscreen](main.html){ .md-button .md-button--primary }
 
-You can include this MicroSim in your web page by copying the following lines.
-```yml
-<iframe src="https://dmccreary.github.io/personal-finance/sims/account-reconciliation/main.html"
-    width="100%" height="1850" scrolling="no">
-</iframe>
+You can include this MicroSim in your web page by copying the following lines:
+
+```html
+<iframe src="https://dmccreary.github.io/personal-finance/sims/account-reconciliation/main.html" width="100%" height="1850" scrolling="no"></iframe>
 ```
 
 ## The Reconciliation Process
@@ -179,7 +184,9 @@ Forces regular review of spending patterns, helping you identify areas where you
 - **Beginning Balance**: The account balance at the start of the statement period
 - **Ending Balance**: The account balance at the end of the statement period
 
-## Learning Objectives
+## Lesson Plan
+
+### Learning Objectives
 
 After working through this interactive process, you should be able to:
 
@@ -189,8 +196,31 @@ After working through this interactive process, you should be able to:
 4. **Calculate** ending balances using the reconciliation formula
 5. **Demonstrate** proper investigation techniques for identifying transaction issues
 
+### Target Audience
+
+High school students and young adults learning personal finance fundamentals.
+
+### Prerequisites
+
+- Basic understanding of bank accounts and transactions
+- Familiarity with deposits and withdrawals
+
+### Activities
+
+1. **Interactive Walkthrough**: Complete the reconciliation workflow using the checkboxes
+2. **Practice Exercise**: Reconcile a sample bank statement with mock personal records
+3. **Discussion**: Share experiences with transaction discrepancies
+
+### Assessment
+
+- Complete all steps in the interactive diagram
+- Successfully calculate an ending balance using the formula
+- Identify at least three causes of common discrepancies
+
 **Bloom's Taxonomy Level**: Apply, Analyze
 
----
+## References
 
-*This interactive workflow diagram is part of the Personal Finance textbook's collection of educational MicroSims designed to teach practical financial skills through hands-on learning.*
+1. [Consumer Financial Protection Bureau - Managing a Checking Account](https://www.consumerfinance.gov/) - Official guidance on bank account management
+2. [Federal Deposit Insurance Corporation - Consumer Resources](https://www.fdic.gov/consumer-resource-center) - Information on consumer banking rights and protections
+3. [American Bankers Association - Account Management](https://www.aba.com/) - Industry resources on banking best practices

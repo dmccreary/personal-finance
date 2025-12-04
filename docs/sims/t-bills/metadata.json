@@ -1,0 +1,17 @@
+{
+  "title": "US Treasury Bills Yield",
+  "description": "Interactive chart showing historical Treasury Bill yields and their relationship to Federal Reserve policy and economic conditions.",
+  "creator": "Dan McCreary",
+  "date": "2024-01-15",
+  "subject": ["Treasury Bills", "Fixed Income", "Interest Rates", "Personal Finance"],
+  "type": "Interactive Visualization",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY 4.0",
+  "educationalLevel": "High School / Introductory College",
+  "audience": "High School Students, Young Adults",
+  "bloomLevel": ["Understand", "Analyze"],
+  "concepts": ["Treasury Bills", "Yield", "Risk-Free Rate", "Government Securities"],
+  "prerequisites": ["Basic Understanding of Interest Rates"],
+  "library": "p5.js"
+}

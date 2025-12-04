@@ -1,6 +1,20 @@
+---
+title: Learning Graph Viewer
+description: Interactive visualization tool for exploring concept dependencies in learning graphs with search, filtering, and statistics features.
+quality_score: 85
+---
+
 # Learning Graph Viewer
 
+<iframe src="main.html" height="700px" width="100%" scrolling="no"></iframe>
+
 [Run the Learning Graph Viewer](main.html){ .md-button .md-button--primary }
+
+## Sample iframe
+
+```html
+<iframe src="https://dmccreary.github.io/personal-finance/sims/graph-viewer/main.html" height="700px" width="100%" scrolling="no"></iframe>
+```
 
 This viewer reads a learning graph data from [../../learning-graph/learning-graph.json](../../learning-graph/learning-graph.json):
 
@@ -68,3 +82,40 @@ This viewer follows the standard vis.js architectural patterns:
 - **Concept exploration** - Search for specific concepts and see their dependencies
 - **Gap analysis** - Use orphan count to identify disconnected concepts
 - **Progressive learning** - Start with foundation concepts, gradually enable advanced topics
+
+## Lesson Plan
+
+### Learning Objectives
+
+After completing this activity, students will be able to:
+
+1. **Navigate** complex concept dependencies using interactive visualizations
+2. **Identify** prerequisite knowledge for advanced topics
+3. **Analyze** learning paths through interconnected concepts
+4. **Evaluate** which concepts are foundational vs advanced
+
+### Target Audience
+
+Students, educators, and curriculum designers exploring personal finance concepts.
+
+### Prerequisites
+
+- Basic familiarity with graph/network visualizations
+- Understanding of concept dependencies
+
+### Activities
+
+1. **Exploration**: Find all concepts that depend on "compound interest"
+2. **Path Tracing**: Identify the learning path from basic concepts to investing
+3. **Gap Analysis**: Locate orphan concepts that may need better connections
+
+### Assessment
+
+- Describe three paths through the learning graph
+- Identify which taxonomy category has the most concepts
+- Explain why prerequisite mapping improves learning outcomes
+
+## References
+
+1. [vis.js Documentation](https://visjs.org/) - Visualization library used
+2. [Learning Graph Research](https://scholar.google.com/scholar?q=learning+graph+prerequisite+learning) - Academic research on prerequisite learning

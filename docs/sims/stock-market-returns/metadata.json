@@ -1,0 +1,17 @@
+{
+  "title": "Historical Stock Market Returns",
+  "description": "Interactive bar chart showing S&P 500 annual returns from 1995 to 2024 with hover tooltips explaining market influences each year.",
+  "creator": "Dan McCreary",
+  "date": "2024-01-15",
+  "subject": ["Stock Market", "Investing", "S&P 500", "Personal Finance"],
+  "type": "Interactive Visualization",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY 4.0",
+  "educationalLevel": "High School / Introductory College",
+  "audience": "High School Students, Young Adults",
+  "bloomLevel": ["Understand", "Analyze"],
+  "concepts": ["Stock Market Returns", "Volatility", "Economic Cycles", "Long-term Investing"],
+  "prerequisites": ["Basic Math", "Understanding of Percentages"],
+  "library": "p5.js"
+}

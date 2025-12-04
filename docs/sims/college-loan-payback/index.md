@@ -1,3 +1,9 @@
+---
+title: College Loan Payback Calculator
+description: Interactive simulation helping students calculate repayment time for college loans based on years in school, tuition costs, interest rates, and monthly payments.
+quality_score: 85
+---
+
 # College Loan Payback MicroSim
 
 <iframe src="main.html" height="400" scrolling="no"></iframe>
@@ -47,5 +53,36 @@ On average, one might see $10,000–$15,000 per year for many trade school progr
 
 * [OpenAI Analysis of Student Loan Data](https://chatgpt.com/share/67e2c078-a9f4-8001-8a00-cb429fc8ec69)
 * [Education Data Average Student Loan Interest Rates](https://educationdata.org/average-student-loan-interest-rate)
-* [Claude Dialog 1](https://claude.ai/share/17dd8024-5969-4453-aca1-8c616fc793ba)
-* [Claude Dialog 2](https://claude.ai/share/e3d10094-c436-4fe2-b229-1b41b5004a09)
+* [Federal Student Aid](https://studentaid.gov/) - Official information on federal student loans
+
+## Lesson Plan
+
+### Learning Objectives
+
+After completing this activity, students will be able to:
+
+1. **Calculate** total college loan debt based on years and annual costs
+2. **Analyze** how interest rates affect repayment time
+3. **Evaluate** trade-offs between different college options
+4. **Apply** loan calculations to personal education planning
+
+### Target Audience
+
+High school juniors and seniors planning for college.
+
+### Prerequisites
+
+- Basic understanding of loans and interest
+- Familiarity with college cost structures
+
+### Activities
+
+1. **Research**: Find the actual cost of attendance at three colleges you're considering
+2. **Calculation**: Determine monthly payments needed to pay off loans in 10 years
+3. **Comparison**: Compare loan burden from community college + university vs 4-year private
+
+### Assessment
+
+- Calculate your expected total student debt based on your college plans
+- Determine your monthly payment needed after graduation
+- Identify strategies to reduce your total loan burden

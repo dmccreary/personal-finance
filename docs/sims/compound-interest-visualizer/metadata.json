@@ -1,0 +1,17 @@
+{
+  "title": "Compound Interest Visualizer",
+  "description": "Interactive visualization demonstrating how compound interest grows savings over time with adjustable principal, interest rate, and time period.",
+  "creator": "Dan McCreary",
+  "date": "2024-01-15",
+  "subject": ["Compound Interest", "Savings", "Investing", "Personal Finance"],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY 4.0",
+  "educationalLevel": "High School / Introductory College",
+  "audience": "High School Students, Young Adults",
+  "bloomLevel": ["Understand", "Apply", "Analyze"],
+  "concepts": ["Compound Interest", "Principal", "Time Value of Money", "Exponential Growth"],
+  "prerequisites": ["Basic Math", "Understanding of Percentages"],
+  "library": "p5.js"
+}

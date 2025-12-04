@@ -1,3 +1,9 @@
+---
+title: Active vs Indexed Fund Comparison
+description: Interactive simulation comparing investment growth between actively managed funds with fees and zero-fee index funds over time.
+quality_score: 90
+---
+
 # Active vs. Indexed MicroSim
 
 <iframe src="main.html" height="540px" scrolling="no"></iframe>
@@ -126,3 +132,9 @@ When you're young, time is your greatest investment advantage. Understanding how
 7. Based on this simulation, what questions might you want to ask before investing in a mutual fund or ETF?
 
 8. Calculate approximately how much money you would save in fees over 30 years if you invested $10,000 initially in an index fund charging 0.1% versus an actively managed fund charging 1.5%.
+
+## References
+
+1. [Vanguard - The Case for Index Funds](https://investor.vanguard.com/investor-resources-education) - Research on index fund performance
+2. [SPIVA - S&P Indices vs Active Funds Scorecard](https://www.spglobal.com/spdji/en/research-insights/spiva/) - Annual study comparing actively managed funds to their benchmarks
+3. [SEC - Mutual Fund Fees](https://www.sec.gov/investor/tools/mfcc/mfcc-intsec.htm) - Official guide to understanding investment fees

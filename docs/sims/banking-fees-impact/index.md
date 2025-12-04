@@ -1,3 +1,9 @@
+---
+title: Banking Fees Impact Chart
+description: Interactive stacked bar chart showing the real annual cost of banking fees across three user behavior types, demonstrating how awareness can save hundreds per year.
+quality_score: 90
+---
+
 # Banking Fees Impact Chart
 
 An interactive stacked bar chart visualization showing the real annual cost of various banking fees across three user behavior types: fee-aware bankers, average users, and fee-heavy users.
@@ -7,6 +13,14 @@ An interactive stacked bar chart visualization showing the real annual cost of v
 <iframe src="main.html" width="100%" height="570" scrolling="no"></iframe>
 
 [View Fullscreen](main.html){ .md-button .md-button--primary }
+
+## Sample iframe
+
+Copy this iframe to embed this chart on your website:
+
+```html
+<iframe src="https://dmccreary.github.io/personal-finance/sims/banking-fees-impact/main.html" width="100%" height="570" scrolling="no"></iframe>
+```
 
 ## Overview
 
@@ -362,6 +376,38 @@ This MicroSim uses several evidence-based teaching strategies:
 4. **Interactive exploration**: Tooltips and click events encourage active learning
 5. **Visual hierarchy**: Color coding and stacking make complex data digestible
 6. **Emotional engagement**: The annotation about "2-3 months of rent" creates urgency
+
+## Lesson Plan
+
+### Learning Objectives
+
+After completing this activity, students will be able to:
+
+1. **Identify** the major categories of banking fees
+2. **Analyze** how behavior changes affect total annual fees
+3. **Apply** fee avoidance strategies to their own banking
+4. **Evaluate** different bank account options based on fee structures
+
+### Target Audience
+
+High school students and young adults opening their first bank accounts.
+
+### Prerequisites
+
+- Basic understanding of bank accounts
+- Familiarity with checking and savings accounts
+
+### Activities
+
+1. **Self-Assessment**: Calculate your current annual banking fees from recent statements
+2. **Comparison**: Research fees at three different banks or credit unions
+3. **Action Plan**: Create a personalized plan to reduce fees by 50%
+
+### Assessment
+
+- Identify which user type best describes your current banking behavior
+- List three specific actions to reduce banking fees
+- Calculate potential annual savings from behavior changes
 
 ## Discussion Questions
 

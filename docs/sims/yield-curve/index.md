@@ -1,13 +1,21 @@
-## US Treasury Yield Curve Spread Chart
+---
+title: US Treasury Yield Curve Spread Chart
+description: Interactive visualization showing the spread between 10-year and 2-year Treasury rates, an important economic indicator for predicting recessions.
+quality_score: 90
+---
+
+# US Treasury Yield Curve Spread Chart
 
 <iframe src="main.html" height="550px" scrolling="no"></iframe>
 
-<!--
-![Image Name](./image.png){ width="400" }
--->
-
 [Run the MicroSim](main.html){ .md-button .md-button--primary }
-[Edit the Yield Curve MicroSim]https://editor.p5js.org/dmccreary/sketches/o8bAp0emu)
+[Edit the Yield Curve MicroSim](https://editor.p5js.org/dmccreary/sketches/o8bAp0emu)
+
+## Sample iframe
+
+```html
+<iframe src="https://dmccreary.github.io/personal-finance/sims/yield-curve/main.html" height="550px" scrolling="no"></iframe>
+```
 
 
 This companion visualization shows the spread between 10-year and 2-year rates (an important economic indicator):

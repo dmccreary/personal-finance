@@ -1,3 +1,9 @@
+---
+title: Auto Loan Payback Calculator
+description: Interactive simulation showing how loan term length affects monthly payments, total interest, and the underwater period when you owe more than the car is worth.
+quality_score: 85
+---
+
 # Auto Loan Payback MicroSim
 
 <iframe src="main.html" height="650" scrolling="no"></iframe>
@@ -71,3 +77,35 @@ where:
 - [Edmunds Auto Loan Calculator](https://www.edmunds.com/calculators/auto-loan.html)
 - [Consumer Reports: How Long Should Your Car Loan Be?](https://www.consumerreports.org/cars/car-financing/how-long-should-your-car-loan-be/)
 - [NerdWallet: Auto Loan Calculator](https://www.nerdwallet.com/calculator/auto-loan-calculator)
+
+## Lesson Plan
+
+### Learning Objectives
+
+After completing this activity, students will be able to:
+
+1. **Analyze** how different loan terms affect monthly payments and total interest paid
+2. **Evaluate** the relationship between loan balance and vehicle depreciation
+3. **Apply** the monthly payment formula to real-world scenarios
+4. **Identify** when a borrower becomes "underwater" on an auto loan
+
+### Target Audience
+
+High school students and young adults considering their first car purchase.
+
+### Prerequisites
+
+- Basic understanding of loans and interest
+- Familiarity with percentages and basic algebra
+
+### Activities
+
+1. **Exploration**: Adjust sliders to find the shortest loan term that fits a $400/month budget
+2. **Comparison**: Compare total interest paid for 36 vs 72 month loans
+3. **Analysis**: Identify at what month the borrower is no longer underwater
+
+### Assessment
+
+- Calculate the total cost difference between a 4-year and 6-year loan
+- Explain why financial advisors recommend a maximum 48-month term
+- Describe what "underwater" means and why it matters

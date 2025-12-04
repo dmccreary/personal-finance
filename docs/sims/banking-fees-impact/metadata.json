@@ -1,0 +1,17 @@
+{
+  "title": "Banking Fees Impact Chart",
+  "description": "Interactive stacked bar chart showing the real annual cost of banking fees across three user behavior types, demonstrating how awareness can save hundreds per year.",
+  "creator": "Dan McCreary",
+  "date": "2025-11-20",
+  "subject": ["Banking Fees", "Financial Awareness", "Personal Finance"],
+  "type": "Interactive Visualization",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY 4.0",
+  "educationalLevel": "High School / Introductory College",
+  "audience": "High School Students, Young Adults",
+  "bloomLevel": ["Understand", "Analyze", "Evaluate"],
+  "concepts": ["Banking Fees", "Overdraft", "ATM Fees", "Maintenance Fees", "Fee Avoidance"],
+  "prerequisites": ["Basic Understanding of Bank Accounts"],
+  "library": "Chart.js"
+}

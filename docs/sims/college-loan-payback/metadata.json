@@ -1,0 +1,17 @@
+{
+  "title": "College Loan Payback Calculator",
+  "description": "Interactive simulation helping students calculate repayment time for college loans based on years in school, tuition costs, interest rates, and monthly payments.",
+  "creator": "Dan McCreary",
+  "date": "2024-01-15",
+  "subject": ["Student Loans", "College Costs", "Loan Repayment", "Personal Finance"],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY 4.0",
+  "educationalLevel": "High School",
+  "audience": "High School Juniors and Seniors",
+  "bloomLevel": ["Apply", "Analyze", "Evaluate"],
+  "concepts": ["Student Loans", "Interest Rates", "Monthly Payments", "College Costs"],
+  "prerequisites": ["Basic Math", "Understanding of Loans"],
+  "library": "p5.js"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "US Treasury Yield Curve Spread Chart",
+  "description": "Interactive visualization showing the spread between 10-year and 2-year Treasury rates, an important economic indicator for predicting recessions.",
+  "creator": "Dan McCreary",
+  "date": "2024-01-15",
+  "subject": ["Yield Curve", "Treasury Securities", "Economic Indicators", "Personal Finance"],
+  "type": "Interactive Visualization",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY 4.0",
+  "educationalLevel": "High School / Introductory College",
+  "audience": "High School Students, Economics Students, Investors",
+  "bloomLevel": ["Understand", "Analyze", "Evaluate"],
+  "concepts": ["Yield Curve", "Interest Rate Spread", "Recession Prediction", "Economic Cycles"],
+  "prerequisites": ["Basic Understanding of Interest Rates", "Treasury Securities"],
+  "library": "p5.js"
+}

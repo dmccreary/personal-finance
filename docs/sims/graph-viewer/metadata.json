@@ -1,0 +1,17 @@
+{
+  "title": "Learning Graph Viewer",
+  "description": "Interactive visualization tool for exploring concept dependencies in learning graphs with search, filtering, and statistics features.",
+  "creator": "Dan McCreary",
+  "date": "2024-06-15",
+  "subject": ["Learning Graph", "Concept Dependencies", "Educational Technology", "Knowledge Visualization"],
+  "type": "Interactive Visualization",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY 4.0",
+  "educationalLevel": "All Levels",
+  "audience": "Students, Educators, Curriculum Designers",
+  "bloomLevel": ["Analyze", "Evaluate"],
+  "concepts": ["Concept Dependencies", "Learning Paths", "Prerequisite Knowledge", "Knowledge Graphs"],
+  "prerequisites": ["Basic Graph Understanding"],
+  "library": "vis.js"
+}
