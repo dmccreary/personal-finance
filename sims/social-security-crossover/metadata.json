@@ -1,0 +1,17 @@
+{
+  "title": "Social Security Benefits Calculator",
+  "description": "Interactive visualization showing how Social Security claiming age affects lifetime benefits, with breakeven analysis for different starting ages.",
+  "creator": "Dan McCreary",
+  "date": "2024-01-15",
+  "subject": ["Social Security", "Retirement Planning", "Benefits", "Personal Finance"],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY 4.0",
+  "educationalLevel": "High School / Introductory College",
+  "audience": "High School Students, Adults Planning Retirement",
+  "bloomLevel": ["Understand", "Apply", "Analyze", "Evaluate"],
+  "concepts": ["Social Security", "Claiming Age", "Breakeven Analysis", "Lifetime Benefits", "Retirement Planning"],
+  "prerequisites": ["Basic Math", "Understanding of Retirement Concepts"],
+  "library": "p5.js"
+}

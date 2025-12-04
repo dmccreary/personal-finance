@@ -1,0 +1,17 @@
+{
+  "title": "Annual US Interest Rate for Prior 30 Years",
+  "description": "Interactive chart showing the annual average Federal Funds interest rate in the US from 1995 to 2025, with historical context and economic analysis.",
+  "creator": "Dan McCreary",
+  "date": "2024-01-15",
+  "subject": ["Interest Rates", "Federal Reserve", "Monetary Policy", "Personal Finance"],
+  "type": "Interactive Visualization",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY 4.0",
+  "educationalLevel": "High School / Introductory College",
+  "audience": "High School Students, Young Adults",
+  "bloomLevel": ["Understand", "Analyze", "Evaluate"],
+  "concepts": ["Federal Funds Rate", "Monetary Policy", "Economic Cycles", "Interest Rate Impact"],
+  "prerequisites": ["Basic Economics", "Understanding of Borrowing"],
+  "library": "p5.js"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Auto Loan Payback Calculator",
+  "description": "Interactive simulation showing how loan term length affects monthly payments, total interest, and the underwater period when you owe more than the car is worth.",
+  "creator": "Dan McCreary",
+  "date": "2024-01-15",
+  "subject": ["Auto Loans", "Car Financing", "Depreciation", "Personal Finance"],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY 4.0",
+  "educationalLevel": "High School / Introductory College",
+  "audience": "High School Students, Young Adults",
+  "bloomLevel": ["Understand", "Apply", "Analyze"],
+  "concepts": ["Loan Term", "Monthly Payment", "Interest", "Depreciation", "Underwater Loan"],
+  "prerequisites": ["Basic Math", "Understanding of Loans"],
+  "library": "p5.js"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Annual US Inflation Rate",
+  "description": "Interactive chart showing the annual average inflation rate in the US from 1995 to 2025, demonstrating how prices change over time.",
+  "creator": "Dan McCreary",
+  "date": "2024-01-15",
+  "subject": ["Inflation", "Economics", "Consumer Price Index", "Personal Finance"],
+  "type": "Interactive Visualization",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY 4.0",
+  "educationalLevel": "High School / Introductory College",
+  "audience": "High School Students, Young Adults",
+  "bloomLevel": ["Understand", "Analyze"],
+  "concepts": ["Inflation", "CPI", "Purchasing Power", "Economic Indicators"],
+  "prerequisites": ["Basic Math", "Understanding of Percentages"],
+  "library": "p5.js"
+}

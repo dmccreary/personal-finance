@@ -1,0 +1,17 @@
+{
+  "title": "FICO Credit Score Spectrum",
+  "description": "Interactive visualization showing the FICO credit score ranges from 300-850 with color-coded categories and descriptions of each score range.",
+  "creator": "Dan McCreary",
+  "date": "2024-01-15",
+  "subject": ["Credit Score", "FICO", "Credit Rating", "Personal Finance"],
+  "type": "Interactive Visualization",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY 4.0",
+  "educationalLevel": "High School / Introductory College",
+  "audience": "High School Students, Young Adults",
+  "bloomLevel": ["Remember", "Understand", "Apply"],
+  "concepts": ["FICO Score", "Credit Rating", "Credit Categories", "Creditworthiness"],
+  "prerequisites": ["Basic Understanding of Borrowing"],
+  "library": "p5.js"
+}
