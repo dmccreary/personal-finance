@@ -3,15 +3,57 @@
   "description": "Interactive visualization showing how Social Security claiming age affects lifetime benefits, with breakeven analysis for different starting ages.",
   "creator": "Dan McCreary",
   "date": "2024-01-15",
-  "subject": ["Social Security", "Retirement Planning", "Benefits", "Personal Finance"],
+  "subject": [
+    "Social Security",
+    "Retirement Planning",
+    "Benefits",
+    "Personal Finance"
+  ],
   "type": "Interactive Simulation",
   "format": "text/html",
   "language": "en-US",
   "rights": "CC BY 4.0",
   "educationalLevel": "High School / Introductory College",
   "audience": "High School Students, Adults Planning Retirement",
-  "bloomLevel": ["Understand", "Apply", "Analyze", "Evaluate"],
-  "concepts": ["Social Security", "Claiming Age", "Breakeven Analysis", "Lifetime Benefits", "Retirement Planning"],
-  "prerequisites": ["Basic Math", "Understanding of Retirement Concepts"],
-  "library": "p5.js"
+  "bloomLevel": [
+    "Understand",
+    "Apply",
+    "Analyze",
+    "Evaluate"
+  ],
+  "concepts": [
+    "Social Security",
+    "Claiming Age",
+    "Breakeven Analysis",
+    "Lifetime Benefits",
+    "Retirement Planning"
+  ],
+  "prerequisites": [
+    "Basic Math",
+    "Understanding of Retirement Concepts"
+  ],
+  "library": "p5.js",
+  "visualizationType": [
+    "chart",
+    "graph",
+    "interactive-demo",
+    "map",
+    "network",
+    "simulation",
+    "timeline"
+  ],
+  "learningObjectives": [
+    "Understand the key concepts of social security benefits calculator",
+    "Explore social security benefits calculator through interactive visualization",
+    "Apply knowledge of social security benefits calculator to solve problems",
+    "Experiment with parameters to observe their effects on social security benefits calculator"
+  ],
+  "bloomsTaxonomy": [
+    "Remember",
+    "Understand",
+    "Apply",
+    "Analyze",
+    "Evaluate",
+    "Create"
+  ]
 }

@@ -1,7 +1,11 @@
 {
   "title": "Needs vs Wants Categorization Game",
   "creator": "Dan McCreary",
-  "subject": ["Personal Finance", "Budgeting", "Financial Literacy"],
+  "subject": [
+    "Personal Finance",
+    "Budgeting",
+    "Financial Literacy"
+  ],
   "description": "An interactive game where students practice categorizing expenses as needs (essential) or wants (discretionary), developing critical budgeting skills through gameplay with immediate feedback.",
   "date": "2025-11-20",
   "type": "Interactive Simulation",
@@ -18,7 +22,13 @@
     "Evaluate personal spending to identify opportunities for financial improvement",
     "Understand that context matters in financial decision-making"
   ],
-  "bloomsTaxonomyLevels": ["Remembering", "Understanding", "Applying", "Analyzing", "Evaluating"],
+  "bloomsTaxonomyLevels": [
+    "Remembering",
+    "Understanding",
+    "Applying",
+    "Analyzing",
+    "Evaluating"
+  ],
   "duration": "15-20 minutes",
   "prerequisites": [
     "Basic understanding of financial vocabulary (expense, budget, income)",
@@ -26,9 +36,11 @@
     "Understanding that people make trade-offs with money"
   ],
   "framework": "p5.js",
-  "canvasDimensions": "800×600 (width-responsive)",
+  "canvasDimensions": "800\u00d7600 (width-responsive)",
   "responsive": "Width-responsive",
-  "dependencies": ["p5.js 1.11.10 CDN"],
+  "dependencies": [
+    "p5.js 1.11.10 CDN"
+  ],
   "accessibility": [
     "High contrast color scheme (colorblind-safe)",
     "Large text sizes (28px for main content)",
@@ -90,7 +102,7 @@
     "gameComplete (whether all expenses have been categorized)"
   ],
   "equations": [
-    "Percentage Score = (score / totalAnswered) × 100",
+    "Percentage Score = (score / totalAnswered) \u00d7 100",
     "Progress = currentExpenseIndex / total expenses"
   ],
   "assumptions": [
@@ -127,5 +139,19 @@
     "financial decision making",
     "personal finance",
     "money management"
+  ],
+  "visualizationType": [
+    "animation",
+    "interactive-demo",
+    "network",
+    "simulation"
+  ],
+  "bloomsTaxonomy": [
+    "Remember",
+    "Understand",
+    "Apply",
+    "Analyze",
+    "Evaluate",
+    "Create"
   ]
 }

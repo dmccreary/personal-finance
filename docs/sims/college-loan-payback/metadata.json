@@ -3,15 +3,50 @@
   "description": "Interactive simulation helping students calculate repayment time for college loans based on years in school, tuition costs, interest rates, and monthly payments.",
   "creator": "Dan McCreary",
   "date": "2024-01-15",
-  "subject": ["Student Loans", "College Costs", "Loan Repayment", "Personal Finance"],
+  "subject": [
+    "Student Loans",
+    "College Costs",
+    "Loan Repayment",
+    "Personal Finance"
+  ],
   "type": "Interactive Simulation",
   "format": "text/html",
   "language": "en-US",
   "rights": "CC BY 4.0",
   "educationalLevel": "High School",
   "audience": "High School Juniors and Seniors",
-  "bloomLevel": ["Apply", "Analyze", "Evaluate"],
-  "concepts": ["Student Loans", "Interest Rates", "Monthly Payments", "College Costs"],
-  "prerequisites": ["Basic Math", "Understanding of Loans"],
-  "library": "p5.js"
+  "bloomLevel": [
+    "Apply",
+    "Analyze",
+    "Evaluate"
+  ],
+  "concepts": [
+    "Student Loans",
+    "Interest Rates",
+    "Monthly Payments",
+    "College Costs"
+  ],
+  "prerequisites": [
+    "Basic Math",
+    "Understanding of Loans"
+  ],
+  "library": "p5.js",
+  "visualizationType": [
+    "interactive-demo",
+    "simulation"
+  ],
+  "learningObjectives": [
+    "Understand the key concepts of college loan payback calculator",
+    "Explore college loan payback calculator through interactive visualization",
+    "Apply knowledge of college loan payback calculator to solve problems",
+    "Experiment with parameters to observe their effects on college loan payback calculator"
+  ],
+  "bloomsTaxonomy": [
+    "Remember",
+    "Understand",
+    "Apply",
+    "Analyze",
+    "Evaluate",
+    "Create"
+  ]
 }
