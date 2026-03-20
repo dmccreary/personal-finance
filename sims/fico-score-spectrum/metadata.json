@@ -3,15 +3,73 @@
   "description": "Interactive visualization showing the FICO credit score ranges from 300-850 with color-coded categories and descriptions of each score range.",
   "creator": "Dan McCreary",
   "date": "2024-01-15",
-  "subject": ["Credit Score", "FICO", "Credit Rating", "Personal Finance"],
+  "subject": [
+    "Credit Score",
+    "FICO",
+    "Credit Rating",
+    "Personal Finance"
+  ],
   "type": "Interactive Visualization",
   "format": "text/html",
   "language": "en-US",
   "rights": "CC BY 4.0",
   "educationalLevel": "High School / Introductory College",
   "audience": "High School Students, Young Adults",
-  "bloomLevel": ["Remember", "Understand", "Apply"],
-  "concepts": ["FICO Score", "Credit Rating", "Credit Categories", "Creditworthiness"],
-  "prerequisites": ["Basic Understanding of Borrowing"],
-  "library": "p5.js"
+  "bloomLevel": [
+    "Remember",
+    "Understand",
+    "Apply"
+  ],
+  "concepts": [
+    "FICO Score",
+    "Credit Rating",
+    "Credit Categories",
+    "Creditworthiness"
+  ],
+  "prerequisites": [
+    "Basic Understanding of Borrowing"
+  ],
+  "library": "p5.js",
+  "visualizationType": [
+    "interactive-demo",
+    "map"
+  ],
+  "learningObjectives": [
+    "Understand the key concepts of fico credit score spectrum",
+    "Explore fico credit score spectrum through interactive visualization",
+    "Apply knowledge of fico credit score spectrum to solve problems",
+    "Experiment with parameters to observe their effects on fico credit score spectrum"
+  ],
+  "bloomsTaxonomy": [
+    "Remember",
+    "Understand",
+    "Apply",
+    "Analyze",
+    "Evaluate",
+    "Create"
+  ],
+  "pedagogical": {
+    "pattern": "assessment",
+    "bloomAlignment": [
+      "understand",
+      "apply",
+      "analyze"
+    ],
+    "bloomVerbs": [
+      "compare",
+      "describe",
+      "explain",
+      "interpret",
+      "apply"
+    ],
+    "pacing": "self-paced",
+    "supportsPrediction": false,
+    "dataVisibility": "high",
+    "feedbackType": [
+      "immediate",
+      "corrective",
+      "explanatory"
+    ],
+    "interactionStyle": "manipulate"
+  }
 }
