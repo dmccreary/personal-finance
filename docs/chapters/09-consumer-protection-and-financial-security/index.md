@@ -1,5 +1,9 @@
 # Consumer Protection and Financial Security
 
+!!! mascot-welcome "Welcome to Chapter 9"
+    <img src="../../img/mascot/welcome.png" class="mascot-admonition-img" alt="Sylvia waving welcome">
+    A nut saved is a nut earned — but a nut stolen hurts just as much as one you never saved. This chapter is about locking the door on the nut stash. You'll learn how identity thieves operate, the handful of online security habits that block the overwhelming majority of attacks, how to spot the scams that target people like you, and exactly which rights you have when something goes wrong. These habits are cheap to build and enormously expensive to skip.
+
 ## Summary
 
 This chapter equips you with essential knowledge to protect yourself from financial fraud and security threats in an increasingly digital world. You'll learn about identity theft, how to prevent it, and the importance of credit monitoring. The chapter covers crucial online security practices including password security and two-factor authentication. You'll learn to recognize common financial scams including phishing attempts, Ponzi schemes, and pyramid schemes. The chapter also explains your rights as a consumer, the protections offered by the Consumer Financial Protection Bureau (CFPB), dispute resolution processes, and when to use credit freezes. In today's environment of sophisticated financial scams, this knowledge is essential for protecting your financial wellbeing.
@@ -129,6 +133,10 @@ Identity thieves use various methods to steal your information:
 - Refuse to provide SSN for routine transactions (medical appointments, gym memberships)
 
 Your Social Security number is the master key to your identity. With it, thieves can open credit accounts, file tax returns, and steal benefits. Protect it like cash.
+
+!!! mascot-tip "Treat Your SSN Like a Password"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia offering a tip">
+    If a form asks for your full Social Security number and it isn't a bank, employer, government agency, or lender, ask why. Most doctors, gyms, and landlords can accept the last four digits or simply don't need it at all. The fewer places your full SSN sits in someone else's database, the fewer data breaches put your identity at risk.
 
 **Secure your mail:**
 
@@ -395,6 +403,10 @@ Popular password managers:
 - **LastPass:** Free basic or $36/year premium (less recommended after security issues)
 - **Built-in browser managers:** Chrome, Safari, Firefox (convenient but less secure than dedicated managers)
 
+!!! mascot-tip "The Single Best Security Upgrade"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia offering a helpful tip">
+    If you do only one thing from this chapter, start using a password manager this week. It solves the three impossible-seeming problems at once: every password becomes long and random, every password becomes unique, and you only have to remember one. For most people this single change does more for their security than every other habit combined.
+
 **Master password best practices:**
 
 Your master password protects everything, so make it extremely strong:
@@ -535,6 +547,10 @@ Most services call it "Two-Factor Authentication," "2-Step Verification," or "Se
 
 **Important:** When you enable 2FA, save backup codes! These let you access your account if you lose your phone. Store them in your password manager or somewhere very secure.
 
+!!! mascot-warning "Protect Your Email First"
+    <img src="../../img/mascot/warning.png" class="mascot-admonition-img" alt="Sylvia raising a cautionary paw">
+    Your email is the master key to every other account — because that's where password resets get sent. If a thief controls your email, they control everything. Before you worry about your bank or Amazon, turn on two-factor authentication for your email account today. One five-minute change blocks the overwhelming majority of account takeovers.
+
 ## Recognizing Financial Scams
 
 Scammers are becoming increasingly sophisticated, using psychology and technology to separate people from their money. Learning to recognize common scams protects you and helps you spot new variations.
@@ -620,6 +636,10 @@ Implementation: HTML/CSS/JavaScript interactive image
 - Enable 2FA so stolen passwords are less useful
 - Report phishing to FTC at ReportFraud.ftc.gov
 
+!!! mascot-warning "Urgency Is the Scam"
+    <img src="../../img/mascot/warning.png" class="mascot-admonition-img" alt="Sylvia warning about danger">
+    The single strongest signal that a message is a scam is urgency — "act now," "verify immediately," "your account will be closed." Real banks, the IRS, and Amazon all give you time and legitimate ways to respond. When you feel pressured, stop. Close the message. Open a new browser tab, type the company's website yourself, and log in there. If something is really wrong, you'll see it. If it isn't, you just dodged a trap.
+
 ### Ponzi Schemes: Too Good to Be True
 
 **Ponzi schemes** are fraudulent investment operations that pay returns to earlier investors using money from new investors rather than from legitimate profits. They inevitably collapse when new investors stop joining.
@@ -648,6 +668,10 @@ Red flags of Ponzi schemes:
 - **Secretive strategies:** "Proprietary method" they can't explain
 - **Paperwork issues:** Errors in statements, no actual trades occurring
 - **Difficulty withdrawing:** Pressure to "roll over" returns instead of cashing out
+
+!!! mascot-thinking "Risk and Return Are Always Linked"
+    <img src="../../img/mascot/thinking.png" class="mascot-admonition-img" alt="Sylvia pondering">
+    Every honest investment obeys the same rule: higher expected returns come with higher risk of loss, and returns vary year to year. Anyone offering high returns with guaranteed, steady payouts is describing something that literally cannot exist in legitimate markets. When you hear "guaranteed 12% monthly" or "no-risk opportunity," you're not looking at a clever strategy you missed — you're looking at fraud.
 
 ### Pyramid Schemes: Recruit or Lose
 
@@ -881,6 +905,10 @@ When applying for credit, mortgage, apartment:
 
 Consider freezing credit for your children too—child identity theft is common and often goes undetected for years.
 
+!!! mascot-tip "Freeze First, Apply Later"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia offering a tip">
+    A credit freeze is the most powerful identity-theft tool you have, and it's completely free. If you're not actively shopping for a loan, apartment, or new credit card, there's no good reason your credit file needs to be open to the world. Freezing at all three bureaus takes about fifteen minutes and you can lift it in under an hour when you actually need it. Thousands of stolen SSNs in a data breach become nearly useless against your file.
+
 ## Key Takeaways
 
 Protecting yourself from financial fraud and security threats requires vigilance, smart practices, and knowledge of your rights.
@@ -899,6 +927,10 @@ Essential principles:
 - **Report fraud immediately:** Fast action minimizes damage
 
 By implementing these security practices and staying informed about common scams, you protect your financial wellbeing in an increasingly digital and risky world.
+
+!!! mascot-celebration "Your Nut Stash Is Locked"
+    <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Sylvia cheering">
+    You now know more about financial security than most adults ever learn — and you'll notice yourself spotting scams, pausing on suspicious messages, and making smart defensive moves automatically. The hour you spend this week enabling 2FA, installing a password manager, and freezing your credit will save you, on average, dozens of hours and thousands of dollars over your lifetime. Outstanding work.
 
 ## References
 

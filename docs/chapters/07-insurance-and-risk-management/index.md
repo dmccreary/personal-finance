@@ -1,5 +1,9 @@
 # Insurance and Risk Management
 
+!!! mascot-welcome "Welcome to Chapter 7"
+    <img src="../../img/mascot/welcome.png" class="mascot-admonition-img" alt="Sylvia waving welcome">
+    A nut saved is a nut earned — and insurance is how you keep the nuts you've saved from being washed away by one bad storm. This chapter is about the handful of policies that protect you from the small number of events that could wipe out years of progress. By the end, you'll know which coverages are non-negotiable, which are nice-to-haves, and which ones are almost always a waste of money.
+
 ## Summary
 
 This chapter teaches you how to protect yourself and your assets through insurance and risk management strategies. You'll learn fundamental insurance principles and terminology including premiums, deductibles, co-payments, and out-of-pocket maximums. The chapter covers major types of insurance including health insurance (HMO, PPO, HDHP plans and Health Savings Accounts), auto insurance with its various coverage types (liability, collision, comprehensive), property insurance (renters and homeowners), and life insurance (term vs. whole life). You'll also learn about disability insurance, umbrella policies for additional liability protection, the insurance claims process, and how to develop a comprehensive risk management strategy. Understanding insurance is essential for protecting yourself from financial catastrophe.
@@ -172,6 +176,10 @@ For example, if your out-of-pocket maximum is $6,000:
 - Insurance now covers 100% of remaining covered costs for the year
 
 Understanding this limit helps you plan for worst-case scenarios and evaluate whether you could afford your policy's maximum cost in an emergency.
+
+!!! mascot-tip "Know Your Worst-Case Number"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia offering a helpful tip">
+    Before you pick any health plan, write down the out-of-pocket maximum plus twelve months of premiums. That sum is your true worst-case cost for the year. If you couldn't cover that number from savings and your emergency fund combined, the plan is riskier than it looks — even if the monthly premium is tempting.
 
 ## Health Insurance: Your Most Critical Coverage
 
@@ -353,6 +361,10 @@ Strategic HSA use:
 
 After age 65, you can withdraw HSA money for any purpose (not just medical) and pay only income tax, making it work like a traditional IRA. This flexibility makes HSAs incredibly valuable.
 
+!!! mascot-tip "The Triple-Tax Nut Stash"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia offering a tip">
+    If you're young, healthy, and on an HDHP, the HSA is the single best-taxed account in the entire U.S. code. No other account lets money go in tax-free, grow tax-free, and come out tax-free. If you can possibly swing it, pay small medical bills from your checking account, max the HSA, invest the balance, and save the receipts — you can reimburse yourself decades later, tax-free.
+
 ## Auto Insurance: Legal Requirements and Smart Protection
 
 Auto insurance is legally required in almost every state. If you drive without insurance and cause an accident, you could be personally liable for hundreds of thousands of dollars in damages. Auto insurance protects both you and others from the financial consequences of accidents.
@@ -381,6 +393,10 @@ Here's why minimum coverage is often insufficient:
 | Serious accident, 3 injuries | $380,000 | $75,000 covered, YOU OWE $305,000 | $300,000 covered, YOU OWE $80,000 |
 
 The difference in premium between minimum and adequate coverage is often only $20-30 per month, but the difference in protection is enormous. If you cause serious injuries, inadequate coverage could result in wage garnishment, liens on your property, and even bankruptcy.
+
+!!! mascot-warning "State Minimums Are Not Enough"
+    <img src="../../img/mascot/warning.png" class="mascot-admonition-img" alt="Sylvia raising a cautionary paw">
+    The state minimum is the legal floor, not the safe amount. A three-injury accident can blow past a 25/50/25 policy by $300,000 — and that gap comes out of your paycheck for years. For roughly a dollar a day more, 100/300/100 coverage turns a catastrophic lawsuit into a covered claim. This is the cheapest big-ticket upgrade in all of personal finance.
 
 ### Collision Coverage: Protecting Your Vehicle
 
@@ -538,6 +554,10 @@ Think about what it would cost to replace everything you own:
 - **Total:** $9,000-$16,000
 
 Renter's insurance typically costs only $15-30 per month and covers $20,000-$40,000 in belongings. The liability coverage alone is worth the cost—if someone is seriously injured in your apartment, you could be sued for medical bills and lost wages.
+
+!!! mascot-tip "Cheapest Insurance You Can Buy"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia offering a tip">
+    For about the price of one pizza a month, renter's insurance replaces every possession you own *and* protects you from a six-figure lawsuit if a guest gets hurt. Your landlord's policy covers the building, not your stuff. If you rent and you don't have this, fix it today — it's often the single best dollars-per-protection deal in your whole financial plan.
 
 Important renter's insurance facts:
 
@@ -739,6 +759,10 @@ For most young adults, whole life is NOT recommended because:
 
 The classic advice: "Buy term and invest the difference." For $30/month you get $500,000 in term coverage, leaving you $270/month to invest. Over 30 years at 7% returns, that $270/month grows to $330,000—likely more than the cash value in a whole life policy costing $300/month.
 
+!!! mascot-thinking "Why 'Buy Term and Invest the Difference' Works"
+    <img src="../../img/mascot/thinking.png" class="mascot-admonition-img" alt="Sylvia thinking carefully">
+    Whole life bundles two products — life insurance and a low-return savings account — and charges you a commission on both. When you separate them, you can buy real insurance cheaply and put the savings into an index fund that earns three to four times as much. The math almost always favors term for people under 50. The tradeoff is discipline: the strategy only works if you actually invest the difference instead of spending it.
+
 #### Diagram: Term vs. Whole Life Comparison
 
 <details markdown="1">
@@ -870,6 +894,10 @@ Key disability insurance terms:
 - **Benefit period:** How long benefits continue (2 years, 5 years, to age 65, etc.)
 
 If your employer offers long-term disability insurance, enroll—it's usually inexpensive or free. If not, consider purchasing individual coverage, especially if you have a specialized career where you couldn't easily switch to a different type of work.
+
+!!! mascot-warning "Don't Skip Disability Coverage"
+    <img src="../../img/mascot/warning.png" class="mascot-admonition-img" alt="Sylvia warning about danger">
+    Statistically, you're several times more likely to be disabled for six months than to die young — yet most people insure the unlikely event (death) and ignore the likely one (disability). Your paycheck is the engine that funds every other financial goal. If your employer offers long-term disability for a few dollars a month, say yes without thinking twice.
 
 ### Umbrella Policy: Extra Liability Protection
 
@@ -1109,6 +1137,10 @@ Essential principles to remember:
 - **Shop around:** Insurance rates vary significantly between companies
 
 By understanding insurance principles and choosing appropriate coverage, you protect yourself from financial catastrophe while managing costs effectively. Insurance gives you peace of mind knowing that when life's unexpected challenges arise, you won't face financial ruin—you'll be protected.
+
+!!! mascot-celebration "Chapter Complete"
+    <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Sylvia cheering">
+    You just learned something most adults never fully figure out: which insurance is worth the money and which isn't. With health, auto liability, renter's or homeowner's, term life (if needed), and disability in place, you've built a financial safety net that turns "catastrophe" into "inconvenience." Great work — now let's move on to the big purchases those policies are protecting.
 
 ## References
 

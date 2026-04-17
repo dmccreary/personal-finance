@@ -1,5 +1,9 @@
 # Career Planning and Income
 
+!!! mascot-welcome "Welcome to Chapter 11"
+    <img src="../../img/mascot/welcome.png" class="mascot-admonition-img" alt="Sylvia waving welcome">
+    A nut saved is a nut earned — and your paycheck is the tree that grows the nuts. Your career is the single largest financial asset you own, worth millions of dollars over a working life. This chapter is about growing the asset: choosing a career with real potential, spotting the true value of a job offer, negotiating what you're worth, and keeping your skills sharp enough that your income keeps climbing.
+
 ## Summary
 
 This chapter focuses on maximizing your earning potential through strategic career planning and income growth. You'll learn how to explore different career paths and research income potential for various professions. The chapter helps you understand the full value of employee benefits packages beyond just salary, and teaches you how to evaluate total compensation including health insurance, retirement matching, stock options, and paid time off. You'll explore opportunities for additional income through side hustles and the gig economy, and develop essential salary negotiation skills to ensure you're fairly compensated. The chapter also emphasizes the importance of ongoing professional development to increase your value in the job market and advance your career over time.
@@ -87,6 +91,10 @@ Questions to ask during exploration:
 - How is the job market?
 - What do you love/hate about it?
 - Would you choose this career again?
+
+!!! mascot-tip "The Informational Interview Is a Superpower"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia offering a helpful tip">
+    Most students spend months reading about careers and never talk to someone who actually does the job. A twenty-minute informational interview gives you what no website can: honest answers about day-to-day work, real salary ranges, hidden downsides, and — often — a warm introduction when you're ready to apply. Professionals remember how awful it was to be a student and are surprisingly willing to help. Ask politely, show up prepared, and thank them afterward.
 
 ## Income Potential Research
 
@@ -241,6 +249,10 @@ Which is better?
 
 Job A is $14,500 better despite lower salary!
 
+!!! mascot-thinking "The Salary Is Only Part of the Pay"
+    <img src="../../img/mascot/thinking.png" class="mascot-admonition-img" alt="Sylvia pondering">
+    Benefits can be worth twenty to forty percent of your salary, which means two offers with the same base number can differ by tens of thousands in real compensation. Before you compare jobs, do the math: employer health coverage, the 401(k) match, paid time off, and the development budget. A lower salary with a full match and good insurance often beats a flashier number with neither. Your total compensation is the real paycheck.
+
 ## Total Compensation Package
 
 Your **total compensation package** includes salary, benefits, bonuses, equity, and perks. Always evaluate the complete package, not just base salary.
@@ -341,6 +353,10 @@ Cons:
 - Start small, scale gradually
 - Track all income and expenses for taxes
 - Set aside 25-30% for taxes
+
+!!! mascot-warning "Set Aside Taxes on Side Income"
+    <img src="../../img/mascot/warning.png" class="mascot-admonition-img" alt="Sylvia warning about danger">
+    Side-hustle income doesn't have taxes withheld, and that's where new freelancers get hurt. If you earn $10,000 from an Etsy shop or a consulting gig, you'll likely owe around $2,500–$3,000 in federal, state, and self-employment taxes next April. Open a separate savings account, move 25–30% of every payment into it the day it arrives, and never touch it until tax time. You'll avoid a painful surprise and possibly underpayment penalties on top of the bill.
 - Don't jeopardize main job
 - Focus on hourly value (some hustles pay poorly)
 - Consider passive income (create once, earn repeatedly)
@@ -360,6 +376,10 @@ Example: Starting at $60k vs $65k (5% annual raises):
 - Year 1: $60k vs $65k ($5k difference)
 - Year 10: $97k vs $105k ($8k difference)
 - Career total (40 years): $4.8M vs $5.2M ($400k difference!)
+
+!!! mascot-tip "Always Negotiate — It Compounds"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia offering a tip">
+    Every raise for the rest of your career is a percentage of your current salary. That means the $5,000 you negotiate up today doesn't just pay you $5,000 more this year — it grows every future raise and every future 401(k) match along with it. Over a working lifetime, one calm, well-researched negotiation is often worth six figures. The conversation feels awkward for five minutes; the impact lasts forty years.
 
 **When to negotiate:**
 
@@ -521,6 +541,10 @@ Many employers offer:
 
 Always take advantage of these benefits—it's free career advancement!
 
+!!! mascot-tip "Use Every Dollar of Employer Education Money"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia offering a helpful tip">
+    If your employer offers tuition reimbursement or a professional development budget, use it every single year. That's free skill-building, a clear signal to your manager that you're serious about growing, and a credential that raises your market rate the next time you negotiate. Most workers leave this money unspent. Be the one who doesn't — it's the highest-return investment in your career.
+
 ## Key Takeaways
 
 Your career and earning potential are your greatest assets:
@@ -537,6 +561,10 @@ Your career and earning potential are your greatest assets:
 - **Think long-term:** Career decisions compound over 40+ years
 
 Every $10,000 you increase your annual salary through smart career moves and negotiation is worth $400,000+ over your career. No investment opportunity will provide that return. Invest in yourself first.
+
+!!! mascot-celebration "Chapter Complete"
+    <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Sylvia cheering">
+    You've just learned to treat your career the way investors treat their portfolios — with research, strategy, and active management. The habits in this chapter (knowing your market rate, negotiating every offer, evaluating total compensation, and investing in your skills) can mean the difference between a $2 million career and a $5 million one. Same forty years, wildly different outcomes.
 
 ## References
 

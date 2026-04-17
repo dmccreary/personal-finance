@@ -1141,6 +1141,10 @@ Budgeting isn't about restriction - it's about freedom. When you tell your money
 
 With budgeting skills mastered, you're ready to explore credit and debt management, learning how to build excellent credit while avoiding the debt traps that derail so many financial plans.
 
+!!! mascot-celebration "Well Done"
+    <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Sylvia celebrating">
+    You just added another acorn to your stash. You can now tell net from gross, pick a budgeting method that fits you, catch subscription creep, and plan an emergency fund that actually covers real trouble.
+
 ## References
 
 1. [The 50/30/20 Rule for Teens](https://banzai.org/wellness/resources/fifty-thirty-twenty-coach) - 2024 - Banzai - Interactive educational coach session teaching teens how to create a custom budget following the 50/30/20 rule, dividing income into needs (50%), wants (30%), and savings (20%).

@@ -1,5 +1,9 @@
 # Major Purchases and Loans
 
+!!! mascot-welcome "Welcome to Chapter 8"
+    <img src="../../img/mascot/welcome.png" class="mascot-admonition-img" alt="Sylvia waving welcome">
+    A nut saved is a nut earned — and nowhere is that truer than on the biggest things you'll ever buy. Cars, houses, and the loans behind them are where small decisions compound into tens of thousands of dollars, for better or worse. This chapter walks you through the math, the traps, and the negotiation moves that separate buyers who come out ahead from those who spend decades paying for yesterday's purchases.
+
 ## Summary
 
 This chapter prepares you to make informed decisions about major purchases and the loans that often finance them. You'll learn about auto loans, including how loan interest rates and term lengths affect total costs, and the financial considerations of buying new versus used vehicles including depreciation. The chapter covers one of life's biggest financial decisions - renting versus buying a home - and explains different types of mortgages (fixed-rate, adjustable-rate, FHA, and conventional loans), down payments, and closing costs. You'll develop essential skills in comparison shopping and negotiation that apply to any major purchase. Understanding these concepts helps you avoid overpaying and make purchase decisions that align with your long-term financial goals.
@@ -226,6 +230,10 @@ The tradeoff between term length and cost:
 
 **Best practice:** Limit auto loans to 48-60 months maximum. If you need a 72-month loan to afford the payment, you're buying too much car for your budget.
 
+!!! mascot-warning "The 72-Month Trap"
+    <img src="../../img/mascot/warning.png" class="mascot-admonition-img" alt="Sylvia raising a cautionary paw">
+    A six- or seven-year car loan looks friendly on the monthly line, but it's designed to keep you underwater — owing more than the car is worth — for half the loan's life. If the car gets totaled, stolen, or just needs major repairs, you owe the bank and have nothing to drive. The rule of thumb is simple and unforgiving: if you need a term longer than 60 months to afford the payment, buy a cheaper car.
+
 ### New vs. Used Vehicles: The Depreciation Factor
 
 One of the most important decisions when buying a car is whether to buy new or used. This choice dramatically affects how much you pay and how quickly your investment loses value.
@@ -255,6 +263,10 @@ The new vs. used vehicle comparison:
 | **Total cost over 5 years** | $30,000 - $12,000 = $18,000 net | $18,000 - $9,000 = $9,000 net |
 
 The math strongly favors buying used vehicles that are 2-3 years old. You avoid the steepest depreciation while still getting a relatively modern, reliable vehicle.
+
+!!! mascot-thinking "Let Someone Else Pay the Depreciation"
+    <img src="../../img/mascot/thinking.png" class="mascot-admonition-img" alt="Sylvia pondering">
+    The first owner of a new car essentially buys the new-car smell for about $10,000 — that's the value that evaporates in the first year. When you buy at two to three years old, the same vehicle with most of its useful life left is a third cheaper, and the next three years of depreciation are much gentler. You can drive an almost-new car for roughly half the total cost if you're willing to skip the showroom.
 
 **Sweet spot for value:** 2-4 year old certified pre-owned (CPO) vehicles from reputable manufacturers. These offer:
 
@@ -503,6 +515,10 @@ Renting cost (monthly):
 
 **The conclusion:** In this example, buying is better IF you plan to stay at least 5-7 years and can afford the down payment and risk.
 
+!!! mascot-warning "The Five-Year Rule"
+    <img src="../../img/mascot/warning.png" class="mascot-admonition-img" alt="Sylvia warning about danger">
+    Selling a house costs roughly 8–10% of the sale price in agent fees, closing costs, and moving expenses. If you sell within three years, there's a good chance those costs eat any equity you built — and you'd have done better renting. Don't buy a home for a job or life situation you expect to outgrow soon. The math only works if you're staying put for at least five years.
+
 ## Mortgages: Borrowing to Buy a Home
 
 A **mortgage** is a loan secured by real estate. You borrow money to buy a property, and the property itself serves as collateral. If you don't make payments, the lender can foreclose (take the property and sell it to recover their money).
@@ -683,6 +699,10 @@ If you need to save $40,000 for a 20% down payment on a $200,000 home:
 - Saving $1,000/month: Takes 40 months (3.3 years)
 
 Many first-time buyers purchase with less than 20% down and refinance later to remove PMI once they reach 20% equity through payments and appreciation.
+
+!!! mascot-tip "Why 20% Down Is Magic"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia offering a helpful tip">
+    Hitting 20% down isn't just a lender convention — it flips three things in your favor at once: no PMI (saving hundreds per month), a better interest rate (lenders see you as lower risk), and a stronger offer (sellers trust your financing will actually close). If buying is two years away, treat the 20% target as a specific, named savings goal with automatic transfers. Every thousand you save before closing is worth far more than a thousand saved after.
 
 ### Closing Costs: The Hidden Expense
 
@@ -872,6 +892,10 @@ Regardless of what you're buying, these principles apply:
 9. **Get it in writing:** Verbal agreements mean nothing
 10. **Stay calm and professional:** Emotion weakens your position
 
+!!! mascot-tip "Your Most Powerful Word Is 'No'"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia offering a tip">
+    Every negotiation technique in this section collapses into one skill: the genuine willingness to walk away. Sellers and dealers know immediately whether you're serious. If you've researched comps, secured outside financing, and truly have other options, your leverage is massive — and your calm silence will do half the work for you. Never fall in love with a car or house before the deal is signed.
+
 ## Key Takeaways
 
 Major purchases require careful analysis, comparison shopping, and strong negotiation skills. The decisions you make about auto loans, vehicle choices, homeownership, and mortgages will impact your finances for years or decades.
@@ -890,6 +914,10 @@ Essential principles to remember:
 - **Be willing to walk away:** Your most powerful negotiation tool
 
 By applying these principles and taking time to research, compare options, and negotiate effectively, you'll make major purchase decisions that support your long-term financial goals rather than derailing them. Every thousand dollars you save on a major purchase is a thousand dollars available for investing, emergency savings, or other financial goals.
+
+!!! mascot-celebration "Chapter Complete"
+    <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Sylvia cheering">
+    You now know how to size a car loan, time a home purchase, and negotiate both like an experienced adult — skills that will pay you back many times over your lifetime. The habits you build here protect every other financial goal from being quietly drained by a single bad big-ticket decision. Well done.
 
 ## References
 

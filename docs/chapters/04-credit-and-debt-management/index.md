@@ -1,5 +1,9 @@
 # Credit and Debt Management
 
+!!! mascot-welcome "Welcome to Chapter 4"
+    <img src="../../img/mascot/welcome.png" class="mascot-admonition-img" alt="Sylvia waving welcome">
+    A nut saved is a nut earned! Credit is how the financial world remembers your track record, and a strong one saves you tens of thousands over a lifetime. By the end of this chapter you'll know how to build credit from zero, use a card without paying a cent in interest, and spot the debt products designed to trap you.
+
 ## Summary
 
 This chapter provides comprehensive coverage of credit scores, credit reports, and responsible debt management - crucial topics for young adults building their financial foundation. You'll learn how credit scores like FICO and VantageScore are calculated, what factors influence them, and how to build and maintain excellent credit history. The chapter covers credit cards in depth, including APR, rewards programs, and responsible usage strategies. You'll also explore different types of debt (secured vs. unsecured, good vs. bad), understand interest rate calculations, and learn proven debt repayment strategies including the avalanche and snowball methods. Finally, the chapter helps you identify and avoid predatory lending practices like payday loans.
@@ -121,6 +125,10 @@ Building credit from scratch takes time and strategy. If you have no credit hist
 
 **Become an authorized user** - Have a parent or trusted person add you to their credit card as an authorized user. You benefit from their positive payment history without being responsible for payments. This is the fastest way to establish initial credit history.
 
+!!! mascot-tip "Start with an Authorized User"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia giving a tip">
+    If a parent or trusted family member will add you as an authorized user on a card with long, clean history, their years of positive payments become yours overnight. It's the single fastest head start you can get — no deposit, no monthly payment required of you.
+
 **Secured credit card** - Put down a refundable security deposit ($200-500) that becomes your credit limit. Use it for small purchases, pay in full monthly. After 6-12 months of responsible use, you can upgrade to a regular card and get your deposit back.
 
 **Student credit card** - Designed for students with limited history, these cards have lower limits and fewer benefits but easier approval. Use responsibly to build credit before graduation.
@@ -204,6 +212,10 @@ Credit scoring rewards longevity. The longer your accounts have been open and ac
 - 10+ years: Excellent length of history
 
 **Common mistake:** Closing old cards to "simplify" actually hurts your score by reducing average account age and available credit.
+
+!!! mascot-thinking "A Counterintuitive Rule"
+    <img src="../../img/mascot/thinking.png" class="mascot-admonition-img" alt="Sylvia thinking carefully">
+    Tidying up feels responsible — but in credit scoring, the old, dusty card you never use is often your most valuable account. It's anchoring your average account age and padding your total available credit. Before you close anything, ask: is there a real fee or fraud risk? If not, keep it open and put one small recurring charge on it so the bank doesn't close it for inactivity.
 
 ### Credit Mix (10% of FICO)
 
@@ -294,6 +306,10 @@ Monthly interest: ~$14.75
 
 **The golden rule:** Pay your full statement balance every month to avoid interest entirely. If you do this, APR is irrelevant - you're using credit for free while building credit history.
 
+!!! mascot-thinking "The Key Insight About APR"
+    <img src="../../img/mascot/thinking.png" class="mascot-admonition-img" alt="Sylvia pondering">
+    Here's the part that trips up new cardholders: a 29% APR is terrifying if you carry a balance, and completely irrelevant if you pay in full. The same card is either a free two-way rewards machine or a financial sinkhole — the only variable is whether you pay the full statement balance on time. Decide which kind of user you are before the first swipe, not after.
+
 ### Credit Card Rewards
 
 Many credit cards offer rewards (cash back, points, or miles) to encourage card use. Rewards can provide real value if you use cards responsibly.
@@ -378,6 +394,10 @@ Making $150 payments instead:
 - **Total cost:** $3,600
 
 The minimum payment barely covers interest, letting principal balances linger for years. Credit card companies profit enormously when customers pay minimums - that's why they make it so easy.
+
+!!! mascot-warning "The Minimum Payment Trap"
+    <img src="../../img/mascot/warning.png" class="mascot-admonition-img" alt="Sylvia raising a cautionary paw">
+    The "minimum payment due" box is not a suggestion — it's a design choice. Paying it keeps your account in good standing but keeps you in debt for nearly two decades on a $3,000 balance. Treat the minimum as the fire escape, not the front door: only use it in an emergency, and always pay more the next month.
 
 **Strategy if you're carrying a balance:**
 - Always pay more than the minimum
@@ -584,6 +604,10 @@ A $500 payday loan with $75 fee every two weeks:
 - Effective APR: 300-500%
 - Many borrowers remain trapped for months or years
 
+!!! mascot-warning "Avoid Payday Loans Completely"
+    <img src="../../img/mascot/warning.png" class="mascot-admonition-img" alt="Sylvia warning against danger">
+    If you only remember one rule from this chapter, make it this one: never take a payday loan. At 300–500% APR, a two-week "fix" for $500 can cost you $900 in fees before you ever touch the principal. If you're desperate enough to consider one, a credit union PAL, a payment plan with your existing creditors, or even asking family is almost always cheaper. Call a nonprofit credit counselor first — they're free and they've seen your situation before.
+
 **Who uses payday loans:** 12 million Americans annually, predominantly those earning $30,000/year or less who lack emergency funds or access to traditional credit.
 
 **Why they're predatory:**
@@ -626,6 +650,10 @@ Credit and debt management are essential skills for financial success in modern 
 Credit is neither inherently good nor bad - it's a tool. Used responsibly, credit builds wealth, enables major purchases at reasonable rates, and provides security. Misused, it creates crushing debt that takes years to escape. The choice is yours, and the habits you build now will impact your financial life for decades to come.
 
 With credit and debt mastered, you're ready to explore saving and investing strategies that harness the power of compound interest to build long-term wealth.
+
+!!! mascot-celebration "Well Done"
+    <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Sylvia cheering">
+    Credit is the single most misunderstood topic in personal finance — and you just worked your way through it. You now know how the score is built, how to use a card without ever paying interest, and how to spot the products that are engineered to trap people. That knowledge alone is worth tens of thousands of dollars over your lifetime. Next stop: making your money grow.
 
 ## References
 

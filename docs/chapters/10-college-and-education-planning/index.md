@@ -1,5 +1,9 @@
 # College and Education Planning
 
+!!! mascot-welcome "Welcome to Chapter 10"
+    <img src="../../img/mascot/welcome.png" class="mascot-admonition-img" alt="Sylvia waving welcome">
+    A nut saved is a nut earned — and nowhere does that compound faster than in the decisions you make about college. The gap between a wise education plan and a careless one can be six figures of debt and decades of payments. This chapter walks you through what college really costs, how to capture every dollar of free money available, when loans make sense, and when an alternative path is the smarter investment.
+
 ## Summary
 
 This chapter helps you navigate the complex financial landscape of higher education. You'll learn how to estimate college costs using net price calculators, and explore various funding sources including scholarships, grants, and the FAFSA (Free Application for Federal Student Aid) process. The chapter covers the differences between federal and private student loans, helping you understand the long-term implications of borrowing for education. You'll also learn to calculate college return on investment (ROI) by weighing education costs against potential career earnings, and explore alternative education pathways such as trade schools, certifications, and apprenticeships that may offer better value for certain career goals. Making informed decisions about education financing can save you from decades of unnecessary debt.
@@ -114,6 +118,10 @@ Example comparison:
 
 The private school might actually cost less due to better financial aid! Always run the calculator.
 
+!!! mascot-tip "Never Judge by Sticker Price"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia offering a helpful tip">
+    The published tuition number is almost meaningless. Well-endowed private schools often meet 100% of demonstrated need, which can make them cheaper than a state school for lower- and middle-income families. Before you rule any school in or out, spend twenty minutes with its net price calculator. You may find your dream school is actually the cheapest option on your list.
+
 ## Scholarships and Grants: Free Money for College
 
 **Scholarships** and **grants** are financial aid that doesn't need to be repaid. This is the best type of aid—it reduces what you owe without creating debt.
@@ -177,6 +185,10 @@ Where to find scholarships:
 - Reuse essays when possible
 - Meet all deadlines
 - Small scholarships add up ($500 x 10 = $5,000!)
+
+!!! mascot-tip "Apply for the Local, Small, Boring Ones"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia offering a tip">
+    Everyone chases the $50,000 national scholarships, which means everyone loses them. The real opportunity is in the hundreds of $500–$2,000 scholarships from local Rotary clubs, community foundations, parents' employers, and niche organizations. Treat scholarship hunting like a part-time job for a few weeks. Ten small wins at $1,000 each is $10,000 of debt you never take on.
 
 **Scholarship scams to avoid:**
 
@@ -276,6 +288,10 @@ After filing FAFSA:
 - Compare aid packages from different schools
 - Accept, decline, or negotiate aid offers
 
+!!! mascot-warning "File the FAFSA Early"
+    <img src="../../img/mascot/warning.png" class="mascot-admonition-img" alt="Sylvia raising a cautionary paw">
+    Some of the best aid programs — especially state grants and institutional need-based aid — are first-come, first-served and run out long before the FAFSA deadline. Every year a thousand students leave real money on the table just by filing in March instead of October. Put the FAFSA opening date on your calendar, gather the tax documents early, and file in the first week if you possibly can.
+
 ## Student Loans: Borrowing for Education
 
 When scholarships, grants, and family contributions don't cover costs, student loans fill the gap. Understanding the difference between federal and private loans is critical.
@@ -348,6 +364,10 @@ When scholarships, grants, and family contributions don't cover costs, student l
 
 **Best practice:** Maximize federal loans before considering private loans.
 
+!!! mascot-warning "Federal Before Private — Always"
+    <img src="../../img/mascot/warning.png" class="mascot-admonition-img" alt="Sylvia warning about danger">
+    Federal loans come with features you cannot get anywhere else: fixed rates set by Congress, income-driven repayment plans, forgiveness programs, and generous hardship protections. Private loans have none of these — and if life goes sideways, that difference can be catastrophic. Exhaust every dollar of federal loan eligibility before you even look at a private loan, and be especially wary of lenders who pitch private loans to 18-year-olds with a parent co-signer.
+
 ##College ROI: Is It Worth It?
 
 **College ROI (Return on Investment)** calculates whether the financial benefit of a degree exceeds its cost.
@@ -404,6 +424,10 @@ Factors affecting ROI:
 - Many social sciences (without grad school)
 
 **This doesn't mean don't study what you love**, but understand the financial reality and plan accordingly.
+
+!!! mascot-thinking "Major Matters More Than the Name"
+    <img src="../../img/mascot/thinking.png" class="mascot-admonition-img" alt="Sylvia pondering">
+    Twenty years of data say the same thing: your major and your total debt shape your lifetime finances far more than the prestige of your school. Studying what you love is a valid choice — but make it with eyes open. A teacher with $30,000 in debt has a great life; a teacher with $180,000 in debt may never recover. If the numbers are tight, the right move is often to keep the major and cut the cost, not the other way around.
 
 ## Alternative Education Paths
 
@@ -509,6 +533,10 @@ Education is an investment—make sure it's a wise one:
 - **Think long-term:** Can you afford loan payments on entry-level salary?
 
 The best education decision balances passion with practicality, minimizes debt, and positions you for career success. Don't let societal pressure push you into six figures of debt for a degree that won't pay it back.
+
+!!! mascot-celebration "Chapter Complete"
+    <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Sylvia cheering">
+    You now approach college like an investor, not a consumer. You know how to run the numbers, capture free money, minimize borrowing, and spot when an alternative path is the smarter call. That single skill — separating the emotional story of college from its financial reality — is worth tens of thousands of dollars and years of peace of mind.
 
 ## References
 

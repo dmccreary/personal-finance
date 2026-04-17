@@ -1,5 +1,9 @@
 # Retirement and Long-term Planning
 
+!!! mascot-welcome "Welcome to Chapter 12"
+    <img src="../../img/mascot/welcome.png" class="mascot-admonition-img" alt="Sylvia waving welcome">
+    A nut saved is a nut earned — and the nuts you save in your twenties feed you for decades. This final chapter is about the single most valuable financial skill you'll ever build: putting money to work so that Future You has real choices. Retirement accounts, employer matches, Roth IRAs, Social Security, and basic estate planning may sound distant, but the habits you set now shape the rest of your life. Let's make Future You rich and grateful.
+
 ## Summary
 
 This chapter introduces essential concepts for long-term financial security and retirement readiness. You'll learn about different retirement account types including 401(k) plans, Traditional IRAs, and Roth IRAs, understanding the tax advantages and trade-offs of each. The chapter explains the importance of employer matching contributions and how to maximize this "free money." You'll learn about Social Security benefits and how they fit into your overall retirement strategy. The chapter helps you set appropriate retirement savings targets and understand the power of starting early due to compound growth over decades. Finally, you'll get an introduction to estate planning basics including wills, trusts, and beneficiary designations, ensuring your wealth is transferred according to your wishes and your loved ones are protected.
@@ -55,6 +59,12 @@ Starting 10 years earlier means:
 - More than doubling your retirement savings!
 
 **Key insight:** Time is more powerful than amount. It's better to save $200/month for 40 years than $500/month for 15 years.
+
+!!! mascot-encourage "Time Is Doing the Heavy Lifting"
+    <img src="../../img/mascot/encouraging.png" class="mascot-admonition-img" alt="Sylvia offering encouragement">
+    Take a moment to sit with those numbers. Ten extra years of saving — just $60,000 more in contributions — adds over $700,000 to retirement. The money you set aside at 22 works twice as hard as the same money set aside at 32, and four times as hard as 42. You don't need to be rich, or to guess the market right, or to pick hot stocks. You just need to start small and keep going. That's the whole game, and you're already ahead by knowing it.
+
+
 
 ## 401(k) Plan: The Workplace Retirement Account
 
@@ -174,6 +184,10 @@ If you leave before fully vested, you forfeit some or all of the match. Your own
 
 **Priority #1 with any income:** Contribute enough to get full employer match!
 
+!!! mascot-tip "The Match Is Non-Negotiable"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia offering a helpful tip">
+    Before you budget for anything else — rent, subscriptions, travel, extra debt payments — contribute enough to your 401(k) to capture every dollar of employer match. A 50% match is an instant, guaranteed 50% return on your money. No stock, bond, or side hustle will consistently beat that. If money is tight, eat ramen for a month before you skip the match.
+
 ## Traditional IRA: Individual Retirement Account
 
 A **Traditional IRA** is an individual retirement account you open yourself (not through employer) with tax-deductible contributions and tax-deferred growth.
@@ -263,6 +277,10 @@ Contributions phase out at higher incomes:
 
 Example: $7,000/year from age 25-65 at 7% growth = $1,525,000 tax-free!
 
+!!! mascot-tip "Fill the Roth IRA Before Anything Else"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia offering a tip">
+    After capturing the employer match, the Roth IRA is the single best account a young adult can use. You pay taxes now — when your bracket is low — and every dollar of growth is yours tax-free forever. A $7,000 contribution at 25 that grows for forty decades is a six-figure nut you will never hand back to the government. If you can only max one account, make it this one.
+
 **Retirement savings priority:**
 
 1. Contribute to 401(k) to get full employer match
@@ -321,6 +339,10 @@ How Social Security works:
 
 Assume Social Security will provide 25-40% of retirement income. Your savings need to provide the rest.
 
+!!! mascot-warning "Don't Rely on Social Security Alone"
+    <img src="../../img/mascot/warning.png" class="mascot-admonition-img" alt="Sylvia raising a cautionary paw">
+    Social Security was designed to supplement retirement, not replace it — and today's average benefit of about $23,000 a year sits just above the poverty line. The system also faces real funding pressure in the 2030s, which may mean smaller benefits for younger workers. Plan as if Social Security will cover roughly a third of what you need in retirement, and your own savings will cover the rest. If the program turns out to be more generous than that, wonderful. If it isn't, you won't be caught short.
+
 ## Retirement Savings Targets
 
 **Retirement savings targets** are goals for how much to accumulate by retirement to maintain your lifestyle.
@@ -357,6 +379,10 @@ To retire with $1 million at 65, starting at:
 - Age 45: $2,750/month at 7% growth
 
 **The earlier you start, the less painful it is!**
+
+!!! mascot-thinking "Why 25× Expenses Works"
+    <img src="../../img/mascot/thinking.png" class="mascot-admonition-img" alt="Sylvia pondering">
+    The 25× rule comes from decades of historical data on portfolio survival: if your investments grow at typical long-run returns, pulling out 4% a year has historically kept the principal intact for 30+ years. So saving 25 times what you spend each year isn't an arbitrary target — it's the balance point where your portfolio's growth refills the well roughly as fast as you draw from it. Track your annual spending, multiply by 25, and you have a real, concrete retirement number instead of a vague "a lot."
 
 **Retirement savings rate guidelines:**
 
@@ -423,6 +449,10 @@ Can create basic documents online:
 - LegalZoom, Nolo, Quicken WillMaker (~$100-200)
 - For complex situations, consult estate attorney
 
+!!! mascot-tip "Two Documents Every 18-Year-Old Needs"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia offering a helpful tip">
+    The day you legally become an adult, your parents lose automatic access to your medical and financial decisions — even if you're in the hospital and can't speak for yourself. A healthcare proxy and a durable power of attorney solve this in an afternoon for under $100. You pick the people you trust; they can help you only if something goes wrong. Everyone puts this off. Don't. It's the cheapest peace of mind you'll ever buy.
+
 **Updating your plan:**
 
 Review and update after:
@@ -453,6 +483,10 @@ The difference between retiring comfortably and struggling financially is usuall
 Starting with just $200-300/month in your early 20s, consistently contributing and letting compound growth work its magic, can result in over a million dollars by retirement. That's the power of time plus consistent action.
 
 The best time to start was yesterday. The second best time is today.
+
+!!! mascot-celebration "A Full Stash, A Full Life"
+    <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Sylvia celebrating the end of the book">
+    You made it — not just through this chapter, but through the whole book. A nut saved is a nut earned, and you now know how to gather, protect, and grow your nut stash for a lifetime. Before you close this page, pick four things to actually do this month: capture the full 401(k) match at work, open a Roth IRA and set up an automatic transfer, freeze your credit at all three bureaus, and sign a healthcare proxy and durable power of attorney. Small moves today, compounded over decades, are what build a comfortable retirement — and a calm, confident life along the way. Now go plant some acorns.
 
 ## References
 
