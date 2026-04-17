@@ -1,0 +1,14 @@
+{
+  "sim_id": "risk-return-spectrum",
+  "diagram_name": "Risk-Return Spectrum",
+  "chapter_number": 5,
+  "chapter_title": "Saving and Investing",
+  "chapter_dir": "05-saving-and-investing",
+  "library": "p5.js",
+  "bloom_level": null,
+  "bloom_verb": null,
+  "learning_objective": null,
+  "completion_status": "specified",
+  "extracted_date": "2026-04-17",
+  "specification": "Type: interactive-infographic\n**sim-id:** risk-return-spectrum<br/>\n**Library:** p5.js<br/>\n**Status:** Specified\n\nA horizontal spectrum infographic showing investment types arranged by historical risk and expected return. The X-axis represents risk (low on left, high on right), and the Y-axis represents expected long-term annual return.\n\nPlot points from left to right:\n\n- Cash/Savings Account (risk 1, return 0.5%)\n- High-Yield Savings (risk 1, return 4%)\n- CDs (risk 2, return 4%)\n- Treasury Bonds (risk 3, return 4%)\n- Municipal Bonds (risk 4, return 4.5%)\n- Corporate Bonds (risk 5, return 5.5%)\n- Balanced Fund 60/40 (risk 6, return 7%)\n- Stock Index Fund (risk 8, return 10%)\n- Individual Stocks (risk 10, return 10% average, much higher variance)\n\nEach point is a labeled circle. Hovering over a point displays a tooltip with a one-sentence definition, typical holding period, and historical best/worst annual return. A dashed line labeled \"average inflation (~3%)\" runs horizontally. A toggle button switches between \"nominal return\" and \"real return (after inflation)\" views.\n\nCanvas 900x500 responsive to window resize. Learning objective (Bloom: Analyzing): Students compare asset classes and see that higher return expectations always come bundled with higher potential loss.\n\nImplementation: p5.js with hover tooltips and responsive layout."
+}

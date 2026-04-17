@@ -1,0 +1,14 @@
+{
+  "sim_id": "compound-interest-explorer",
+  "diagram_name": "Compound Interest Explorer",
+  "chapter_number": 5,
+  "chapter_title": "Saving and Investing",
+  "chapter_dir": "05-saving-and-investing",
+  "library": "p5.js",
+  "bloom_level": null,
+  "bloom_verb": null,
+  "learning_objective": null,
+  "completion_status": "specified",
+  "extracted_date": "2026-04-17",
+  "specification": "Type: microsim\n**sim-id:** compound-interest-explorer<br/>\n**Library:** p5.js<br/>\n**Status:** Specified\n\nAn interactive MicroSim that lets students explore how compound interest builds wealth over time.\n\nControls (top panel):\n\n- Starting principal slider ($0 to $10,000, default $1,000)\n- Monthly contribution slider ($0 to $500, default $100)\n- Annual return slider (0% to 12%, default 7%)\n- Time horizon slider (5 to 50 years, default 30)\n- Toggle: \"Show principal only\" vs \"Show principal + growth\" (stacked area)\n\nVisualization:\n\n- X-axis is years, Y-axis is balance in dollars\n- Stacked area chart showing cumulative contributions (bottom, blue) and investment growth (top, green)\n- A readout displays final balance, total contributions, and total growth\n- A second readout shows what the same contributions would produce in a 0.5% savings account, for comparison\n\nCanvas 800x500, responsive to window resize. Learning objective (Bloom: Analyzing): Students manipulate time horizon and return rate to see how compounding dominates over decades and understand why starting early matters more than contributing more later.\n\nImplementation: p5.js with live-updating chart."
+}
