@@ -1,0 +1,14 @@
+{
+  "sim_id": "compound-interest-growth-comparison",
+  "diagram_name": "Compound Interest Growth Comparison",
+  "chapter_number": 2,
+  "chapter_title": "Banking And Cash Management",
+  "chapter_dir": "02-banking-and-cash-management",
+  "library": "p5.js for visualization, compound interest formula: A = P(1 + r/12)^(12t) + PMT × (((1 + r/12)^(12t) - 1) / (r/12))",
+  "bloom_level": null,
+  "bloom_verb": null,
+  "learning_objective": null,
+  "completion_status": "specified",
+  "extracted_date": "2026-04-17",
+  "specification": "Type: microsim\n\nLearning objective: Demonstrate the power of compound interest and the significant difference between traditional and high-yield savings accounts over time (Bloom's: Understanding, Analyzing)\n\nCanvas layout (900x600px):\n- Top area (900x400): Line graph showing account balance growth over time\n- Bottom area (900x200): Control panel with inputs\n\nVisual elements:\n- Two lines on graph: Blue (traditional savings 0.5% APY), Green (high-yield savings 4.5% APY)\n- X-axis: Time in years (0-30)\n- Y-axis: Account balance in dollars\n- Shaded area between lines showing the \"lost earnings\" with traditional savings\n- Data point markers showing values at 1, 5, 10, 20, and 30 years\n\nInteractive controls:\n- Slider: Initial deposit ($100 - $10,000, default: $5,000)\n- Slider: Monthly deposit ($0 - $1,000, default: $100)\n- Slider: Traditional APY (0.1% - 1.0%, default: 0.5%)\n- Slider: High-yield APY (3.0% - 6.0%, default: 4.5%)\n- Slider: Time horizon (1 - 30 years, default: 10)\n- Display: Total contributed amount\n- Display: Traditional account final balance\n- Display: High-yield account final balance\n- Display: Difference between accounts\n- Button: \"Reset to defaults\"\n\nDefault scenario:\n- Initial deposit: $5,000\n- Monthly deposit: $100\n- Traditional APY: 0.5%\n- High-yield APY: 4.5%\n- Time: 10 years\n- Results: Traditional = $17,764, High-yield = $21,967, Difference = $4,203\n\nBehavior:\n- Graph updates in real-time as sliders move\n- Tooltip on hover shows exact balance at that year\n- Animate line drawing when parameters change\n- Highlight the difference area in gold\n- Show percentage difference as well as dollar difference\n\nEducational insights displayed:\n- \"After 10 years, you've earned $X more with high-yield savings\"\n- \"That's equivalent to Y months of contributions!\"\n- \"Your money is working Z times harder with a high-yield account\"\n\nImplementation: p5.js for visualization, compound interest formula: A = P(1 + r/12)^(12t) + PMT × (((1 + r/12)^(12t) - 1) / (r/12))"
+}

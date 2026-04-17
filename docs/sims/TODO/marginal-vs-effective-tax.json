@@ -1,0 +1,14 @@
+{
+  "sim_id": "marginal-vs-effective-tax",
+  "diagram_name": "Marginal vs. Effective Tax Rate",
+  "chapter_number": 6,
+  "chapter_title": "Income and Taxes",
+  "chapter_dir": "06-income-and-taxes",
+  "library": "p5.js",
+  "bloom_level": null,
+  "bloom_verb": null,
+  "learning_objective": null,
+  "completion_status": "specified",
+  "extracted_date": "2026-04-17",
+  "specification": "Type: microsim\n**sim-id:** marginal-vs-effective-tax<br/>\n**Library:** p5.js<br/>\n**Status:** Specified\n\nAn interactive MicroSim that shows how federal income tax is calculated bracket by bracket.\n\nControls:\n\n- Income slider ($0 to $500,000, default $60,000)\n- Filing status dropdown (Single, Married Filing Jointly, Head of Household)\n- Year selector (2024, 2025)\n\nVisualization:\n\n- A vertical stacked bar on the left representing the user's taxable income, divided into color-coded segments by bracket (10%, 12%, 22%, 24%, 32%, 35%, 37%)\n- A matching horizontal chart on the right showing the tax owed per bracket\n- Two large readouts at the top: \"Marginal Rate: X%\" and \"Effective Rate: Y%\"\n- A bar at the bottom shows \"What you keep\" vs \"What you pay\" with exact dollar amounts\n\nAs the user moves the income slider, the segments fill in and the readouts update live. Hovering any bracket shows the income range and dollars of tax in that bracket.\n\nCanvas 900x550, responsive. Learning objective (Bloom: Analyzing): Students see concretely that marginal rate never equals effective rate (except at very low incomes) and understand how the progressive system works.\n\nImplementation: p5.js with responsive layout and live calculation."
+}

@@ -1,0 +1,14 @@
+{
+  "sim_id": "financial-institution-comparison",
+  "diagram_name": "Financial Institution Comparison",
+  "chapter_number": 2,
+  "chapter_title": "Banking And Cash Management",
+  "chapter_dir": "02-banking-and-cash-management",
+  "library": null,
+  "bloom_level": null,
+  "bloom_verb": null,
+  "learning_objective": null,
+  "completion_status": "specified",
+  "extracted_date": "2026-04-17",
+  "specification": "Type: infographic\n\n  Purpose: Help students visually compare the three main types of financial institutions and make an informed choice\n\n  Layout: Three-column comparison with icons at top\n\n  Columns:\n  1. Commercial Banks (blue theme, building icon)\n  2. Credit Unions (green theme, handshake icon)\n  3. Online Banks (purple theme, smartphone icon)\n\n  Comparison rows:\n  - Ownership: \"Shareholder-owned\" | \"Member-owned nonprofit\" | \"Shareholder-owned\"\n  - Branches: \"Many locations\" | \"Fewer locations\" | \"No physical branches\"\n  - Fees: \"Higher fees\" | \"Lower fees\" | \"Lowest fees\"\n  - Savings rates: \"Low APY\" | \"Medium APY\" | \"Highest APY\"\n  - Technology: \"Advanced apps\" | \"Good apps\" | \"Best apps\"\n  - Insurance: \"FDIC $250k\" | \"NCUA $250k\" | \"FDIC $250k\"\n  - Best for: \"Comprehensive services\" | \"Lower costs, community\" | \"Best rates, tech users\"\n\n  Interactive elements:\n  - Hover over each cell to see detailed explanation\n  - Click column header to highlight all advantages in that column\n  - Toggle at bottom to filter by priority: \"Lowest fees\" | \"Most convenient\" | \"Best rates\"\n\n  Visual style: Clean, modern cards with icons and color coding\n\n  Implementation: HTML/CSS/JavaScript with interactive filtering"
+}

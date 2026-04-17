@@ -1,0 +1,14 @@
+{
+  "sim_id": "insurance-cost-components",
+  "diagram_name": "Insurance Cost Components",
+  "chapter_number": 7,
+  "chapter_title": "Insurance And Risk Management",
+  "chapter_dir": "07-insurance-and-risk-management",
+  "library": "HTML/CSS/JavaScript with SVG for visual components",
+  "bloom_level": null,
+  "bloom_verb": null,
+  "learning_objective": null,
+  "completion_status": "specified",
+  "extracted_date": "2026-04-17",
+  "specification": "Type: infographic\n\nPurpose: Illustrate the four key cost components of insurance policies and how they interact\n\nLearning objective: **Understanding** - Explain the relationship between premiums, deductibles, co-payments, and out-of-pocket maximums\n\nLayout: Visual diagram showing a year timeline with cost components stacked\n\nComponents:\n\n1. Premium (top layer - continuous)\n   - Visual: Horizontal bar spanning full year\n   - Color: Blue\n   - Label: \"Premium: $200/month = $2,400/year\"\n   - Hover text: \"Regular payment you make whether or not you use insurance\"\n\n2. Deductible (second layer - early year)\n   - Visual: Large rectangle at start of year\n   - Color: Orange\n   - Label: \"Deductible: $1,500\"\n   - Hover text: \"Amount you pay before insurance starts covering costs\"\n\n3. Co-payments (third layer - scattered)\n   - Visual: Small rectangles scattered across timeline after deductible\n   - Color: Yellow\n   - Label: \"Co-pay: $30 per visit\"\n   - Hover text: \"Fixed amount you pay for each service after meeting deductible\"\n\n4. Out-of-Pocket Maximum (boundary line)\n   - Visual: Vertical line at a point in timeline\n   - Color: Green\n   - Label: \"Out-of-Pocket Max: $6,000\"\n   - Hover text: \"Maximum you'll pay in a year - insurance covers 100% after this\"\n\nInteractive elements:\n- Hover over each component to see definition\n- Click component to see example scenarios\n- Toggle button: \"Show Example: $10,000 Surgery\"\n  - When toggled, show how costs are split between patient and insurance\n\nExample scenario (surgery):\n- Premium: Patient always pays ($200/month)\n- First $1,500: Patient pays (deductible)\n- Next $4,500: Patient pays $900 (20% coinsurance), Insurance pays $3,600\n- Out-of-pocket reached: Insurance covers rest 100%\n- Patient total: $2,400 (premium) + $1,500 (deductible) + $900 (coinsurance) = $4,800\n- Insurance total: $5,200\n\nImplementation: HTML/CSS/JavaScript with SVG for visual components\nCanvas size: 800x400px"
+}

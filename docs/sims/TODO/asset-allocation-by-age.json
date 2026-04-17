@@ -1,0 +1,14 @@
+{
+  "sim_id": "asset-allocation-by-age",
+  "diagram_name": "Asset Allocation by Age",
+  "chapter_number": 5,
+  "chapter_title": "Saving and Investing",
+  "chapter_dir": "05-saving-and-investing",
+  "library": "Chart.js",
+  "bloom_level": null,
+  "bloom_verb": null,
+  "learning_objective": null,
+  "completion_status": "specified",
+  "extracted_date": "2026-04-17",
+  "specification": "Type: chart\n**sim-id:** asset-allocation-by-age<br/>\n**Library:** Chart.js<br/>\n**Status:** Specified\n\nA stacked bar chart with age groups on the x-axis (20, 30, 40, 50, 60, 70) and percent allocation on the y-axis (0%–100%).\n\nEach bar is divided into three stacked segments:\n\n- Stocks (green, bottom)\n- Bonds (blue, middle)\n- Cash / CDs (yellow, top)\n\nSuggested allocations:\n\n- Age 20: 90% stocks, 10% bonds, 0% cash\n- Age 30: 85% stocks, 15% bonds, 0% cash\n- Age 40: 75% stocks, 20% bonds, 5% cash\n- Age 50: 65% stocks, 25% bonds, 10% cash\n- Age 60: 50% stocks, 35% bonds, 15% cash\n- Age 70: 40% stocks, 40% bonds, 20% cash\n\nA radio selector switches between \"Conservative,\" \"Moderate,\" and \"Aggressive\" presets. Hovering any bar segment shows the percentage and a one-sentence rationale.\n\nCanvas 700x450, responsive. Learning objective (Bloom: Applying): Students identify a reasonable starting allocation for their age and adjust based on risk tolerance.\n\nImplementation: Chart.js stacked bar with responsive design."
+}

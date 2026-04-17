@@ -1,0 +1,14 @@
+{
+  "sim_id": "paycheck-breakdown",
+  "diagram_name": "Anatomy of a Pay Stub",
+  "chapter_number": 6,
+  "chapter_title": "Income and Taxes",
+  "chapter_dir": "06-income-and-taxes",
+  "library": "p5.js",
+  "bloom_level": null,
+  "bloom_verb": null,
+  "learning_objective": null,
+  "completion_status": "specified",
+  "extracted_date": "2026-04-17",
+  "specification": "Type: interactive-infographic\n**sim-id:** paycheck-breakdown<br/>\n**Library:** p5.js<br/>\n**Status:** Specified\n\nAn interactive infographic showing a labeled sample pay stub with hover-to-explain tooltips on each deduction line.\n\nLayout: a realistic pay stub graphic on the left, an itemized bar chart on the right showing the same data visually. Hovering over a line on the pay stub highlights the matching bar segment and shows a tooltip with a plain-English explanation and the relevant tax concept.\n\nLines to include with tooltips:\n\n- Gross Pay (\"Your total earnings before anything is taken out\")\n- Federal Withholding (\"An estimate of your federal income tax, set by your W-4\")\n- Social Security Tax (\"6.2% to fund retirement benefits for current retirees\")\n- Medicare Tax (\"1.45% to fund healthcare for current retirees\")\n- State Tax (\"Varies by state — some states have no income tax\")\n- Health Insurance (\"Your share of the premium for employer-sponsored health coverage\")\n- 401(k) Contribution (\"Pre-tax retirement savings — reduces your taxable income\")\n- Net Pay (\"What actually lands in your account\")\n\nIncludes a salary slider ($20,000–$150,000) that recalculates all values dynamically. Canvas 900x500, responsive. Learning objective (Bloom: Understanding): Students identify each paycheck component and explain what it funds.\n\nImplementation: p5.js with responsive layout and hover tooltips."
+}

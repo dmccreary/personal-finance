@@ -1,0 +1,14 @@
+{
+  "sim_id": "phishing-email-anatomy",
+  "diagram_name": "Phishing Email Anatomy",
+  "chapter_number": 9,
+  "chapter_title": "Consumer Protection And Financial Security",
+  "chapter_dir": "09-consumer-protection-and-financial-security",
+  "library": "HTML/CSS/JavaScript interactive image",
+  "bloom_level": null,
+  "bloom_verb": null,
+  "learning_objective": null,
+  "completion_status": "specified",
+  "extracted_date": "2026-04-17",
+  "specification": "Type: infographic\n\nPurpose: Help students identify phishing email red flags through interactive examination\n\nLearning objective: **Evaluating** - Critique common financial scams and identify warning signs\n\nInteractive phishing email with clickable hotspots revealing red flags:\n- Sender email mismatch\n- Generic greeting  \n- Urgency/threats\n- Suspicious links\n- Grammar errors\n- Requests for sensitive info\n\nImplementation: HTML/CSS/JavaScript interactive image"
+}
