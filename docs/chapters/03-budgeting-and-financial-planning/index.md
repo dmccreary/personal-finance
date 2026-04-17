@@ -1,5 +1,9 @@
 # Budgeting and Financial Planning
 
+!!! mascot-welcome "Welcome to Chapter 3"
+    <img src="../../img/mascot/welcome.png" class="mascot-admonition-img" alt="Sylvia waving welcome">
+    A nut saved is a nut earned! A budget isn't a cage — it's permission to spend what's left after your important goals are covered. By the end of this chapter, you'll know how to track income and expenses, pick a budgeting method that fits you, and build an emergency fund big enough to matter.
+
 ## Summary
 
 This chapter teaches you how to create and maintain a personal budget, one of the most important skills for financial success. You'll explore various budgeting methods including the 50/30/20 rule, zero-based budgeting, and the envelope method, and learn how to track income and categorize expenses effectively. The chapter covers the critical distinction between needs and wants, and shows you how to build emergency funds ranging from three to six months of expenses. You'll also learn about automatic savings strategies, financial record keeping, and how to analyze spending patterns to adjust your budget over time.
@@ -55,6 +59,10 @@ Income tracking means recording all money that flows into your accounts, not jus
 The key distinction in income tracking is **gross income** versus **net income**. Your gross income is your total earnings before any deductions. Your net income (often called "take-home pay") is what actually hits your bank account after taxes, insurance premiums, retirement contributions, and other deductions.
 
 **Always budget based on net income, not gross**. If you earn $20/hour and work 20 hours per week, your gross monthly income is about $1,733. But after federal taxes, state taxes, and Social Security/Medicare taxes, your net income might only be $1,350-1,450. Budgeting with the gross amount would leave you short $300+ every month.
+
+!!! mascot-tip "Budget Net, Not Gross"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia giving a tip">
+    The gap between gross and net looks small per paycheck and enormous per month. Budgeting from the gross number is how people end up short every month without knowing why — always plan from what actually lands in your account.
 
 For consistent paychecks, income tracking is straightforward:
 
@@ -579,6 +587,10 @@ Tracking spending isn't just about recording numbers - it's about discovering pa
 
 **Subscription creep** is when small recurring charges accumulate unnoticed. That $5/month app, $10 streaming service, $15 premium software, and $20 subscription box add up to $50/month or $600/year. Regular analysis helps identify subscriptions you no longer use or value.
 
+!!! mascot-tip "Audit Your Subscriptions"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia giving a tip">
+    Once a year, scan three months of statements for every recurring charge and ask "am I still using this?" Most savers find $15–40 a month of drift — quietly funding services they forgot existed.
+
 **Timing patterns** matter too. Many people overspend right after payday when their account is full, then struggle at the end of the pay period. Recognizing this pattern helps you spread spending more evenly or adjust when you pay certain bills.
 
 **Seasonal variations** affect spending in predictable ways. Back-to-school shopping in August, holiday spending in November-December, spring break travel in March, and summer vacation costs all create spending spikes. Planning for these seasonal variations prevents budget-busting surprises.
@@ -696,6 +708,10 @@ Income → Save First → Pay Bills → Spend What's Left
 
 When you pay yourself first, saving happens automatically before you have a chance to spend the money. This works because of human psychology - we tend to spend whatever we have available. If $200 is already in savings, we adjust our spending to the remaining amount without feeling deprived.
 
+!!! mascot-thinking "Key Insight"
+    <img src="../../img/mascot/thinking.png" class="mascot-admonition-img" alt="Sylvia thinking">
+    Paying yourself first works because you adjust spending to whatever is left — not the other way around. Moving savings out of checking on payday turns "save what's left" into "spend what's left," and those produce very different bank accounts five years later.
+
 **How to implement pay yourself first:**
 
 1. **Decide your savings rate** - Start with at least 10-20% of net income. If this feels impossible, start with 5% and increase by 1% each month.
@@ -760,6 +776,10 @@ Emergency funds are for genuine emergencies, not predictable expenses or wants. 
 
 The distinction matters. If you raid your emergency fund for non-emergencies, it won't be there when you truly need it. For planned but infrequent expenses (car registration, annual insurance premiums, holiday shopping), create separate "sinking funds" rather than using emergency savings.
 
+!!! mascot-warning "Protect the Fund"
+    <img src="../../img/mascot/warning.png" class="mascot-admonition-img" alt="Sylvia warning">
+    An emergency fund raided for non-emergencies isn't an emergency fund anymore — it's just another checking account. Before you tap it, ask: would I put this on a credit card if the fund didn't exist? If yes, it isn't an emergency.
+
 ### Emergency Fund: Building the Foundation
 
 Everyone's emergency fund journey starts with a starter emergency fund of $500-1,000. This small fund covers minor emergencies - a car repair, urgent doctor visit, or broken phone - without resorting to credit cards.
@@ -816,6 +836,10 @@ Three-month emergency fund: $1,800 × 3 = $5,400
 
 **Building timeline:**
 At $200/month savings, this takes 27 months (just over 2 years). At $400/month, it takes 13.5 months (just over 1 year). The timeline feels long, but remember you're building while also covering your needs and wants. Every dollar saved is progress.
+
+!!! mascot-encourage "Slow Progress Is Still Progress"
+    <img src="../../img/mascot/encouraging.png" class="mascot-admonition-img" alt="Sylvia encouraging">
+    Twenty-seven months can sound discouraging. Every deposit moves you forward, and the habit you build along the way is worth more than the exact ending balance. The hard part was starting — and you're past that.
 
 A three-month emergency fund covers:
 - Most job searches (median job search is 2-3 months)

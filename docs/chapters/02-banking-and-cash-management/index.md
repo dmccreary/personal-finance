@@ -1,5 +1,9 @@
 # Banking and Cash Management
 
+!!! mascot-welcome "Welcome to Chapter 2"
+    <img src="../../img/mascot/welcome.png" class="mascot-admonition-img" alt="Sylvia waving welcome">
+    A nut saved is a nut earned! This chapter covers the accounts, tools, and habits that move your money safely through daily life. By the end, you'll know how to pick the right bank, dodge the fees that quietly drain accounts, and send money the smart way.
+
 ## Summary
 
 This chapter explores the practical world of banking and financial institutions that you'll use throughout your life. You'll learn about different types of financial institutions including commercial banks and credit unions, and how to choose and manage checking and savings accounts. The chapter covers modern banking tools like mobile apps and electronic payment systems (ACH, wire transfers, and peer-to-peer payments), as well as essential topics like account security, fees, and FDIC insurance. Understanding these banking fundamentals is crucial before moving on to budgeting, investing, and other financial activities.
@@ -168,6 +172,10 @@ Let's compare the growth of $5,000 saved for one year:
 
 That's over 20 times more interest earnings just for choosing a better account! Over multiple years with regular deposits, the difference becomes even more dramatic.
 
+!!! mascot-tip "Sylvia's Tip"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia giving a tip">
+    Moving your savings to a high-yield account takes an afternoon of paperwork and pays itself back twenty-fold every year. It may be the highest-return hour you'll ever spend.
+
 High-yield savings accounts are almost exclusively offered by online banks. Without physical branches to maintain, these banks pass the savings on to customers through better rates. The accounts function identically to traditional savings accounts with the same FDIC insurance protection, but you'll manage everything through a mobile app or website.
 
 #### Diagram: Compound Interest Growth Comparison
@@ -253,6 +261,10 @@ Bank fees can quietly drain hundreds of dollars from your accounts each year if 
 
 **ATM fees** have two components: your bank's fee ($2-$3) for using another bank's ATM, plus the ATM owner's fee ($2-$4). Using an out-of-network ATM once a week costs about $15/month or $180/year! Always use in-network ATMs, or choose banks that reimburse ATM fees.
 
+!!! mascot-warning "Watch Out"
+    <img src="../../img/mascot/warning.png" class="mascot-admonition-img" alt="Sylvia warning">
+    An out-of-network ATM habit — once a week — runs about $180 a year. That's a weekend trip or a month of groceries, quietly vanishing one withdrawal at a time.
+
 **Foreign transaction fees** (1-3% of purchase) apply when you use your debit card internationally. If you travel abroad, look for accounts with no foreign transaction fees.
 
 **Paper statement fees** ($1-$5/month) can be completely avoided by choosing electronic statements instead. There's no good reason to pay for paper statements when you can access them instantly online.
@@ -316,6 +328,10 @@ Bank fees can quietly drain hundreds of dollars from your accounts each year if 
 
   Implementation: Chart.js stacked bar chart with tooltips
 </details>
+
+!!! mascot-thinking "Key Insight"
+    <img src="../../img/mascot/thinking.png" class="mascot-admonition-img" alt="Sylvia thinking">
+    Most bank fees are designed to catch inattention, not to pay for real services. A fee-aware customer pays near zero; a distracted one pays hundreds a year. Attention is the product the bank is really charging for.
 
 ## Modern Banking Tools
 
@@ -536,6 +552,10 @@ Wire transfers are individual, real-time payments sent directly from one bank to
 **Wire transfer costs:** Domestic wire transfers typically cost $15-35 to send and $0-15 to receive. International wires cost $35-50 to send. These fees make wires impractical for routine transactions.
 
 **Wire transfer safety:** The irreversible nature of wire transfers makes them attractive to scammers. Never wire money to someone you don't know, even if they claim to be from the IRS, a family member in distress, or a lottery organization. Legitimate organizations rarely request payment via wire transfer.
+
+!!! mascot-warning "Wire-Transfer Scams"
+    <img src="../../img/mascot/warning.png" class="mascot-admonition-img" alt="Sylvia warning">
+    Once a wire leaves your account, it's gone — which is exactly why scammers push for them. No legitimate government agency, grandchild in trouble, or prize winner will ever ask you to wire money. Hang up, close the chat, and walk away.
 
 ### Peer-to-Peer Payment Apps
 
@@ -799,6 +819,10 @@ Now that you understand the pieces, let's discuss how to set up an effective ban
 - Week 4: Reconcile accounts with bank statements
 - Every month: Transfer predetermined amount to savings (automate this!)
 
+!!! mascot-tip "Automate the Boring Parts"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia giving a tip">
+    Automatic transfers beat willpower every time. Set it up once on payday, and you'll stash acorns without having to remember — which is the whole point.
+
 **Red flags that suggest switching banks:**
 
 - Excessive fees you can't avoid
@@ -829,6 +853,10 @@ Banking is the foundation of your financial life, and choosing the right account
 **FDIC insurance** protects up to $250,000 per depositor per bank, guaranteeing you'll get your money back if your bank fails. For most people, this provides complete protection. Credit unions have equivalent NCUA insurance.
 
 With these banking fundamentals mastered, you're ready to build on this foundation with budgeting, saving, and investing strategies in the upcoming chapters. Good banking practices - choosing the right accounts, minimizing fees, using security best practices, and leveraging modern tools - will serve you throughout your entire financial life.
+
+!!! mascot-celebration "Well Done"
+    <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Sylvia celebrating">
+    You just added another acorn to your stash. You can now compare banks, spot the fees that catch the inattentive, pick the right electronic payment for any situation, and keep your accounts safe from fraud.
 
 ## References
 

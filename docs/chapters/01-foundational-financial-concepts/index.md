@@ -1,5 +1,9 @@
 # Foundational Financial Concepts
 
+!!! mascot-welcome "Welcome to Chapter 1"
+    <img src="../../img/mascot/welcome.png" class="mascot-admonition-img" alt="Sylvia waving welcome">
+    Hi — I'm Sylvia the Squirrel, your guide through this book. I'll pop up throughout every chapter to highlight key insights, flag common money mistakes, share practical tips, and cheer you on at milestones; the rest of the time, I step aside so you can read. A nut saved is a nut earned — and by the end of this chapter you'll know how to set real goals, calculate your net worth, and spot the trade-offs hiding in your everyday choices.
+
 ## Summary
 
 This chapter introduces the core principles of financial literacy that form the foundation for all other personal finance topics. You'll learn essential concepts including money management, goal setting using the SMART framework, opportunity cost, and the time value of money. The chapter also covers how to calculate and track your net worth, manage cash flow, and make sound financial decisions. These foundational skills are prerequisites for understanding credit, investing, budgeting, and all other aspects of personal finance covered in later chapters.
@@ -187,6 +191,10 @@ When you spend $100 on concert tickets, the opportunity cost isn't just the $100
 
 So the true opportunity cost of spending $100 today is potentially $1,497 at retirement!
 
+!!! mascot-encourage "Take Your Time Here"
+    <img src="../../img/mascot/encouraging.png" class="mascot-admonition-img" alt="Sylvia encouraging">
+    If that number looks surprising, you're not alone. The idea that $100 today can grow into $1,497 takes most savers a few reads to really sink in. It's fine to sit with this one before moving on.
+
 ### Making Smart Trade-offs
 
 A **trade-off** is what you're willing to sacrifice to get something else. Good financial management means making conscious trade-offs aligned with your goals.
@@ -300,6 +308,10 @@ Let's look at an example for a 22-year-old recent college graduate:
 **Net Worth = $17,000 - $32,200 = -$15,200**
 
 A negative net worth is common for young adults just starting out. The key is tracking it over time and watching it grow!
+
+!!! mascot-thinking "Key Insight"
+    <img src="../../img/mascot/thinking.png" class="mascot-admonition-img" alt="Sylvia thinking">
+    Net worth measures financial health better than income does. Someone earning $200,000 with $300,000 in debt is poorer than someone earning $60,000 with $20,000 saved — and tracking net worth is the only way to see it.
 
 ### Net Worth Tracking
 
@@ -455,6 +467,10 @@ An **emergency fund** is money set aside specifically for unexpected expenses or
 - A 50% savings rate means financial independence in 17 years
 - A 70% savings rate means financial independence in 8.5 years
 
+!!! mascot-tip "Sylvia's Tip"
+    <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Sylvia giving a tip">
+    Your savings rate matters more than your investment returns in the early years. Moving from a 10% rate to a 20% rate changes your timeline to financial independence by decades — before you pick a single stock.
+
 **Strategy 3: Invest for Growth**
 - Take advantage of compound returns over long periods
 - Invest in assets that appreciate (stocks, real estate, businesses)
@@ -607,6 +623,10 @@ Create a simple net worth statement for yourself:
 | **Total Liabilities** | **$** |
 
 | **Net Worth** | **$** |
+
+!!! mascot-celebration "Well Done"
+    <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Sylvia celebrating">
+    You just added another acorn to your stash. You can now set SMART goals, calculate your net worth, spot opportunity costs in everyday choices, and explain why starting early is so powerful.
 
 ## Looking Ahead
 

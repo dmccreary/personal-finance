@@ -91,6 +91,7 @@ nav:
     - Chapter Metrics: learning-graph/chapter-metrics.md
     - Quiz Quality Report: learning-graph/quiz-generation-report.md
     - FAQ Log: learning-graph/faqs.md
+    - Mascot Style Guide: learning-graph/mascot-test.md
 
   - Prompts:
     - Introduction: prompts/index.md
@@ -123,7 +124,7 @@ nav:
 
 theme:
   name: material
-  logo: img/logo.png
+  logo: img/mascot/neutral.png
   favicon: img/favicon.ico
   palette:
     primary: 'green'
