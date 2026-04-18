@@ -37,8 +37,8 @@ His paycheck wasn't for another twelve days.
 *"I just need four hundred dollars for twelve days,"* he said out loud, to nobody. *"That's it. Twelve days."*
 
 ![](./panel-01.png)
-<details><summary>Image Prompt</summary>A warm contemporary illustrated 16:9 scene. Tariq, an eighteen-year-old with close-cropped hair and a grocery-store work polo, stands in an auto-repair shop bay. His sedan is up on a lift. A mechanic in coveralls holds an alternator, explaining. Tariq is looking at his phone, at a mostly-empty bank-account screen. Natural garage lighting. Mood: the kind of stuck feeling most viewers will recognize. Generate the image immediately without asking clarifying questions.</details>
-(This is panel 1. Do not put the panel number in the image.) 
+<details><summary>Image Prompt</summary>(This is panel 1. Do not put the panel number in the image.) A warm contemporary illustrated 16:9 scene. Tariq, an eighteen-year-old with close-cropped hair and a grocery-store work polo, stands in an auto-repair shop bay. His sedan is up on a lift. A mechanic in coveralls holds an alternator, explaining. Tariq is looking at his phone, at a mostly-empty bank-account screen. Natural garage lighting. Mood: the kind of stuck feeling most viewers will recognize. Generate the image immediately without asking clarifying questions.</details>
+
 ## The Storefront on the Corner
 
 On his walk home, Tariq passed a storefront he'd noticed a hundred times and never gone into. The sign read CASH NOW — EASY APPROVAL in red neon. A smaller poster in the window showed a smiling family and the words: *"Borrow $400 for only $60. Pay back on payday. Simple."*
@@ -50,8 +50,8 @@ He went inside. The clerk was polite and quick. She asked for a pay stub, a bank
 The car was fixed by Saturday. He made his shifts.
 
 ![](./panel-02.png)
-<details><summary>Image Prompt</summary>A contemporary illustrated 16:9 scene. The interior of a payday-loan storefront. Warm but slightly harsh fluorescent lighting. A glass counter with a clerk on one side, polite and professional. Tariq on the customer side, signing a short form. On the wall behind the clerk, a bright poster reads "Borrow $400 — Only $60 Fee!" A television in the corner shows mute cable news. Mood: deceptively ordinary. Generate the image immediately without asking clarifying questions.</details>
-(This is panel 2. Do not put the panel number in the image.) 
+<details><summary>Image Prompt</summary>(This is panel 2. Do not put the panel number in the image.) A contemporary illustrated 16:9 scene. The interior of a payday-loan storefront. Warm but slightly harsh fluorescent lighting. A glass counter with a clerk on one side, polite and professional. Tariq on the customer side, signing a short form. On the wall behind the clerk, a bright poster reads "Borrow $400 — Only $60 Fee!" A television in the corner shows mute cable news. Mood: deceptively ordinary. Generate the image immediately without asking clarifying questions.</details>
+
 ## The First Skeptical Question
 
 Two weeks later, payday came and went, and so did the $460 withdrawal from Tariq's checking account. That part worked the way he'd expected. But it cleaned out his paycheck. His phone bill was due. Groceries were low. His aunt's electric bill was coming. He had no cushion.
@@ -65,8 +65,8 @@ That Saturday, at a neighborhood cookout, he mentioned what he'd done to an olde
 *"It's always an interest rate,"* Marcus said. *"They just dressed it up."*
 
 ![](./panel-03.png)
-<details><summary>Image Prompt</summary>A warm contemporary illustrated 16:9 backyard cookout scene. Marcus, a Black man in his early thirties with glasses and a short beard, wears a relaxed polo shirt. He stands at a picnic table across from Tariq, who has a paper plate of food. A grill smokes in the background. Marcus has paused mid-meal, his attention now fully on Tariq. Summer evening light, string lights overhead. Mood: serious but not harsh, the tone of an older cousin who actually cares. Generate the image immediately without asking clarifying questions.</details>
-(This is panel 3. Do not put the panel number in the image.) 
+<details><summary>Image Prompt</summary>(This is panel 3. Do not put the panel number in the image.) A warm contemporary illustrated 16:9 backyard cookout scene. Marcus, a Black man in his early thirties with glasses and a short beard, wears a relaxed polo shirt. He stands at a picnic table across from Tariq, who has a paper plate of food. A grill smokes in the background. Marcus has paused mid-meal, his attention now fully on Tariq. Summer evening light, string lights overhead. Mood: serious but not harsh, the tone of an older cousin who actually cares. Generate the image immediately without asking clarifying questions.</details>
+
 ## Marcus at the Picnic Table
 
 Marcus asked for a napkin and a pen. His six-year-old niece brought him one, with a crayon, and he used it.
@@ -91,8 +91,8 @@ Tariq stared at the napkin. *"But I didn't keep it for a year. I only had it for
 *"That's what they want you to think,"* Marcus said. *"That's the whole design. Let me show you the carousel."*
 
 ![](./panel-04.png)
-<details><summary>Image Prompt</summary>A warm contemporary illustrated 16:9 close-up of Marcus's hands with a crayon, writing on a paper napkin at a picnic table. The napkin shows the math: "$60 ÷ $400 = 15% / 2 weeks" and beneath it, circled, "391% APR." A plate of food sits to the side. The crayon is bright red. A child's drawing of a sun in the corner of the napkin. Generate the image immediately without asking clarifying questions.</details>
-(This is panel 4. Do not put the panel number in the image.) 
+<details><summary>Image Prompt</summary>(This is panel 4. Do not put the panel number in the image.) A warm contemporary illustrated 16:9 close-up of Marcus's hands with a crayon, writing on a paper napkin at a picnic table. The napkin shows the math: "$60 ÷ $400 = 15% / 2 weeks" and beneath it, circled, "391% APR." A plate of food sits to the side. The crayon is bright red. A child's drawing of a sun in the corner of the napkin. Generate the image immediately without asking clarifying questions.</details>
+
 ## The Carousel
 
 *"About four out of every five payday loans get rolled over or followed by another payday loan within two weeks,"* Marcus said. *"That's not a rumor. That's the Consumer Financial Protection Bureau's own research. They looked at millions of loans."*
@@ -117,8 +117,8 @@ He wrote again:
 *"In twelve weeks, you've handed the store three hundred and sixty dollars, and your balance is exactly what it started at. That's the carousel."*
 
 ![](./panel-05.png)
-<details><summary>Image Prompt</summary>A warm contemporary illustrated 16:9 scene with a dreamlike quality. At the picnic table, Tariq imagines a small wooden carousel spinning in front of him, the size of a centerpiece. Six carousel horses, each stamped with "$60," circle a central post labeled "$400" that never gets any smaller. Marcus points at it with the crayon. The garden and evening string lights remain softly visible behind. Symbolic, not dark. Generate the image immediately without asking clarifying questions.</details>
-(This is panel 5. Do not put the panel number in the image.) 
+<details><summary>Image Prompt</summary>(This is panel 5. Do not put the panel number in the image.) A warm contemporary illustrated 16:9 scene with a dreamlike quality. At the picnic table, Tariq imagines a small wooden carousel spinning in front of him, the size of a centerpiece. Six carousel horses, each stamped with "$60," circle a central post labeled "$400" that never gets any smaller. Marcus points at it with the crayon. The garden and evening string lights remain softly visible behind. Symbolic, not dark. Generate the image immediately without asking clarifying questions.</details>
+
 ## The Aha: A Fee and an Interest Rate Aren't Two Different Things
 
 Tariq put down his plate. Something in his head clicked into place.
@@ -132,8 +132,8 @@ Tariq put down his plate. Something in his head clicked into place.
 *"The CFPB found that about three-quarters of all payday-lender revenue came from borrowers who were stuck in long chains of rollovers,"* Marcus said. *"The carousel isn't a side effect. It's the main product."*
 
 ![](./panel-06.png)
-<details><summary>Image Prompt</summary>A warm contemporary illustrated 16:9 image. Tariq looks up from the napkin with a clear expression, no longer confused. Marcus is nodding. In the background, string lights are glowing gently. On the table, the napkin sits between them with the carousel math fully visible. A fresh, calm mood, as if a fog has lifted. Generate the image immediately without asking clarifying questions.</details>
-(This is panel 6. Do not put the panel number in the image.) 
+<details><summary>Image Prompt</summary>(This is panel 6. Do not put the panel number in the image.) A warm contemporary illustrated 16:9 image. Tariq looks up from the napkin with a clear expression, no longer confused. Marcus is nodding. In the background, string lights are glowing gently. On the table, the napkin sits between them with the carousel math fully visible. A fresh, calm mood, as if a fog has lifted. Generate the image immediately without asking clarifying questions.</details>
+
 ## The Weight Marcus Named
 
 Marcus leaned back for a moment.
@@ -151,8 +151,8 @@ Tariq was quiet for a long time.
 *"That's the right answer,"* Marcus said. *"And next time something breaks at the wrong moment, you call me before you walk into a store."*
 
 ![](./panel-07.png)
-<details><summary>Image Prompt</summary>A warm contemporary illustrated 16:9 scene. Marcus and Tariq are walking slowly along a quiet residential sidewalk after the cookout, in the blue of early evening. Porch lights glow softly. Tariq has his hands in his hoodie pockets; Marcus walks beside him, a step slower, talking gently. The napkin from the picnic table is folded and poking out of Tariq's pocket. Mood: settled, supported. Generate the image immediately without asking clarifying questions.</details>
-(This is panel 7. Do not put the panel number in the image.) 
+<details><summary>Image Prompt</summary>(This is panel 7. Do not put the panel number in the image.) A warm contemporary illustrated 16:9 scene. Marcus and Tariq are walking slowly along a quiet residential sidewalk after the cookout, in the blue of early evening. Porch lights glow softly. Tariq has his hands in his hoodie pockets; Marcus walks beside him, a step slower, talking gently. The napkin from the picnic table is folded and poking out of Tariq's pocket. Mood: settled, supported. Generate the image immediately without asking clarifying questions.</details>
+
 ## The Moral of the Story
 
 Tariq walked home that night with a folded napkin in his hoodie pocket and a phone number in his contacts labeled "Marcus — before you borrow."

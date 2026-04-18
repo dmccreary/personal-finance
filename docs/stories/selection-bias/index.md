@@ -108,11 +108,7 @@ Let me perform one more search to get more specific data about fund performance:
 
 Now let me search for a reference about backtesting bias:
 
-
-
 Let me do one more search to find information about John Bogle and index funds:
-
-
 
 Based on my research, here are six scholarly references to support the key facts presented in "The Magic Curtain: A Tale of Selection Bias in the Investment World":
 

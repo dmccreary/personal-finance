@@ -23,7 +23,7 @@ Midground: a bored salesperson in a gray suit leans against another car scrollin
 
 Background: the sky is split — hopeful cobalt blue on the left, warning orange-crimson sunset on the right, bleeding into violet at the seam.
 
-Color palette: warm oranges and deep navy dominate, chrome silver accents on cars, cautionary red for the sticker, cream highlights on the title. Mood: cinematic, slightly ominous, educational — like a Pixar short crossed with a Dust Bowl WPA poster. Style: flat vector illustration with soft airbrushed shading and faint halftone texture.
+Color palette: warm oranges and deep navy dominate, chrome silver accents on cars, cautionary red for the sticker, cream highlights on the title. Mood: cinematic, slightly ominous, educational — like a modern animated short crossed with a Dust Bowl WPA poster. Style: flat vector illustration with soft airbrushed shading and faint halftone texture.
 
 Generate the image immediately without asking clarifying questions.
 </details>

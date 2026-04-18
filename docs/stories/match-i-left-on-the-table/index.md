@@ -37,8 +37,8 @@ She opened it, skimmed it, and set it to the side. Retirement was forty-somethin
 *"I'll do it later,"* she told herself. *"I need every dollar of my paycheck right now."*
 
 ![](./panel-01.png)
-<details><summary>Image Prompt</summary>A warm contemporary illustrated 16:9 scene of a young Black woman, Amara, sitting alone at a small kitchen table in a sparsely furnished apartment. She wears a cozy sweater and is surrounded by onboarding paperwork. A half-finished cup of tea sits beside her. One folder labeled "401(k) Enrollment" is pushed to the far edge of the table, almost falling off. Evening light from a single lamp. Mood: tired but hopeful. Generate the image immediately without asking clarifying questions.</details>
-(This is panel 1. Do not put the panel number in the image.) 
+<details><summary>Image Prompt</summary>(This is panel 1. Do not put the panel number in the image.) A warm contemporary illustrated 16:9 scene of a young Black woman, Amara, sitting alone at a small kitchen table in a sparsely furnished apartment. She wears a cozy sweater and is surrounded by onboarding paperwork. A half-finished cup of tea sits beside her. One folder labeled "401(k) Enrollment" is pushed to the far edge of the table, almost falling off. Evening light from a single lamp. Mood: tired but hopeful. Generate the image immediately without asking clarifying questions.</details>
+
 ## The Paycheck That Felt Smaller Than It Looked
 
 Two weeks later, Amara's first paycheck landed. She stared at the number on her phone screen for a full minute. Between federal tax, state tax, Social Security, Medicare, and health insurance, the $2,000 she had expected had become $1,483.
@@ -50,8 +50,8 @@ At lunch the next day, she mentioned it to a woman she'd just met — her desk n
 *"Oh, honey,"* the woman said gently, in the way only a retired HR person can. *"Can I ask you one question?"*
 
 ![](./panel-02.png)
-<details><summary>Image Prompt</summary>A warm contemporary illustrated 16:9 office break-room scene. Amara, in work-casual clothes, sits at a small round table looking at her phone with a screen visible showing a paystub. Across from her, Ms. Ellis, a retired HR director in her mid-sixties, is setting down a brown paper lunch bag. Ms. Ellis wears a soft navy cardigan and has salt-and-pepper hair in a short natural style. She leans in with friendly concern. Midday light. Coffee mugs, a plant on the windowsill. Generate the image immediately without asking clarifying questions.</details>
-(This is panel 2. Do not put the panel number in the image.) 
+<details><summary>Image Prompt</summary>(This is panel 2. Do not put the panel number in the image.) A warm contemporary illustrated 16:9 office break-room scene. Amara, in work-casual clothes, sits at a small round table looking at her phone with a screen visible showing a paystub. Across from her, Ms. Ellis, a retired HR director in her mid-sixties, is setting down a brown paper lunch bag. Ms. Ellis wears a soft navy cardigan and has salt-and-pepper hair in a short natural style. She leans in with friendly concern. Midday light. Coffee mugs, a plant on the windowsill. Generate the image immediately without asking clarifying questions.</details>
+
 ## The First Skeptical Question
 
 *"When you looked at that 401(k) packet,"* Ms. Ellis said, *"did anyone tell you what the employer match was?"*
@@ -67,8 +67,8 @@ Ms. Ellis's face did a very specific thing. It was not shock. It was not disappr
 *"Those are the same thing,"* Ms. Ellis said gently.
 
 ![](./panel-03.png)
-<details><summary>Image Prompt</summary>A warm contemporary illustrated 16:9 close-up of the two women across the break-room table. Amara's brow is furrowed, thinking. Ms. Ellis holds a folded napkin with the words "FREE MONEY" written on it in ballpoint pen, sliding it across the table. A pen rests nearby. Lighting is intimate and direct. The napkin is the focal point. Generate the image immediately without asking clarifying questions.</details>
-(This is panel 3. Do not put the panel number in the image.) 
+<details><summary>Image Prompt</summary>(This is panel 3. Do not put the panel number in the image.) A warm contemporary illustrated 16:9 close-up of the two women across the break-room table. Amara's brow is furrowed, thinking. Ms. Ellis holds a folded napkin with the words "FREE MONEY" written on it in ballpoint pen, sliding it across the table. A pen rests nearby. Lighting is intimate and direct. The napkin is the focal point. Generate the image immediately without asking clarifying questions.</details>
+
 ## Ms. Ellis Takes Out the Calculator App
 
 Ms. Ellis asked if she could see Amara's offer letter. Amara pulled it up on her phone.
@@ -92,8 +92,8 @@ She turned the phone around. The number read **$554,000.**
 Amara didn't say anything.
 
 ![](./panel-04.png)
-<details><summary>Image Prompt</summary>A contemporary illustrated 16:9 scene. Ms. Ellis is turning her phone toward Amara. The calculator screen glows, showing the number $554,000 in bold. In the space between them, a stylized graph rises like a small mountain range, suggesting growth over forty years. Background is soft-focus break-room. The phone and the number are the emotional center of the image. Generate the image immediately without asking clarifying questions.</details>
-(This is panel 4. Do not put the panel number in the image.) 
+<details><summary>Image Prompt</summary>(This is panel 4. Do not put the panel number in the image.) A contemporary illustrated 16:9 scene. Ms. Ellis is turning her phone toward Amara. The calculator screen glows, showing the number $554,000 in bold. In the space between them, a stylized graph rises like a small mountain range, suggesting growth over forty years. Background is soft-focus break-room. The phone and the number are the emotional center of the image. Generate the image immediately without asking clarifying questions.</details>
+
 ## The Aha: It's Like Buying a House Already Half Paid For
 
 *"Wait,"* Amara said. *"So if I put in five percent, they put in five percent — that's like... getting a hundred percent return on my contribution the instant I make it. Before any investment returns. Just for showing up."*
@@ -111,8 +111,8 @@ She wrote something else on the napkin.
 *"The time part matters almost as much as the match itself,"* she said. *"Every year you delay, the money you would have contributed this year doesn't get to compound for those extra years. Five years of skipping, at your age, costs you about fifty thousand dollars in future-you's account. Not in dollars you contributed. In growth you gave up."*
 
 ![](./panel-05.png)
-<details><summary>Image Prompt</summary>A warm contemporary illustrated 16:9 thought-bubble scene. Above the break-room table, Amara imagines a tidy suburban house with a path of stepping stones leading to the front door. Half the house is drawn in full color, with the roof and front walls solid. The other half is still in construction outlines, but glowing softly, as if it has already been paid for and is just waiting to be claimed. The break-room below remains grounded. Mood: hopeful revelation. Generate the image immediately without asking clarifying questions.</details>
-(This is panel 5. Do not put the panel number in the image.) 
+<details><summary>Image Prompt</summary>(This is panel 5. Do not put the panel number in the image.) A warm contemporary illustrated 16:9 thought-bubble scene. Above the break-room table, Amara imagines a tidy suburban house with a path of stepping stones leading to the front door. Half the house is drawn in full color, with the roof and front walls solid. The other half is still in construction outlines, but glowing softly, as if it has already been paid for and is just waiting to be claimed. The break-room below remains grounded. Mood: hopeful revelation. Generate the image immediately without asking clarifying questions.</details>
+
 ## The Part Nobody Talks About
 
 Ms. Ellis folded her napkin and tucked it into her cardigan pocket.
@@ -126,8 +126,8 @@ Ms. Ellis folded her napkin and tucked it into her cardigan pocket.
 Amara wiped her eyes with the back of her wrist, and she wasn't quite sure when she'd started crying.
 
 ![](./panel-06.png)
-<details><summary>Image Prompt</summary>A warm contemporary illustrated 16:9 scene. The break-room has gone quieter. Ms. Ellis has placed one steady hand on the table near Amara's hand, not touching, just present. Amara is wiping her eye with the back of her wrist. A small stack of enrollment papers now sits between them, the top page clearly visible: "401(k) Enrollment — Contribution Percentage: ___". Afternoon light, soft and forgiving. No exaggerated emotion. Generate the image immediately without asking clarifying questions.</details>
-(This is panel 6. Do not put the panel number in the image.) 
+<details><summary>Image Prompt</summary>(This is panel 6. Do not put the panel number in the image.) A warm contemporary illustrated 16:9 scene. The break-room has gone quieter. Ms. Ellis has placed one steady hand on the table near Amara's hand, not touching, just present. Amara is wiping her eye with the back of her wrist. A small stack of enrollment papers now sits between them, the top page clearly visible: "401(k) Enrollment — Contribution Percentage: ___". Afternoon light, soft and forgiving. No exaggerated emotion. Generate the image immediately without asking clarifying questions.</details>
+
 ## What Amara Did That Afternoon
 
 Amara went back to her desk and opened the 401(k) packet she'd skipped. She didn't enroll at fifteen percent. She didn't enroll at ten. She enrolled at five — just enough to capture the full employer match.
@@ -139,8 +139,8 @@ She set a calendar reminder for a year out: *"Raise contribution by 1%."*
 She kept the napkin.
 
 ![](./panel-07.png)
-<details><summary>Image Prompt</summary>A warm contemporary illustrated 16:9 scene at Amara's desk. She has just clicked "Submit" on an online 401(k) enrollment form on her computer screen. The screen shows a confirmation: "Contribution Rate: 5%." A folded napkin with the words "FREE MONEY" pokes out from her desk drawer, deliberately kept. A small potted succulent sits on her desk. Amara's posture is calm, straightened. Late afternoon light. Mood: quiet victory. Generate the image immediately without asking clarifying questions.</details>
-(This is panel 7. Do not put the panel number in the image.) 
+<details><summary>Image Prompt</summary>(This is panel 7. Do not put the panel number in the image.) A warm contemporary illustrated 16:9 scene at Amara's desk. She has just clicked "Submit" on an online 401(k) enrollment form on her computer screen. The screen shows a confirmation: "Contribution Rate: 5%." A folded napkin with the words "FREE MONEY" pokes out from her desk drawer, deliberately kept. A small potted succulent sits on her desk. Amara's posture is calm, straightened. Late afternoon light. Mood: quiet victory. Generate the image immediately without asking clarifying questions.</details>
+
 ## The Moral of the Story
 
 Three lessons walked into the elevator with Amara that evening:

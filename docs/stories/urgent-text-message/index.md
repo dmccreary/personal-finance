@@ -54,7 +54,7 @@ Nora felt her own stomach drop. She'd seen the same kind of text before. She'd i
 
 <details>
 <summary>Image Prompt</summary>
-(This is panel 2. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing an extreme close-up of a smartphone screen in a grandmother's wrinkled hands. On the screen is a clearly legible fake text message in a light gray SMS bubble reading "USPS: Package cannot be delivered. Reschedule within 24 hours. Fee $1.00" with a suspicious-looking hyperlink. A small red warning dot pulses beside a countdown timer graphic. In the soft-focus background, we see the blurred living room and Nora's worried face looking down at the phone. Cool blue screen glow contrasts with the warm ambient room light. The scene conveys tension and recognition. Generate the image immediately without asking clarifying questions.
+(This is panel 2. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing an extreme close-up of a smartphone screen in a grandmother's wrinkled hands. On the screen is a clearly legible fake text message in a light gray SMS bubble reading "Postal Service: Package cannot be delivered. Reschedule within 24 hours. Fee $1.00" with a suspicious-looking hyperlink. A small red warning dot pulses beside a countdown timer graphic. In the soft-focus background, we see the blurred living room and Nora's worried face looking down at the phone. Cool blue screen glow contrasts with the warm ambient room light. The scene conveys tension and recognition. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The First Skeptical Question
@@ -75,7 +75,7 @@ She looked at the text again. The domain was usps-redeliver.co. Not usps.com. Th
 
 <details>
 <summary>Image Prompt</summary>
-(This is panel 3. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing Nora seated beside her grandmother on the couch, both leaning over the smartphone. Nora holds up a small piece of lined notebook paper on which she has written in block letters: "WOULD I TRUST THIS BY MAIL?" Her grandmother looks at the note with dawning recognition, one hand rising to cover her mouth. On the coffee table lies an actual paper USPS redelivery slip for visual comparison — a real pink delivery notice. Warm morning light, clean illustration style, a moment of shared realization. No other legible text. Generate the image immediately without asking clarifying questions.
+(This is panel 3. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing Nora seated beside her grandmother on the couch, both leaning over the smartphone. Nora holds up a small piece of lined notebook paper on which she has written in block letters: "WOULD I TRUST THIS BY MAIL?" Her grandmother looks at the note with dawning recognition, one hand rising to cover her mouth. On the coffee table lies an actual paper postal-service redelivery slip for visual comparison — a real pink delivery notice. Warm morning light, clean illustration style, a moment of shared realization. No other legible text. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Retired Fraud Investigator
