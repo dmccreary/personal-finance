@@ -14,7 +14,11 @@ social:
 
 <details>
 <summary>Cover Image Prompt</summary>
-A contemporary illustrated 16:9 cover image for a high school personal finance graphic novel. In the foreground, a worried grandmother sits on a living room couch holding a smartphone that displays an alarming red notification banner with a countdown timer and a blurry, suspicious-looking link. Standing beside her protectively is Nora, a thoughtful high school junior with curly brown hair, gently placing a hand on her grandmother's shoulder and holding out a wall calendar marked with a pause icon. In the soft background, a retired-looking man in a trench coat studies a bulletin board full of phone screenshots. The composition contrasts panic on the left with calm intervention on the right. Warm living-room lighting, teal and amber palette, clean lines, no visible text in the scene. Generate the image immediately without asking clarifying questions.
+At the top of the image, across the top 14-15% of the canvas, display the title "The Urgent Text Message" in bold sans-serif typography with a teal-to-amber gradient fill and a soft charcoal drop shadow. Beneath the title, a smaller italic subtitle in cream reads "A Fable About the Five-Second Pause." Frame the title band with a thin horizontal rule of alternating dots and dashes evoking a text-message signal, with a single red notification dot anchoring the right end.
+
+Below the title area, render a 16:9 contemporary illustrated scene for a high school personal finance graphic novel, split into three visual layers. In the left foreground, Abuela Rosa — a Latina grandmother in her seventies with silver-streaked hair in a low bun, wearing a soft lavender cardigan over a floral blouse — sits on a floral-patterned couch. She grips a smartphone in both trembling hands; its screen glows with a bright red alert banner, a stopwatch icon counting down "04:59," and a blurry suspicious link beginning "bit.ly/ver-" with a fake bank logo. Her eyes are wide and worried. In the center midground, Nora — a thoughtful Latina high school junior with curly shoulder-length brown hair, a gray hoodie, and dark jeans — kneels beside the couch with one steady hand on her grandmother's shoulder. Her other hand extends a small wall calendar marked with a blue circular "PAUSE" icon and the handwritten words "wait 5 min." In the soft-focus right background, a retired-looking fraud investigator in his sixties, wearing a tan trench coat and wire-rimmed glasses, stands before a corkboard pinned with printed screenshots of scam texts, red yarn connecting them like a detective's case board.
+
+Warm afternoon living-room lighting enters from a window on the left, casting long amber beams across the couch and cool teal shadows into the corners. The palette balances warm amber and terracotta on the domestic left side with cool teal and navy on the investigator side, unified by cream walls. The emotional tone contrasts panic and calm — fear on the left, patient protection in the center, forensic clarity on the right. Style: clean contemporary graphic-novel illustration with gentle linework, flat shading with subtle texture. No legible text anywhere in the scene other than the title band at the top and the calendar notation. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## A Quiet Saturday Morning
@@ -31,7 +35,7 @@ Abuela Rosa held up the phone. On the screen was a text message.
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing a cozy living room on a quiet Saturday morning. On a floral couch sits Abuela Rosa, a worried Latina grandmother in her seventies with silver-streaked hair pulled back, wearing a cardigan and holding a smartphone with both trembling hands. Her face is pale and her eyes wide. Nora stands over her, a concerned Latina high school junior with curly brown hair and a dish towel over her shoulder, leaning down with a hand on her grandmother's knee. A bowl of fruit and a half-folded newspaper sit on the coffee table. Soft Saturday morning light filters through lace curtains. Warm and worried domestic mood, no legible text on the phone yet. Generate the image immediately without asking clarifying questions.
+(This is panel 1. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing a cozy living room on a quiet Saturday morning. On a floral couch sits Abuela Rosa, a worried Latina grandmother in her seventies with silver-streaked hair pulled back, wearing a cardigan and holding a smartphone with both trembling hands. Her face is pale and her eyes wide. Nora stands over her, a concerned Latina high school junior with curly brown hair and a dish towel over her shoulder, leaning down with a hand on her grandmother's knee. A bowl of fruit and a half-folded newspaper sit on the coffee table. Soft Saturday morning light filters through lace curtains. Warm and worried domestic mood, no legible text on the phone yet. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Text That Looked Real
@@ -50,7 +54,7 @@ Nora felt her own stomach drop. She'd seen the same kind of text before. She'd i
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing an extreme close-up of a smartphone screen in a grandmother's wrinkled hands. On the screen is a clearly legible fake text message in a light gray SMS bubble reading "USPS: Package cannot be delivered. Reschedule within 24 hours. Fee $1.00" with a suspicious-looking hyperlink. A small red warning dot pulses beside a countdown timer graphic. In the soft-focus background, we see the blurred living room and Nora's worried face looking down at the phone. Cool blue screen glow contrasts with the warm ambient room light. The scene conveys tension and recognition. Generate the image immediately without asking clarifying questions.
+(This is panel 2. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing an extreme close-up of a smartphone screen in a grandmother's wrinkled hands. On the screen is a clearly legible fake text message in a light gray SMS bubble reading "USPS: Package cannot be delivered. Reschedule within 24 hours. Fee $1.00" with a suspicious-looking hyperlink. A small red warning dot pulses beside a countdown timer graphic. In the soft-focus background, we see the blurred living room and Nora's worried face looking down at the phone. Cool blue screen glow contrasts with the warm ambient room light. The scene conveys tension and recognition. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The First Skeptical Question
@@ -71,7 +75,7 @@ She looked at the text again. The domain was usps-redeliver.co. Not usps.com. Th
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing Nora seated beside her grandmother on the couch, both leaning over the smartphone. Nora holds up a small piece of lined notebook paper on which she has written in block letters: "WOULD I TRUST THIS BY MAIL?" Her grandmother looks at the note with dawning recognition, one hand rising to cover her mouth. On the coffee table lies an actual paper USPS redelivery slip for visual comparison — a real pink delivery notice. Warm morning light, clean illustration style, a moment of shared realization. No other legible text. Generate the image immediately without asking clarifying questions.
+(This is panel 3. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing Nora seated beside her grandmother on the couch, both leaning over the smartphone. Nora holds up a small piece of lined notebook paper on which she has written in block letters: "WOULD I TRUST THIS BY MAIL?" Her grandmother looks at the note with dawning recognition, one hand rising to cover her mouth. On the coffee table lies an actual paper USPS redelivery slip for visual comparison — a real pink delivery notice. Warm morning light, clean illustration style, a moment of shared realization. No other legible text. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Retired Fraud Investigator
@@ -88,7 +92,7 @@ Then he sat down with Nora at the kitchen table and opened his laptop.
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing Uncle Ray, a calm retired Asian-American man in his late sixties wearing a flannel shirt and reading glasses, seated at a kitchen table with Nora. He is gesturing at an open laptop screen. Beside him on the table is a worn clipboard, a thermos of coffee steaming gently, and a small notebook. Warm kitchen light from a pendant lamp above the table. The atmosphere is reassuring and instructive, like a grandfather explaining something important. In the background, Abuela Rosa stands in the kitchen doorway, her posture more relaxed than before. No legible text on the laptop. Generate the image immediately without asking clarifying questions.
+(This is panel 4. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing Uncle Ray, a calm retired Asian-American man in his late sixties wearing a flannel shirt and reading glasses, seated at a kitchen table with Nora. He is gesturing at an open laptop screen. Beside him on the table is a worn clipboard, a thermos of coffee steaming gently, and a small notebook. Warm kitchen light from a pendant lamp above the table. The atmosphere is reassuring and instructive, like a grandfather explaining something important. In the background, Abuela Rosa stands in the kitchen doorway, her posture more relaxed than before. No legible text on the laptop. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Anatomy of a Smish
@@ -111,7 +115,7 @@ Then he said the line Nora wrote down and kept in her wallet for years afterward
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing a close-up of a restaurant-style white paper napkin on the kitchen table. On the napkin, a hand-drawn diagram shows four simple labeled boxes connected by arrows: "1. TRUSTED BRAND," "2. PLAUSIBLE STORY," "3. FAKE URGENCY," "4. LOOKALIKE LINK." A black ballpoint pen rests beside the napkin. The laptop's edge and a coffee mug appear at the edges of the frame. Soft overhead kitchen light, tactile textures on the napkin, an educational intimate moment captured in tight composition. Generate the image immediately without asking clarifying questions.
+(This is panel 5. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing a close-up of a restaurant-style white paper napkin on the kitchen table. On the napkin, a hand-drawn diagram shows four simple labeled boxes connected by arrows: "1. TRUSTED BRAND," "2. PLAUSIBLE STORY," "3. FAKE URGENCY," "4. LOOKALIKE LINK." A black ballpoint pen rests beside the napkin. The laptop's edge and a coffee mug appear at the edges of the frame. Soft overhead kitchen light, tactile textures on the napkin, an educational intimate moment captured in tight composition. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Five-Second Pause
@@ -130,7 +134,7 @@ He showed Nora the safer alternative. If a package notice looks real, open the a
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing a visual metaphor: a smartphone lying face-down on a wooden table with a five-second sand timer beside it, half the sand having fallen. A gentle glowing aura radiates from the phone's edges suggesting urgency barely contained. In the soft-focus background, Nora's hand hovers, deliberately choosing not to pick up the phone yet. A wall clock on the kitchen wall behind shows the second hand moving. Calm warm lighting, clean illustration style, minimal and poetic composition. No legible text. Generate the image immediately without asking clarifying questions.
+(This is panel 6. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing a visual metaphor: a smartphone lying face-down on a wooden table with a five-second sand timer beside it, half the sand having fallen. A gentle glowing aura radiates from the phone's edges suggesting urgency barely contained. In the soft-focus background, Nora's hand hovers, deliberately choosing not to pick up the phone yet. A wall clock on the kitchen wall behind shows the second hand moving. Calm warm lighting, clean illustration style, minimal and poetic composition. No legible text. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## What the Near-Miss Cost Grandma
@@ -147,7 +151,7 @@ Rosa started to come back to herself a little. She put her phone upright on the 
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing Abuela Rosa seated at the kitchen table in the evening, looking tired but gradually regaining her composure, holding a mug of tea with both hands. Nora sits across from her, leaning in warmly. On the table between them, the smartphone rests screen-down and calm, no longer threatening. A single soft table lamp lights the scene. Through the window, the quiet blue of early evening. The mood is gentle, restorative, and intimate — not triumphant. A grandmother slowly healing from a scare, her granddaughter steady beside her. Generate the image immediately without asking clarifying questions.
+(This is panel 7. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing Abuela Rosa seated at the kitchen table in the evening, looking tired but gradually regaining her composure, holding a mug of tea with both hands. Nora sits across from her, leaning in warmly. On the table between them, the smartphone rests screen-down and calm, no longer threatening. A single soft table lamp lights the scene. Through the window, the quiet blue of early evening. The mood is gentle, restorative, and intimate — not triumphant. A grandmother slowly healing from a scare, her granddaughter steady beside her. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Moral of the Story

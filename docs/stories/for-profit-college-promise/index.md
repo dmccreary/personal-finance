@@ -14,7 +14,15 @@ social:
 
 <details>
 <summary>Cover Image Prompt</summary>
-A contemporary illustrated 16:9 cover image for a high school personal finance graphic novel. In the foreground, a high school senior named Emilio holds up a glossy brochure with a huge bold "95% JOB PLACEMENT!" banner, but his other hand points to a tiny asterisk at the bottom of the page where a magnifying glass reveals the tiny footnote. Behind him, his uncle sits on a park bench looking worn down, with a graduation cap in his lap and a stack of loan statements beside him. In the soft background, a kind-faced community college advisor in a cardigan stands beside a chalkboard where a fraction is drawn, with the numerator boxed in red and the denominator boxed in blue. Warm evening tones, teal and amber palette, clean lines, no visible text except the "95%" on the brochure. Generate the image immediately without asking clarifying questions.
+At the top of the image, across the top 14-15% of the canvas, display the title "The For-Profit College Promise" in bold serif typography with a cream-to-amber gradient fill and a deep navy drop shadow. Beneath the title, a smaller italic subtitle in cream reads "A Fable About the Fraction Hidden Behind the Percentage." Frame the title band with a thin double-rule horizontal line in gold, and place a small asterisk symbol to the right of the title as a subtle visual callback to fine-print footnotes.
+
+Below the title area, render a 16:9 contemporary illustrated scene for a high school personal finance graphic novel, composed in three overlapping planes. In the left foreground, Emilio — a thoughtful Latino high school senior with dark wavy hair, a navy hoodie over a white tee, and a silver pencil tucked behind his ear — holds up a glossy trifold brochure at chest height. The brochure's cover blares "95% JOB PLACEMENT!" in bright yellow block letters over a staged photo of smiling graduates in white coats. Emilio's other hand holds a small brass magnifying glass focused on a tiny red asterisk at the bottom corner, revealing a barely-visible footnote that reads "*of students who completed." His expression is alert and questioning, eyebrows raised.
+
+In the center midground, Tío Hector — a Latino man in his late thirties with tired eyes and hopeful posture, wearing a rumpled work shirt and a lanyard — sits on a weathered park bench. A black graduation cap rests in his lap, one hand resting on top of it; beside him is a stack of envelopes stamped "FEDERAL STUDENT LOAN — STATEMENT" with visible four-figure balances. He looks down at the cap with a mixture of pride and worry.
+
+In the right background, softly blurred, a kind-faced community college advisor in her fifties, wearing a forest-green cardigan over a white blouse with reading glasses on a chain, stands beside a slate chalkboard. On the chalkboard is a large hand-drawn fraction: the numerator "graduates placed" boxed in red chalk, the denominator "students who enrolled" boxed in blue chalk, with a curved arrow pointing to the denominator and the handwritten word "ASK."
+
+Warm late-afternoon lighting filters from the upper right with long golden shadows. Palette: rich amber and terracotta warms for the human figures, cool teal and slate for the advisor's corner, cream for the chalkboard and title. Emotional tone contrasts seductive marketing on the left, quiet financial weight in the center, and patient pedagogical truth on the right. Style: clean contemporary graphic-novel illustration, confident linework, flat shading with gentle paper-texture grain. No other legible text anywhere in the scene beyond the title band, the brochure "95%" slogan, the footnote asterisk text, the loan-statement labels, and the chalkboard fraction. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Uncle Who Wanted More
@@ -31,7 +39,7 @@ The school was called something official-sounding. It had the word "Institute" i
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing a warm Latino family dinner table covered with a red tablecloth, plates of rice, beans, and chicken. At the head of the table, Tío Hector, a tired but hopeful Latino man in his late thirties wearing a work shirt, proudly holds up a glossy brochure with a huge "95%" printed on it. Around the table, family members lean in — a mother, a father, and Emilio, a thoughtful high school senior with dark hair and an inquisitive expression. Emilio leans slightly back from the brochure, eyes narrowing at the bold percentage. Warm pendant-light glow, homey domestic setting, no other legible text besides "95%" on the brochure. Generate the image immediately without asking clarifying questions.
+(This is panel 1. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing a warm Latino family dinner table covered with a red tablecloth, plates of rice, beans, and chicken. At the head of the table, Tío Hector, a tired but hopeful Latino man in his late thirties wearing a work shirt, proudly holds up a glossy brochure with a huge "95%" printed on it. Around the table, family members lean in — a mother, a father, and Emilio, a thoughtful high school senior with dark hair and an inquisitive expression. Emilio leans slightly back from the brochure, eyes narrowing at the bold percentage. Warm pendant-light glow, homey domestic setting, no other legible text besides "95%" on the brochure. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Footnote Nobody Read
@@ -48,7 +56,7 @@ Emilio read that sentence three times. Then he got out a sheet of paper and star
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing Emilio seated at a cluttered bedroom desk at night, a warm desk lamp casting golden light on an open glossy brochure. He holds the brochure close to his face, reading a tiny block of gray text at the bottom of the page. On his lined notebook, he has begun writing in pencil a list of questions with the first one reading "Who counted?" Behind him, a wall with a high school pennant and a graduation cap hanging from a hook. Late-evening mood, focused concentration, the small footnote clearly visible but the tiny print deliberately illegible to the viewer. Generate the image immediately without asking clarifying questions.
+(This is panel 2. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing Emilio seated at a cluttered bedroom desk at night, a warm desk lamp casting golden light on an open glossy brochure. He holds the brochure close to his face, reading a tiny block of gray text at the bottom of the page. On his lined notebook, he has begun writing in pencil a list of questions with the first one reading "Who counted?" Behind him, a wall with a high school pennant and a graduation cap hanging from a hook. Late-evening mood, focused concentration, the small footnote clearly visible but the tiny print deliberately illegible to the viewer. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The First Skeptical Question
@@ -77,7 +85,7 @@ Hector sat down slowly. He stopped lacing the boot.
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing Emilio at the kitchen table with Tío Hector seated across from him, one boot laced and one unlaced. Between them on the table is a paper napkin covered in hand-drawn diagrams: a large circle labeled "200 enrolled," a smaller circle labeled "120 graduates," an even smaller circle labeled "50 surveyed," and at the center a tiny dot labeled "48 'placed.'" A coffee mug steams gently to the side. Morning light streams through a kitchen window. Hector's face shows the dawning of an uncomfortable realization. Generate the image immediately without asking clarifying questions.
+(This is panel 3. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing Emilio at the kitchen table with Tío Hector seated across from him, one boot laced and one unlaced. Between them on the table is a paper napkin covered in hand-drawn diagrams: a large circle labeled "200 enrolled," a smaller circle labeled "120 graduates," an even smaller circle labeled "50 surveyed," and at the center a tiny dot labeled "48 'placed.'" A coffee mug steams gently to the side. Morning light streams through a kitchen window. Hector's face shows the dawning of an uncomfortable realization. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Community College Advisor
@@ -96,7 +104,7 @@ She slid the page across the desk next to the glossy brochure. Hector looked at 
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing a cluttered warm community college advisor's office with overstuffed bookshelves and a slightly wilted potted plant by the window. Ms. Patel, a calm South Asian woman in her fifties with reading glasses perched on her nose and a purple cardigan, sits behind a desk piled with catalogs. Across the desk sit Tío Hector and Emilio, side by side in wooden chairs. On the desk between them lie two documents clearly contrasted: a glossy colorful brochure with a large "95%" and a plain government-looking printout with columns of numbers. Warm filtered afternoon light through venetian blinds. Supportive instructional atmosphere. Generate the image immediately without asking clarifying questions.
+(This is panel 4. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing a cluttered warm community college advisor's office with overstuffed bookshelves and a slightly wilted potted plant by the window. Ms. Patel, a calm South Asian woman in her fifties with reading glasses perched on her nose and a purple cardigan, sits behind a desk piled with catalogs. Across the desk sit Tío Hector and Emilio, side by side in wooden chairs. On the desk between them lie two documents clearly contrasted: a glossy colorful brochure with a large "95%" and a plain government-looking printout with columns of numbers. Warm filtered afternoon light through venetian blinds. Supportive instructional atmosphere. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## What the Percentage Actually Means
@@ -117,7 +125,7 @@ Ms. Patel wasn't done. She pulled up the College Scorecard on her computer and t
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing a close-up of a scrap of paper on the advisor's desk with three clear hand-printed questions: "1. WHO COUNTED?" "2. WHAT COUNTS AS A JOB?" "3. WHAT'S THE GRADUATION RATE?" Beside it, handwritten math shows "0.30 × 0.95 = 0.285 → 28.5%." A ballpoint pen rests across the paper. The monitor in the background softly glows with a government website showing bar charts, though details are blurred. Cluttered homely desktop, warm office lighting, educational intimate tone. Generate the image immediately without asking clarifying questions.
+(This is panel 5. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing a close-up of a scrap of paper on the advisor's desk with three clear hand-printed questions: "1. WHO COUNTED?" "2. WHAT COUNTS AS A JOB?" "3. WHAT'S THE GRADUATION RATE?" Beside it, handwritten math shows "0.30 × 0.95 = 0.285 → 28.5%." A ballpoint pen rests across the paper. The monitor in the background softly glows with a government website showing bar charts, though details are blurred. Cluttered homely desktop, warm office lighting, educational intimate tone. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Paper Towel Analogy
@@ -136,7 +144,7 @@ Emilio wrote the analogy down in his notebook. Later, he would use it at school,
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing a stylized visual metaphor. On the left side of a split image, a beautifully pristine paper towel with a single perfect blue droplet of water sitting on its surface. On the right side, the same paper towel struggling hopelessly to contain an entire overturned glass of water spilling off a kitchen counter. A small label beneath each reads "SHOWN" and "REAL." Clean graphic illustration style, warm muted palette, educational and memorable, no other text visible on the image. Generate the image immediately without asking clarifying questions.
+(This is panel 6. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing a stylized visual metaphor. On the left side of a split image, a beautifully pristine paper towel with a single perfect blue droplet of water sitting on its surface. On the right side, the same paper towel struggling hopelessly to contain an entire overturned glass of water spilling off a kitchen counter. A small label beneath each reads "SHOWN" and "REAL." Clean graphic illustration style, warm muted palette, educational and memorable, no other text visible on the image. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## What the Story Almost Cost Hector
@@ -153,7 +161,7 @@ Emilio thought about Reynaldo a lot while Hector was making his decision. The di
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing a quiet reflective scene. In the foreground, Tío Hector stands in a community college parking lot at sunset, holding a certificate and a modest backpack, looking calm and proud in a gently reparative moment. In the soft-focus background, a shadowy figure of another man — Reynaldo — sits alone on a distant park bench with his face lowered, representing what could have been. No visible logos. Warm orange-gold evening sky, melancholic but hopeful composition, two possible futures captured in one image. Generate the image immediately without asking clarifying questions.
+(This is panel 7. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing a quiet reflective scene. In the foreground, Tío Hector stands in a community college parking lot at sunset, holding a certificate and a modest backpack, looking calm and proud in a gently reparative moment. In the soft-focus background, a shadowy figure of another man — Reynaldo — sits alone on a distant park bench with his face lowered, representing what could have been. No visible logos. Warm orange-gold evening sky, melancholic but hopeful composition, two possible futures captured in one image. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Moral of the Story

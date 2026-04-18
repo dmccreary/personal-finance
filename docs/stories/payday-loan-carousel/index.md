@@ -13,7 +13,17 @@ social:
 ![](./cover.png)
 <details>
 <summary>Cover Image Prompt</summary>
-A contemporary illustrated 16:9 scene in a stylized graphic-novel style. A teenager named Tariq stands outside a brightly lit storefront at dusk. The storefront sign reads "Cash Now — Easy Approval" in flickering neon. Beyond the glass, an old-fashioned carnival carousel spins inside the shop. Each carousel horse is shaped like a dollar sign, and each wooden pole is painted with small fee amounts like "$60" and "$15 per $100." Tariq stands still on the sidewalk, reading a small paper slip, his expression shifting from hope to suspicion. The neon paints him in red and amber light. Text-free except for the storefront sign. Mood: cautionary, not horror — a story the viewer can escape. Generate the image immediately without asking clarifying questions.
+At the top of the image, across the top 14% of the canvas, display the title "The Payday Loan Carousel" in bold carnival-style display serif typography (slight nostalgic tilt, reminiscent of an old fairground sign) with a flickering red-to-amber neon gradient fill, a thin black outline, and a faint neon-tube glow bleeding onto the background. Beneath it, a smaller italic subtitle in cream reads "A Fable About a Fee That Is Really an Interest Rate." Frame the title with small incandescent-bulb dots along each end.
+
+Below the title area, render a 16:9 contemporary illustrated scene in a stylized graphic-novel style. Foreground: Tariq — a sixteen-year-old with close-cut hair, a red bomber jacket over a plain hoodie, dark jeans, and black sneakers — stands on a dusk sidewalk outside a brightly lit storefront. The wet concrete under his feet catches neon reflections. He holds a small carbonless loan slip with visible carbon lines, his brow furrowed, expression shifting from hope to suspicion. His backpack is slung over one shoulder.
+
+Midground: the storefront sign directly above him reads "CASH NOW — EASY APPROVAL — NO CREDIT CHECK!" in flickering red and pale-yellow neon tubing, with several letters buzzing and half-dimmed. Below the sign, a wide plate-glass window reveals — like a secret fairground diorama — an old-fashioned brass carnival carousel spinning slowly inside the shop, complete with calliope organ pipes. Each carousel horse is sculpted as a gilded dollar-sign, and each striped brass pole is stenciled with small fee amounts: "$60 FEE," "$15 PER $100," and at the center a crown reading "391% APR." A shadowy silhouetted clerk inside the shop feeds more crisp bills into the center pole of the carousel, keeping it turning.
+
+Background: a quiet strip-mall parking lot at dusk. A lone older-model sedan idles, its brake lights red. A distant neon "24-HR" sign glows in the next shop over. A street lamp just flickering on casts a cone of warm yellow. A crumpled discarded loan contract drifts in a gutter. The sky bleeds from cobalt blue to coral orange, with a single early star visible.
+
+Color palette: saturated neon red and warm amber dominant from the storefront, cool blue-gray on the sidewalk and sky, gilded gold accents on the carousel horses, cream highlights on the title. Mood: cautionary, not horror — a story the viewer can still walk away from, like the final warning shot of a public-service fable. Style: contemporary graphic-novel with cinematic rim lighting and faint film grain.
+
+Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Four Hundred Dollars Tariq Didn't Have
@@ -28,7 +38,7 @@ His paycheck wasn't for another twelve days.
 
 ![](./panel-01.png)
 <details><summary>Image Prompt</summary>A warm contemporary illustrated 16:9 scene. Tariq, an eighteen-year-old with close-cropped hair and a grocery-store work polo, stands in an auto-repair shop bay. His sedan is up on a lift. A mechanic in coveralls holds an alternator, explaining. Tariq is looking at his phone, at a mostly-empty bank-account screen. Natural garage lighting. Mood: the kind of stuck feeling most viewers will recognize. Generate the image immediately without asking clarifying questions.</details>
-
+(This is panel 1. Do not put the panel number in the image.) 
 ## The Storefront on the Corner
 
 On his walk home, Tariq passed a storefront he'd noticed a hundred times and never gone into. The sign read CASH NOW — EASY APPROVAL in red neon. A smaller poster in the window showed a smiling family and the words: *"Borrow $400 for only $60. Pay back on payday. Simple."*
@@ -41,7 +51,7 @@ The car was fixed by Saturday. He made his shifts.
 
 ![](./panel-02.png)
 <details><summary>Image Prompt</summary>A contemporary illustrated 16:9 scene. The interior of a payday-loan storefront. Warm but slightly harsh fluorescent lighting. A glass counter with a clerk on one side, polite and professional. Tariq on the customer side, signing a short form. On the wall behind the clerk, a bright poster reads "Borrow $400 — Only $60 Fee!" A television in the corner shows mute cable news. Mood: deceptively ordinary. Generate the image immediately without asking clarifying questions.</details>
-
+(This is panel 2. Do not put the panel number in the image.) 
 ## The First Skeptical Question
 
 Two weeks later, payday came and went, and so did the $460 withdrawal from Tariq's checking account. That part worked the way he'd expected. But it cleaned out his paycheck. His phone bill was due. Groceries were low. His aunt's electric bill was coming. He had no cushion.
@@ -56,7 +66,7 @@ That Saturday, at a neighborhood cookout, he mentioned what he'd done to an olde
 
 ![](./panel-03.png)
 <details><summary>Image Prompt</summary>A warm contemporary illustrated 16:9 backyard cookout scene. Marcus, a Black man in his early thirties with glasses and a short beard, wears a relaxed polo shirt. He stands at a picnic table across from Tariq, who has a paper plate of food. A grill smokes in the background. Marcus has paused mid-meal, his attention now fully on Tariq. Summer evening light, string lights overhead. Mood: serious but not harsh, the tone of an older cousin who actually cares. Generate the image immediately without asking clarifying questions.</details>
-
+(This is panel 3. Do not put the panel number in the image.) 
 ## Marcus at the Picnic Table
 
 Marcus asked for a napkin and a pen. His six-year-old niece brought him one, with a crayon, and he used it.
@@ -82,7 +92,7 @@ Tariq stared at the napkin. *"But I didn't keep it for a year. I only had it for
 
 ![](./panel-04.png)
 <details><summary>Image Prompt</summary>A warm contemporary illustrated 16:9 close-up of Marcus's hands with a crayon, writing on a paper napkin at a picnic table. The napkin shows the math: "$60 ÷ $400 = 15% / 2 weeks" and beneath it, circled, "391% APR." A plate of food sits to the side. The crayon is bright red. A child's drawing of a sun in the corner of the napkin. Generate the image immediately without asking clarifying questions.</details>
-
+(This is panel 4. Do not put the panel number in the image.) 
 ## The Carousel
 
 *"About four out of every five payday loans get rolled over or followed by another payday loan within two weeks,"* Marcus said. *"That's not a rumor. That's the Consumer Financial Protection Bureau's own research. They looked at millions of loans."*
@@ -108,7 +118,7 @@ He wrote again:
 
 ![](./panel-05.png)
 <details><summary>Image Prompt</summary>A warm contemporary illustrated 16:9 scene with a dreamlike quality. At the picnic table, Tariq imagines a small wooden carousel spinning in front of him, the size of a centerpiece. Six carousel horses, each stamped with "$60," circle a central post labeled "$400" that never gets any smaller. Marcus points at it with the crayon. The garden and evening string lights remain softly visible behind. Symbolic, not dark. Generate the image immediately without asking clarifying questions.</details>
-
+(This is panel 5. Do not put the panel number in the image.) 
 ## The Aha: A Fee and an Interest Rate Aren't Two Different Things
 
 Tariq put down his plate. Something in his head clicked into place.
@@ -123,7 +133,7 @@ Tariq put down his plate. Something in his head clicked into place.
 
 ![](./panel-06.png)
 <details><summary>Image Prompt</summary>A warm contemporary illustrated 16:9 image. Tariq looks up from the napkin with a clear expression, no longer confused. Marcus is nodding. In the background, string lights are glowing gently. On the table, the napkin sits between them with the carousel math fully visible. A fresh, calm mood, as if a fog has lifted. Generate the image immediately without asking clarifying questions.</details>
-
+(This is panel 6. Do not put the panel number in the image.) 
 ## The Weight Marcus Named
 
 Marcus leaned back for a moment.
@@ -142,7 +152,7 @@ Tariq was quiet for a long time.
 
 ![](./panel-07.png)
 <details><summary>Image Prompt</summary>A warm contemporary illustrated 16:9 scene. Marcus and Tariq are walking slowly along a quiet residential sidewalk after the cookout, in the blue of early evening. Porch lights glow softly. Tariq has his hands in his hoodie pockets; Marcus walks beside him, a step slower, talking gently. The napkin from the picnic table is folded and poking out of Tariq's pocket. Mood: settled, supported. Generate the image immediately without asking clarifying questions.</details>
-
+(This is panel 7. Do not put the panel number in the image.) 
 ## The Moral of the Story
 
 Tariq walked home that night with a folded napkin in his hoodie pocket and a phone number in his contacts labeled "Marcus — before you borrow."

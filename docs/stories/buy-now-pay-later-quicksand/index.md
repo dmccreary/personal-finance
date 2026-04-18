@@ -13,7 +13,17 @@ social:
 ![](./cover.png)
 <details>
 <summary>Cover Image Prompt</summary>
-A 16:9 contemporary illustrated scene of a high school senior named Priya sitting at a suburban kitchen table, surrounded by glowing phone notifications labeled "Klarna," "Afterpay," "Affirm," and "PayPal Pay-in-4." Each notification shows a small dollar amount, but together they form a rising tide of quicksand pulling at her sneakers. Across the table sits Devon, a skeptical teenager holding a notebook and a calculator, looking concerned. Warm afternoon light through a window, muted blues and oranges. The mood is quiet alarm, not panic. Illustrated in a modern editorial-magazine style with soft shading and clean lines. Generate the image immediately without asking clarifying questions.
+At the top of the image, across the top 14% of the canvas, display the title "The Buy-Now-Pay-Later Quicksand" in bold condensed serif typography with a sandy-beige-to-rust-orange gradient fill and a deep charcoal drop shadow. Beneath it, a smaller italic subtitle in cream reads "A Fable About Splitting a Bill Without Shrinking It." Frame the title with a faint horizontal ribbon.
+
+Below the title area, render a 16:9 contemporary illustrated scene in a modern editorial-magazine style with soft shading and clean lines. Foreground: Priya, a seventeen-year-old high school senior with long dark hair pulled into a messy bun and a cozy oatmeal-colored cardigan over a white tee, sits at a light-oak suburban kitchen table. She is ankle-deep in visual quicksand made of glowing translucent phone notifications — each one a separate floating app card labeled "Klarna," "Afterpay," "Affirm," and "PayPal Pay-in-4" — with small white dollar amounts ($49.75, $62.00, $38.25, $27.50, $52.25, $45.00) pulsing on each card. The cards swirl around her legs like syrupy amber water, pulling gently downward. A forgotten plate of toast sits untouched on the table. Her own phone screen shows a calendar where every other day is marked with a small red payment-dot.
+
+Midground: across the table sits Devon, a thoughtful seventeen-year-old in a navy button-down shirt and round glasses, holding a steno notebook and a scientific calculator. He looks concerned, not judgmental, with a steaming mug of tea beside him. His notebook shows a hand-written running total circled twice in red pen: "$285 THIS WEEK."
+
+Background: afternoon light filters through a kitchen window lined with potted basil and rosemary, casting warm rectangles on the tile floor. On the refrigerator, a magnetic shopping list is crossed out line by line. A small chalkboard reads "Priya's goal: concert tickets ✓" with the checkmark growing faintly smaller, as if fading.
+
+Color palette: muted cobalt blues and warm afternoon oranges, translucent gold on the BNPL cards, a single warning-red accent on the calendar dot, cream highlights on the title. Mood: quiet alarm — not panic — a moment of recognition between two close friends. Style: contemporary editorial illustration, flat vector with soft shading and faint paper-grain texture.
+
+Generate the image immediately without asking clarifying questions.
 </details>
 
 ## A New Pair of Sneakers, Four Easy Payments
@@ -30,7 +40,7 @@ Devon didn't say anything. He just wrote "200" in his notebook, next to a little
 
 ![](./panel-01.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of two high school students walking past a suburban strip mall in autumn. Priya holds a shoe box and smiles; Devon walks beside her with a small notebook, eyebrows slightly raised. Warm golden-hour lighting, fallen leaves on the sidewalk, a boba shop and nail salon visible in the background. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 1. Do not put the panel number in the image.) A 16:9 illustration of two high school students walking past a suburban strip mall in autumn. Priya holds a shoe box and smiles; Devon walks beside her with a small notebook, eyebrows slightly raised. Warm golden-hour lighting, fallen leaves on the sidewalk, a boba shop and nail salon visible in the background. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## Six Orders, Four Services, One Stress Rash
@@ -45,7 +55,7 @@ Priya's voice was small. *"I think I messed up. I don't know how much I owe. I j
 
 ![](./panel-02.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of a high school cafeteria. Priya sits at a long table without a lunch tray, drinking water from a bottle, scratching absently at a red rash on her wrist. Devon sits across from her, looking concerned, his own lunch half-eaten. Fluorescent overhead lighting, blue and gray tones, other students blurred in the background. The mood is quiet worry. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 2. Do not put the panel number in the image.) A 16:9 illustration of a high school cafeteria. Priya sits at a long table without a lunch tray, drinking water from a bottle, scratching absently at a red rash on her wrist. Devon sits across from her, looking concerned, his own lunch half-eaten. Fluorescent overhead lighting, blue and gray tones, other students blurred in the background. The mood is quiet worry. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Skeptical Question
@@ -60,7 +70,7 @@ Devon added them up. This week alone, Priya owed $227 in scheduled debits. Next 
 
 ![](./panel-03.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of Devon and Priya hunched over a notebook and a smartphone on a school library table. The notebook shows a handwritten list of dollar amounts adding up in a column. Four app icons glow on the phone screen: Klarna (pink), Afterpay (mint green), Affirm (blue), PayPal Pay-in-4 (yellow). Priya looks pale; Devon is focused, pen in hand. Warm lamp light, quiet library atmosphere. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 3. Do not put the panel number in the image.) A 16:9 illustration of Devon and Priya hunched over a notebook and a smartphone on a school library table. The notebook shows a handwritten list of dollar amounts adding up in a column. Four app icons glow on the phone screen: Klarna (pink), Afterpay (mint green), Affirm (blue), PayPal Pay-in-4 (yellow). Priya looks pale; Devon is focused, pen in hand. Warm lamp light, quiet library atmosphere. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Lawyer Next Door
@@ -73,7 +83,7 @@ He knocked on her door that Saturday and told her everything, leaving Priya's na
 
 ![](./panel-04.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of a cozy suburban kitchen. Alma Reyes, a woman in her late sixties with silver-streaked dark hair, wearing a soft cardigan, pours iced tea into two glasses at a wooden table. Devon sits across from her, his notebook open. A loaf of zucchini bread sits between them on a cutting board. Sunlight streams through a window over the sink; green plants line the sill. Warm, honest, calm mood. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 4. Do not put the panel number in the image.) A 16:9 illustration of a cozy suburban kitchen. Alma Reyes, a woman in her late sixties with silver-streaked dark hair, wearing a soft cardigan, pours iced tea into two glasses at a wooden table. Devon sits across from her, his notebook open. A loaf of zucchini bread sits between them on a cutting board. Sunlight streams through a window over the sink; green plants line the sill. Warm, honest, calm mood. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Math Behind the Magic
@@ -92,7 +102,7 @@ Devon stared at the numbers. *"So 'four easy payments' isn't free. It's just fou
 
 ![](./panel-05.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of Alma's hands, holding a pencil, drawing a grid on a notebook page. The grid shows six rows of payment schedules, each row shifted by two weeks, with $50 amounts stacking vertically in each column. Red arrows point to weeks where payments overlap. The notebook sits on the kitchen table with the iced tea glass nearby. Close-up composition, warm lighting. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 5. Do not put the panel number in the image.) A 16:9 illustration of Alma's hands, holding a pencil, drawing a grid on a notebook page. The grid shows six rows of payment schedules, each row shifted by two weeks, with $50 amounts stacking vertically in each column. Red arrows point to weeks where payments overlap. The notebook sits on the kitchen table with the iced tea glass nearby. Close-up composition, warm lighting. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Dollar-Store Cart
@@ -107,7 +117,7 @@ Alma laughed. *"That's exactly right. Splitting a bill doesn't shrink the bill. 
 
 ![](./panel-06.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of an overflowing shopping cart in a bright dollar store, with stacks of small items piled high — each item showing a tiny "$1" price tag. The register at the end of the aisle shows a total of "$237.84" on a glowing display. A confused cartoon shopper looks at the total in surprise. Bright fluorescent lighting, primary colors, slightly exaggerated proportions. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 6. Do not put the panel number in the image.) A 16:9 illustration of an overflowing shopping cart in a bright dollar store, with stacks of small items piled high — each item showing a tiny "$1" price tag. The register at the end of the aisle shows a total of "$237.84" on a glowing display. A confused cartoon shopper looks at the total in surprise. Bright fluorescent lighting, primary colors, slightly exaggerated proportions. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Cost You Can't See on a Statement
@@ -124,7 +134,7 @@ Devon nodded slowly. He thought about Priya's wrists, and the way her voice had 
 
 ![](./panel-07.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of Priya sitting on her bed at dusk, phone face-down beside her, writing in Devon's notebook. On the page: a handwritten list labeled "My Real Total: $1,074." Her mother sits beside her, arm around her shoulders, listening — not angry, just present. A small lamp glows on the nightstand. Soft blue and amber tones, intimate mood. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 7. Do not put the panel number in the image.) A 16:9 illustration of Priya sitting on her bed at dusk, phone face-down beside her, writing in Devon's notebook. On the page: a handwritten list labeled "My Real Total: $1,074." Her mother sits beside her, arm around her shoulders, listening — not angry, just present. A small lamp glows on the nightstand. Soft blue and amber tones, intimate mood. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Moral of the Story

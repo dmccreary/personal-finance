@@ -13,7 +13,19 @@ social:
 ![](./cover.png)
 <details>
 <summary>Cover Image Prompt</summary>
-A 16:9 contemporary illustrated scene of a high school senior, Sophie, standing in a hallway holding a thick acceptance envelope with a prestigious university crest. Behind her, her proud parents beam and a cluster of classmates cheer. In front of her, almost invisible to everyone else, a shadowy staircase descends into a room full of monthly bills labeled "$2,185." Sophie looks uncertain, caught between the celebration and the hidden future. Warm golden light on the cheering side, cooler blue shadows on the staircase side. Contemporary editorial illustration style with symbolic composition. Generate the image immediately without asking clarifying questions.
+At the top of the image, across the top 15% of the canvas, display the title "The Dream-School Debt Trap" in elegant bold serif typography (evocative of a prestigious university crest) with a muted gold-to-ivory gradient fill and a deep navy drop shadow. Beneath it, a smaller italic subtitle in ivory reads "A Fable About Sticker Price vs. the Real Price." Frame the title with a faint laurel-leaf border and a small embossed crest motif at the left.
+
+Below the title area, render a 16:9 contemporary editorial illustration with deliberately symbolic composition. Foreground, slightly left of center: Sophie — a seventeen-year-old high school senior with shoulder-length brown hair, a cream crewneck sweater, gray jeans, and scuffed white sneakers — stands frozen in a school hallway, holding a thick white acceptance envelope with an embossed navy university crest and the stamped word "ACCEPTED" in deep blue foil. Her face shows complicated joy — a smile that does not quite reach her eyes, a slight furrow in her brow.
+
+Midground left: her parents beam proudly — her mother in a denim jacket holding up a phone to take a photo, her father in a flannel shirt with his arm around her mother's shoulders. A cluster of classmates in varsity jackets crowds behind them cheering, one holding up a giant foam finger reading "Class of 2026!"
+
+Midground right (the symbolic key element): directly in front of Sophie, invisible to everyone else around her, a shadowy stone staircase descends diagonally into a dim vaulted chamber. The chamber is filled wall-to-wall with identical monthly-bill envelopes stacked in neat rows, each stamped "$2,185 — DUE" in blood-red ink, some rising higher than a person's head. A calendar floats in the chamber showing rows of X's covering a full decade of months. A faint echo of distant clock ticks is implied by a row of clock faces in shadow at the far end.
+
+Background: trophy cases filled with awards, hallway lockers painted in school colors, and a big banner reading "CONGRATULATIONS, SENIORS!" in navy and gold foil.
+
+Color palette: warm golden celebration light on the left half, progressively cooler slate blues and charcoal shadows on the right half where the staircase leads, a single blood-red accent on each "$2,185" stamp, ivory highlights on the title. Mood: bittersweet — the moment of arrival also being the moment of departure from financial solvency. Style: contemporary editorial illustration, symbolic/allegorical composition, clean vector lines with painterly shading.
+
+Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Fat Envelope
@@ -30,7 +42,7 @@ Sophie put the packet in her desk drawer. She didn't know how to say out loud wh
 
 ![](./panel-01.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of a bright suburban living room in early spring. Sophie, a high school senior, holds a thick university envelope. Her mother hugs her; her father is on the phone sharing the news. A younger brother holds up a smartphone to take a picture. Balloons in the background, a bulletin board covered in college pennants. Warm afternoon light, yellow and pink tones, celebratory mood — but Sophie's eyes are slightly distant, uncertain. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 1. Do not put the panel number in the image.) A 16:9 illustration of a bright suburban living room in early spring. Sophie, a high school senior, holds a thick university envelope. Her mother hugs her; her father is on the phone sharing the news. A younger brother holds up a smartphone to take a picture. Balloons in the background, a bulletin board covered in college pennants. Warm afternoon light, yellow and pink tones, celebratory mood — but Sophie's eyes are slightly distant, uncertain. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Quiet Crash
@@ -45,7 +57,7 @@ Sophie put the glass down without drinking and walked back to her room. She sat 
 
 ![](./panel-02.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of a suburban garage at dusk, seen through a cracked-open door. Sophie's parents stand by the workbench — her mother wiping her eyes, her father holding a crumpled financial-aid letter. In the foreground, Sophie is frozen in the hallway with a water glass in her hand, listening. Soft warm lamp light inside the house, cold blue garage light. Contemporary editorial illustration style, emotionally honest composition. Generate the image immediately without asking clarifying questions.
+(This is panel 2. Do not put the panel number in the image.) A 16:9 illustration of a suburban garage at dusk, seen through a cracked-open door. Sophie's parents stand by the workbench — her mother wiping her eyes, her father holding a crumpled financial-aid letter. In the foreground, Sophie is frozen in the hallway with a water glass in her hand, listening. Soft warm lamp light inside the house, cold blue garage light. Contemporary editorial illustration style, emotionally honest composition. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Skeptical Question
@@ -62,7 +74,7 @@ Ms. Delgado set down her coffee. She did not look surprised. She looked relieved
 
 ![](./panel-03.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of a small, cozy high school counseling office. Ms. Delgado, a veteran school counselor in her late fifties with short dark hair and reading glasses, sits behind a cluttered desk full of college brochures. Sophie sits in the visitor's chair, backpack on her lap, speaking earnestly. A window behind Ms. Delgado shows tree branches with early spring buds. Warm desk-lamp light, bookshelves full of college guides. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 3. Do not put the panel number in the image.) A 16:9 illustration of a small, cozy high school counseling office. Ms. Delgado, a veteran school counselor in her late fifties with short dark hair and reading glasses, sits behind a cluttered desk full of college brochures. Sophie sits in the visitor's chair, backpack on her lap, speaking earnestly. A window behind Ms. Delgado shows tree branches with early spring buds. Warm desk-lamp light, bookshelves full of college guides. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Counselor Who Had Seen It All
@@ -79,7 +91,7 @@ Sophie shook her head. *"They just sent the acceptance and the aid letter."*
 
 ![](./panel-04.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of a computer screen split in two. Left side shows a clean "Net Price Calculator" webpage form with fields for family income and assets. Right side shows a loan amortization table with monthly payment amounts. Ms. Delgado's hand, holding a pen, points at the screen. A "College Costs" mug sits on the desk. Clean modern UI elements, warm office lighting. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 4. Do not put the panel number in the image.) A 16:9 illustration of a computer screen split in two. Left side shows a clean "Net Price Calculator" webpage form with fields for family income and assets. Right side shows a loan amortization table with monthly payment amounts. Ms. Delgado's hand, holding a pen, points at the screen. A "College Costs" mug sits on the desk. Clean modern UI elements, warm office lighting. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## What $190,000 Feels Like at Age 26
@@ -102,7 +114,7 @@ Sophie stared at the screen. *"I would not be able to live."*
 
 ![](./panel-05.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of a calculator and a simple pie chart on a notebook page. The pie chart shows a single giant red slice labeled "Loans $2,185" taking up more than half the circle, with thin slivers for "Rent," "Food," "Insurance," and "Gas." Ms. Delgado's pen rests on the notebook. Close-up composition, harsh clarity, muted warm tones. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 5. Do not put the panel number in the image.) A 16:9 illustration of a calculator and a simple pie chart on a notebook page. The pie chart shows a single giant red slice labeled "Loans $2,185" taking up more than half the circle, with thin slivers for "Rent," "Food," "Insurance," and "Gas." Ms. Delgado's pen rests on the notebook. Close-up composition, harsh clarity, muted warm tones. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Menu Without Prices
@@ -121,7 +133,7 @@ She pulled out a fresh sheet of paper and wrote three columns.
 
 ![](./panel-06.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of a restaurant menu with all the prices blacked out, sitting on a white tablecloth. A silhouetted hand points at one of the dishes. In the background, a blurred waiter holds a bill on a small tray. Muted tones, stark metaphorical composition. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 6. Do not put the panel number in the image.) A 16:9 illustration of a restaurant menu with all the prices blacked out, sitting on a white tablecloth. A silhouetted hand points at one of the dishes. In the background, a blurred waiter holds a bill on a small tray. Muted tones, stark metaphorical composition. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Part Nobody Admits
@@ -140,7 +152,7 @@ She walked Sophie to the door. *"And call me tomorrow. I want to know how it wen
 
 ![](./panel-07.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of Sophie sitting at her kitchen table that evening, laptop open to a Net Price Calculator webpage, her parents beside her — her mother leaning in, her father looking at a printed spreadsheet. A single mug of tea sits between them. The Ashford acceptance letter rests on the table, not thrown out, just no longer the only thing in the room. Soft warm light, quiet honesty in everyone's faces. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 7. Do not put the panel number in the image.) A 16:9 illustration of Sophie sitting at her kitchen table that evening, laptop open to a Net Price Calculator webpage, her parents beside her — her mother leaning in, her father looking at a printed spreadsheet. A single mug of tea sits between them. The Ashford acceptance letter rests on the table, not thrown out, just no longer the only thing in the room. Soft warm light, quiet honesty in everyone's faces. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Moral of the Story

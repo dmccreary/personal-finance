@@ -13,7 +13,17 @@ social:
 ![](./cover.png)
 <details>
 <summary>Cover Image Prompt</summary>
-A contemporary illustrated 16:9 scene in a warm, slightly stylized graphic-novel style. A teenager named Kai, about sixteen, with short dark hair and a hoodie, stands ankle-deep in a glowing swamp. The swamp water is made of floating app icons, streaming service logos, newsletter cards, and credit-card-shaped lily pads, each stamped with small dollar amounts like $9.99, $14.99, and $5.99. Fireflies made of tiny dollar signs drift in the humid air. A faded bank statement curls out of Kai's back pocket. The mood is not scary, but dreamlike and eye-opening, with late-afternoon lavender and gold light. Text-free. Generate the image immediately without asking clarifying questions.
+At the top of the image, across the top 14% of the canvas, display the title "The Subscription Swamp" in bold hand-drawn serif typography with a twilight-lavender-to-warm-gold gradient fill, surrounded by a scatter of tiny glowing firefly specks. Beneath it, a smaller italic subtitle in gold reads "A Fable About a Swamp You Wade Into One Dollar at a Time." Frame the title with a soft painterly glow.
+
+Below the title area, render a 16:9 contemporary illustrated scene in a warm, slightly stylized graphic-novel style — dreamlike, not scary. Foreground: Kai, a sixteen-year-old with short dark hair, round wire-rimmed glasses, a heather-gray hoodie, and rolled-up dark jeans, stands ankle-deep in a glowing swamp at late afternoon. The swamp water is made of floating, semi-transparent streaming-service icons, app tiles, and newsletter envelopes — Netflix, Spotify, Disney+, HBO Max, Apple Music, YouTube Premium, Amazon Prime, Hulu, Peloton, Duolingo Plus, iCloud storage, Planet Fitness, a meal-kit box, a subscription razor club, a news-site paywall, and a podcast-app tier — each card shaped like a lily pad, each stamped with a small white dollar amount: $9.99, $14.99, $5.99, $12.99, $7.99, $15.49, $11.99. Ripples radiate from Kai's ankles. Fireflies made of tiny cursive dollar signs drift through the humid air.
+
+Midground: a faded bank statement curls out of Kai's back pocket like a forgotten scroll, highlighted recurring charges visible. Behind him, his dad — mid-forties, in a navy work polo, stress lines around his eyes, thinning hair — stands on a weathered wooden dock looking at an unopened "RENT DUE" envelope, his face turned slightly away in quiet worry. A single utility bill drifts on the swamp surface near him.
+
+Background: a gnarled cypress-tree silhouette against a twilight sky, distant glowing windows of suburban houses, a crescent moon rising. Wisps of warm fog drift across the surface of the swamp. Moss and hanging Spanish-moss vines dangle from the cypress.
+
+Color palette: twilight lavender and plum, warm gold firefly accents, muted teal-green on the lily-pad app-icons, amber late-afternoon highlights on Kai's face, cream for the title. Mood: dreamlike, eye-opening, not sinister — the quiet moment of realizing how deep the water has gotten. Style: contemporary graphic-novel with painterly shading and atmospheric perspective.
+
+Generate the image immediately without asking clarifying questions.
 </details>
 
 ## An Ordinary Tuesday in the Kitchen
@@ -26,7 +36,7 @@ That Tuesday, the mail sat on the kitchen counter in a neat stack. On top was th
 
 ![](./panel-01.png)
 <details><summary>Image Prompt</summary>A warm, contemporary illustrated 16:9 kitchen scene. Late afternoon light slants through a window above the sink. Kai, a teenager in a hoodie, stands at the kitchen counter holding a credit card statement. A pot of water is just starting to boil on the stove. The statement page is slightly exaggerated so we can see a long list of small charges like Netflix, Spotify, Hulu, Disney+, Apple Music. Kai's expression is confused, not panicked. Muted, cozy palette. Generate the image immediately without asking clarifying questions.</details>
-
+(This is panel 1. Do not put the panel number in the image.) 
 ## The List Kai Wrote on the Back of the Envelope
 
 He grabbed a pen and started listing them. Netflix, $15.49. Spotify Family, $16.99. Disney+, $13.99. HBO Max, $15.99. Apple Music, $10.99. Amazon Prime, $14.99. YouTube Premium, $13.99. Hulu, $7.99. The Peloton app his cousin had set up and nobody used, $12.99. Duolingo Plus, $6.99. Two different cloud storage plans because nobody remembered the password to the first one. A subscription meal-kit box that came in cardboard the size of a microwave. A gym his mom hadn't walked into since February. A newspaper. A magazine. A meditation app. A second meditation app.
@@ -37,7 +47,7 @@ By the time he stopped, the list was forty-one lines long. He added it up twice 
 
 ![](./panel-02.png)
 <details><summary>Image Prompt</summary>A contemporary illustrated 16:9 overhead shot of a kitchen counter. A handwritten list on the back of a torn envelope fills the center of the frame. Forty-one subscription names are scrawled in blue pen, each with a dollar amount. A pen rests on top, along with a calculator app open on a phone showing $389.00. Dramatic but warm lighting. Kai's hands visible at the edge of frame, one hand running through his hair. Generate the image immediately without asking clarifying questions.</details>
-
+(This is panel 2. Do not put the panel number in the image.) 
 ## The First Skeptical Question
 
 His mother got home at nine. She was tired. Kai slid the envelope across the table.
@@ -50,7 +60,7 @@ She stared at the list for a long time. *"I'd say yes to maybe six of them,"* sh
 
 ![](./panel-03.png)
 <details><summary>Image Prompt</summary>A warm, contemporary illustrated 16:9 scene of a small kitchen table at night. A single pendant lamp over the table. Kai, teenager in a hoodie, sits across from his mother, who wears a work shirt and looks tired but attentive. The envelope with the list sits between them, illuminated like it's under a spotlight. Their posture is quiet, not angry. Two mugs of tea. Intimate, honest mood. Generate the image immediately without asking clarifying questions.</details>
-
+(This is panel 3. Do not put the panel number in the image.) 
 ## Meeting Mrs. Okafor at the Library
 
 The next Saturday, Kai took the list to the public library where his school had a free tutoring program. The financial-literacy table was run by a retired small-business accountant named Mrs. Okafor. She had kept the books for a family-owned hardware store for thirty-one years before retiring. She wore reading glasses on a beaded chain and kept a small green notebook in her cardigan pocket.
@@ -65,7 +75,7 @@ She read the list slowly, tapping each line with her pen.
 
 ![](./panel-04.png)
 <details><summary>Image Prompt</summary>A warm, contemporary illustrated 16:9 scene inside a public library. Soft natural light through tall windows. Mrs. Okafor, a retired Black accountant in her late sixties, wears a forest-green cardigan and reading glasses on a beaded chain. She sits across a table from Kai, the teen, and studies his handwritten list. A small green notebook and a calculator sit beside her. Warm, approachable mood. Generate the image immediately without asking clarifying questions.</details>
-
+(This is panel 4. Do not put the panel number in the image.) 
 ## The Math Mrs. Okafor Wrote Down
 
 She turned the envelope over and started writing.
@@ -89,7 +99,7 @@ She drew a simple table:
 
 ![](./panel-05.png)
 <details><summary>Image Prompt</summary>A contemporary illustrated 16:9 close-up of Mrs. Okafor's hands on a notepad. She has written a neat table comparing monthly and annual costs. Beside it, in her steady handwriting: "$4,668/year = 311 hours of work." A small calculator sits nearby. The rendering is warm and inviting, not clinical. Generate the image immediately without asking clarifying questions.</details>
-
+(This is panel 5. Do not put the panel number in the image.) 
 ## The Aquarium in the Basement
 
 Kai sat back. Something was clicking.
@@ -104,7 +114,7 @@ Kai sat back. Something was clicking.
 
 ![](./panel-06.png)
 <details><summary>Image Prompt</summary>A warm, contemporary illustrated 16:9 image. Kai imagines a basement fish tank, shown as a dreamlike thought bubble above the library table. Inside the tank, small fish swim among floating subscription-app logos instead of plants. A giant hand sprinkles glowing dollar-sign flakes from above. The library foreground remains grounded and realistic. Gentle, thoughtful mood. Generate the image immediately without asking clarifying questions.</details>
-
+(This is panel 6. Do not put the panel number in the image.) 
 ## The Weight Kai Hadn't Named
 
 *"Here's the part people don't talk about,"* Mrs. Okafor said, her voice softer. *"Every one of those subscriptions is a tiny open loop in your head. A password you'll eventually have to reset. A charge you'll have to recognize on a statement. A free trial that's about to convert. A notification that wants your attention. My clients at the hardware store didn't just lose money in the swamp. They lost sleep. They felt overwhelmed, like their own finances were too complicated to face. They stopped opening statements. Has your mom been avoiding that stack of mail, Kai?"*
@@ -115,7 +125,7 @@ Kai nodded slowly. The stack had been on the counter for two weeks before he'd t
 
 ![](./panel-07.png)
 <details><summary>Image Prompt</summary>A warm, contemporary illustrated 16:9 scene. Kai and Mrs. Okafor sit quietly at the library table. The envelope-list is now partly crossed out in green pen, with checkmarks next to six items and X's next to many more. Kai's shoulders have visibly relaxed. A small stack of unopened mail is visible at the edge of the frame, with the top envelope now torn open. The light is softer, more hopeful. Generate the image immediately without asking clarifying questions.</details>
-
+(This is panel 7. Do not put the panel number in the image.) 
 ## The Moral of the Story
 
 By dinnertime, Kai and his mom had canceled twenty-eight subscriptions. They kept the ones they actually used — the family phone plan, one streaming service, a music app, the cloud backup with the photos of Kai's late grandfather. They saved about $3,300 a year. Mrs. Okafor's green notebook had a new page in it titled "Kai's family — Swamp drained 4/17."

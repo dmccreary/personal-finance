@@ -13,7 +13,19 @@ social:
 ![](./cover.png)
 <details>
 <summary>Cover Image Prompt</summary>
-Create a 16:9 contemporary illustrated cover image in a warm graphic-novel style. In the foreground, a teenage girl named Riya stands on a sun-drenched car dealership lot in a modern American suburb, holding a small notebook with handwritten numbers. Behind her looms a gleaming black SUV with a windshield sticker that reads "ONLY $329/MO!" in huge red letters. In the background, the much smaller true sticker price is faintly visible: "$54,800 TOTAL." The sky is a mix of hopeful blue and a subtle orange-red warning tint over the horizon. Balloons tied to a car antenna, a bored salesperson on a phone, and a row of shiny pickups complete the scene. Palette: warm oranges, deep navy, chrome silver, and cautionary red accents. Mood: cinematic, slightly ominous, educational. Style: flat vector illustration with soft shading, similar to a modern financial-literacy graphic novel. Generate the image immediately without asking clarifying questions.
+At the top of the image, across the top 15% of the canvas, display the title "The Monthly Payment Mirage" in bold condensed serif typography with a cream-to-amber gradient fill and a charcoal drop shadow. Immediately beneath the title, a smaller italic subtitle in cream reads "A Fable About Buying the Car, Not the Sticker." Frame the title block with a faint horizontal ribbon banner.
+
+Below the title area, render a 16:9 contemporary illustrated scene in a warm, cinematic graphic-novel style. Setting: a sun-drenched suburban American car dealership lot in late afternoon, with heat shimmer rising off the blacktop and distant strip-mall signage blurring on the horizon. In the foreground, Riya — a sixteen-year-old junior in a faded denim jacket, black jeans, white sneakers, and a small backpack slung over one shoulder — stands with her feet planted, holding a spiral steno notebook filled with her own handwriting: "$329 × 84 = $27,636" and "Total with trade-in: $54,800??" Her brow is furrowed with determination. Her dark hair is pulled back in a low ponytail.
+
+Looming directly behind her is a gleaming black midsize SUV (generic, not a real brand), its windshield dominated by a giant starburst sticker reading "ONLY $329/MO!" in chunky red 1980s advertising typography, with yellow cartoon balloons tied to the side mirror. Faintly overlaid in ghosted chrome lettering across the hood, as if only Riya can see it: "$54,800 TOTAL — 84 MONTHS — 8% APR."
+
+Midground: a bored salesperson in a gray suit leans against another car scrolling his phone. A row of pickups and sedans recedes into perspective. American flags on tall poles snap in a light breeze.
+
+Background: the sky is split — hopeful cobalt blue on the left, warning orange-crimson sunset on the right, bleeding into violet at the seam.
+
+Color palette: warm oranges and deep navy dominate, chrome silver accents on cars, cautionary red for the sticker, cream highlights on the title. Mood: cinematic, slightly ominous, educational — like a Pixar short crossed with a Dust Bowl WPA poster. Style: flat vector illustration with soft airbrushed shading and faint halftone texture.
+
+Generate the image immediately without asking clarifying questions.
 </details>
 
 ## A Shiny New SUV in the Driveway
@@ -26,7 +38,7 @@ Riya was seventeen, a junior, and worked twelve hours a week scooping ice cream 
 
 ![](./panel-01.png)
 <details><summary>Image Prompt</summary>
-Create a 16:9 contemporary illustrated panel. A bright Saturday morning in a suburban American driveway. A 22-year-old man named Arjun, South Asian, in a fitted t-shirt and joggers, stands proudly next to a glossy new black SUV with temporary paper tags. His teenage sister Riya, 17, in shorts and a faded band t-shirt, stands on the front porch with her arms crossed and an unconvinced expression, holding a thermos of coffee. A dealer window sticker still says "$329/MO" in big red numerals. Green lawn, white picket fence, late summer light. Palette: warm morning yellows, deep green lawn, glossy black SUV, bright red price sticker. Mood: hopeful yet quietly tense. Style: clean graphic-novel illustration with soft shading. Generate the image immediately without asking clarifying questions.
+(This is panel 1. Do not put the panel number in the image.) Create a 16:9 contemporary illustrated panel. A bright Saturday morning in a suburban American driveway. A 22-year-old man named Arjun, South Asian, in a fitted t-shirt and joggers, stands proudly next to a glossy new black SUV with temporary paper tags. His teenage sister Riya, 17, in shorts and a faded band t-shirt, stands on the front porch with her arms crossed and an unconvinced expression, holding a thermos of coffee. A dealer window sticker still says "$329/MO" in big red numerals. Green lawn, white picket fence, late summer light. Palette: warm morning yellows, deep green lawn, glossy black SUV, bright red price sticker. Mood: hopeful yet quietly tense. Style: clean graphic-novel illustration with soft shading. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## Something Isn't Right With Arjun
@@ -39,7 +51,7 @@ Riya recognized the look on her brother's face. It was the look of someone who h
 
 ![](./panel-02.png)
 <details><summary>Image Prompt</summary>
-Create a 16:9 contemporary illustrated panel showing quiet financial stress. A dimly lit bedroom at night. Arjun, the 22-year-old brother, sits on the edge of his bed in a rumpled hoodie, phone pressed to his ear, free hand rubbing his temple. A stack of unopened envelopes with red "PAST DUE" markings sits on his desk. Out the window, the black SUV glows under a streetlight like a trophy that has turned into a weight. Palette: cool blue shadows, harsh yellow lamplight, muted reds on the envelopes. Mood: lonely, anxious, exhausted. Style: graphic-novel with heavy ambient shadow. Generate the image immediately without asking clarifying questions.
+(This is panel 2. Do not put the panel number in the image.) Create a 16:9 contemporary illustrated panel showing quiet financial stress. A dimly lit bedroom at night. Arjun, the 22-year-old brother, sits on the edge of his bed in a rumpled hoodie, phone pressed to his ear, free hand rubbing his temple. A stack of unopened envelopes with red "PAST DUE" markings sits on his desk. Out the window, the black SUV glows under a streetlight like a trophy that has turned into a weight. Palette: cool blue shadows, harsh yellow lamplight, muted reds on the envelopes. Mood: lonely, anxious, exhausted. Style: graphic-novel with heavy ambient shadow. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The First Skeptical Question
@@ -62,7 +74,7 @@ The cookout got quiet. Arjun didn't know.
 
 ![](./panel-03.png)
 <details><summary>Image Prompt</summary>
-Create a 16:9 contemporary illustrated panel of a backyard family cookout in autumn. A wooden picnic table with paper plates, a half-eaten burger, and a pitcher of lemonade. Uncle Ravi, 50s, South Asian, in a polo shirt, leans across the table with a serious but kind expression. Arjun looks down at his plate, shoulders hunched. Riya, sitting next to her mom, holds up a phone calculator with a thoughtful frown. Orange maple leaves scatter the grass; a charcoal grill smokes softly in the background. Palette: warm autumn golds, deep reds, muted greens. Mood: gentle confrontation, family concern, clarity dawning. Style: contemporary graphic-novel illustration. Generate the image immediately without asking clarifying questions.
+(This is panel 3. Do not put the panel number in the image.) Create a 16:9 contemporary illustrated panel of a backyard family cookout in autumn. A wooden picnic table with paper plates, a half-eaten burger, and a pitcher of lemonade. Uncle Ravi, 50s, South Asian, in a polo shirt, leans across the table with a serious but kind expression. Arjun looks down at his plate, shoulders hunched. Riya, sitting next to her mom, holds up a phone calculator with a thoughtful frown. Orange maple leaves scatter the grass; a charcoal grill smokes softly in the background. Palette: warm autumn golds, deep reds, muted greens. Mood: gentle confrontation, family concern, clarity dawning. Style: contemporary graphic-novel illustration. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## Enter the Retired Finance Manager
@@ -75,7 +87,7 @@ Frank nodded slowly. *"That's the oldest card in the deck,"* he said. *"Let me s
 
 ![](./panel-04.png)
 <details><summary>Image Prompt</summary>
-Create a 16:9 contemporary illustrated panel of a cozy covered porch in a small American town. Frank Delgado, late 60s, Latino, silver mustache, wearing a cardigan over a denim shirt, sits in a rocking chair with a steaming coffee mug reading "I Survived Month-End." A golden retriever sleeps at his feet. Riya sits on the porch step with a notebook, pen poised. An old dealership sales trophy sits on a side table beside him as a subtle hint of his past life. Palette: warm porch-lamp yellows, deep green shutters, earthy browns. Mood: wise, welcoming, patient. Style: graphic-novel illustration with gentle warmth. Generate the image immediately without asking clarifying questions.
+(This is panel 4. Do not put the panel number in the image.) Create a 16:9 contemporary illustrated panel of a cozy covered porch in a small American town. Frank Delgado, late 60s, Latino, silver mustache, wearing a cardigan over a denim shirt, sits in a rocking chair with a steaming coffee mug reading "I Survived Month-End." A golden retriever sleeps at his feet. Riya sits on the porch step with a notebook, pen poised. An old dealership sales trophy sits on a side table beside him as a subtle hint of his past life. Palette: warm porch-lamp yellows, deep green shutters, earthy browns. Mood: wise, welcoming, patient. Style: graphic-novel illustration with gentle warmth. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Math Behind the Mirage
@@ -92,7 +104,7 @@ He wrote the numbers out one at a time so Riya could see them.
 
 ![](./panel-05.png)
 <details><summary>Image Prompt</summary>
-Create a 16:9 contemporary illustrated panel. A close-up on Frank's yellow legal pad, tilted for the viewer. Handwritten in clear pen strokes: "$45,000 financed, 8% APR, 84 months → $702/mo → $58,968 total → $13,968 interest." A simple amortization curve shows the balance (blue) descending slowly while the car's value (red) plummets faster, with the gap labeled "NEGATIVE EQUITY." Frank's weathered hand holds the pen; Riya's notebook and phone calculator are just visible at the edge. Palette: cream paper, navy ink, red accent, soft porch light. Mood: revealing, calm, illuminating. Style: graphic-novel with a slight documentary feel. Generate the image immediately without asking clarifying questions.
+(This is panel 5. Do not put the panel number in the image.) Create a 16:9 contemporary illustrated panel. A close-up on Frank's yellow legal pad, tilted for the viewer. Handwritten in clear pen strokes: "$45,000 financed, 8% APR, 84 months → $702/mo → $58,968 total → $13,968 interest." A simple amortization curve shows the balance (blue) descending slowly while the car's value (red) plummets faster, with the gap labeled "NEGATIVE EQUITY." Frank's weathered hand holds the pen; Riya's notebook and phone calculator are just visible at the edge. Palette: cream paper, navy ink, red accent, soft porch light. Mood: revealing, calm, illuminating. Style: graphic-novel with a slight documentary feel. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Pizza Analogy
@@ -109,7 +121,7 @@ Frank laughed for the first time that afternoon. *"Exactly. And the dealer has e
 
 ![](./panel-06.png)
 <details><summary>Image Prompt</summary>
-Create a 16:9 contemporary illustrated panel. A split visual metaphor: on the left, a whole large pepperoni pizza labeled "$59,000 TOTAL CAR COST." On the right, the same pizza sliced into 84 tiny wedges, each labeled "$702 A MONTH — THAT'S NOTHING!" A thought bubble from Riya reads "Same pizza." Frank in the background gestures approvingly. Palette: warm pizza reds and cheese yellows against a clean white illustration background with subtle grid lines. Mood: clarity, gentle humor, the "aha" beat. Style: graphic-novel with infographic overlay. Generate the image immediately without asking clarifying questions.
+(This is panel 6. Do not put the panel number in the image.) Create a 16:9 contemporary illustrated panel. A split visual metaphor: on the left, a whole large pepperoni pizza labeled "$59,000 TOTAL CAR COST." On the right, the same pizza sliced into 84 tiny wedges, each labeled "$702 A MONTH — THAT'S NOTHING!" A thought bubble from Riya reads "Same pizza." Frank in the background gestures approvingly. Palette: warm pizza reds and cheese yellows against a clean white illustration background with subtle grid lines. Mood: clarity, gentle humor, the "aha" beat. Style: graphic-novel with infographic overlay. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Cost Nobody Puts on the Sticker
@@ -124,7 +136,7 @@ Frank's smile faded. *"It's the part of the job I hated most,"* he said. *"Custo
 
 ![](./panel-07.png)
 <details><summary>Image Prompt</summary>
-Create a 16:9 contemporary illustrated panel showing the human cost of debt. A kitchen table at night, viewed from across the room. Arjun sits alone under a single pendant lamp with his head in his hands, a laptop showing a bank website in front of him. Through an archway, Riya and her mother are visible in the hallway, looking toward him with quiet concern, not intruding. On the kitchen counter sits an uneaten plate of food covered in plastic wrap. Palette: deep blue shadows, warm amber lamp glow, muted kitchen tones. Mood: tender, sobering, the story's emotional center. Style: cinematic graphic-novel illustration. Generate the image immediately without asking clarifying questions.
+(This is panel 7. Do not put the panel number in the image.) Create a 16:9 contemporary illustrated panel showing the human cost of debt. A kitchen table at night, viewed from across the room. Arjun sits alone under a single pendant lamp with his head in his hands, a laptop showing a bank website in front of him. Through an archway, Riya and her mother are visible in the hallway, looking toward him with quiet concern, not intruding. On the kitchen counter sits an uneaten plate of food covered in plastic wrap. Palette: deep blue shadows, warm amber lamp glow, muted kitchen tones. Mood: tender, sobering, the story's emotional center. Style: cinematic graphic-novel illustration. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Moral of the Story

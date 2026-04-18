@@ -13,7 +13,17 @@ social:
 ![](./cover.png)
 <details>
 <summary>Cover Image Prompt</summary>
-Create a 16:9 contemporary illustrated cover image in a graphic-novel style. In the foreground, a teenage boy named Jamal sits at a kitchen table with a laptop, a credit card statement, and a calculator. On the statement, a highlighted row reads "MINIMUM PAYMENT DUE: $84" in friendly green, but floating above the statement is a transparent red overlay that reads "$8,000 INTEREST — 23 YEARS." In the background through a doorway, a stressed young man (Jamal's cousin Dez) sits on a couch staring at his phone with a sleeping toddler beside him. Palette: warm kitchen yellows, credit-card blues and silvers, warning red accents. Mood: quiet alarm, dawning understanding, compassion. Style: contemporary graphic-novel with slight infographic overlay. Generate the image immediately without asking clarifying questions.
+At the top of the image, across the top 14% of the canvas, display the title "The Minimum Payment Trap" in bold serif typography with a warm gold-to-amber gradient fill and a charcoal drop shadow. Beneath the title, a smaller italic subtitle in cream reads "A Fable About the Bank's Real Business Plan." Frame the title with a faint horizontal ribbon.
+
+Below the title area, render a 16:9 contemporary illustrated scene in a warm, slightly stylized graphic-novel style. Foreground: Jamal, a seventeen-year-old Black high school senior in a crew-neck sweatshirt with thin-rimmed glasses, sits at a round oak kitchen table under a pool of warm lamp light. His open laptop shows a credit card statement with one highlighted line — "MINIMUM PAYMENT DUE: $84.00" — rendered in reassuring mint green. Floating above the screen in translucent red holographic text: "TRUE COST: $8,042 in interest — 23 years." A calculator, a cup of chamomile tea, and a scattered printout of an amortization table sit beside the laptop. Jamal's face carries quiet concern, eyebrows tilted with dawning comprehension.
+
+Midground: through an open doorway, the softer silhouette of Jamal's cousin Dez — mid-twenties, hoodie, slumped shoulders — sits on a worn couch holding a phone that casts cool blue light on his face. A small toddler sleeps against his chest, a stuffed bear in her hand. Unopened mail spills across the coffee table, several envelopes stamped "FINAL NOTICE" in faded pink. A flicker of television light dances on the far wall.
+
+Background: a window at dawn, sky just beginning to turn from navy to rose. A framed family photo hangs askew on the wall.
+
+Color palette: warm kitchen yellows and honey browns, credit-card blues and cool silvers in the laptop glow, cautionary red accents for the interest warning, cream highlights on the title. Mood: quiet alarm, dawning understanding, family compassion. Style: contemporary graphic-novel with light infographic overlay, soft airbrushed shading, faint halftone grain.
+
+Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Couch, the Toddler, and the Mail
@@ -26,7 +36,7 @@ Dez noticed him looking. *"It's fine,"* Dez said. *"I pay the minimum every mont
 
 ![](./panel-01.png)
 <details><summary>Image Prompt</summary>
-Create a 16:9 contemporary illustrated panel. A small but lived-in apartment living room on a Sunday afternoon. Dez, 23, Black, wearing a work polo from a retail store, sits on a couch with his two-year-old daughter Amara napping against his shoulder. Jamal, 17, stands near a kitchen counter glancing at an unopened stack of envelopes with red "PAST DUE" and "FINAL NOTICE" visible through plastic windows. A television plays cartoons softly. Palette: muted couch browns, soft afternoon light through cheap blinds, warm yellows. Mood: affectionate, quietly off-kilter, the small wrong thing about to be named. Style: contemporary graphic-novel with realistic detail. Generate the image immediately without asking clarifying questions.
+(This is panel 1. Do not put the panel number in the image.) Create a 16:9 contemporary illustrated panel. A small but lived-in apartment living room on a Sunday afternoon. Dez, 23, Black, wearing a work polo from a retail store, sits on a couch with his two-year-old daughter Amara napping against his shoulder. Jamal, 17, stands near a kitchen counter glancing at an unopened stack of envelopes with red "PAST DUE" and "FINAL NOTICE" visible through plastic windows. A television plays cartoons softly. Palette: muted couch browns, soft afternoon light through cheap blinds, warm yellows. Mood: affectionate, quietly off-kilter, the small wrong thing about to be named. Style: contemporary graphic-novel with realistic detail. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## Something Breaks in Dez
@@ -41,7 +51,7 @@ Dez came out of the bathroom and snapped at Amara for dragging a toy across the 
 
 ![](./panel-02.png)
 <details><summary>Image Prompt</summary>
-Create a 16:9 contemporary illustrated panel of quiet emotional strain. A close-up on Dez kneeling on the living room floor beside his toddler daughter Amara, his face turned away from the viewer, shoulders tight. Amara holds a plastic toy giraffe and looks up at him with wide confused eyes. On the kitchen counter in the background, a phone screen glows with a banking app notification: "Minimum Payment Due: $84." Jamal, partially visible in the doorway, turns his head away to give them privacy. Palette: desaturated living-room tones, sharp blue screen glow, warm skin tones. Mood: tender, shame-edged, observational. Style: graphic-novel with soft cinematic framing. Generate the image immediately without asking clarifying questions.
+(This is panel 2. Do not put the panel number in the image.) Create a 16:9 contemporary illustrated panel of quiet emotional strain. A close-up on Dez kneeling on the living room floor beside his toddler daughter Amara, his face turned away from the viewer, shoulders tight. Amara holds a plastic toy giraffe and looks up at him with wide confused eyes. On the kitchen counter in the background, a phone screen glows with a banking app notification: "Minimum Payment Due: $84." Jamal, partially visible in the doorway, turns his head away to give them privacy. Palette: desaturated living-room tones, sharp blue screen glow, warm skin tones. Mood: tender, shame-edged, observational. Style: graphic-novel with soft cinematic framing. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The First Skeptical Question
@@ -58,7 +68,7 @@ Jamal opened his laptop and typed the numbers into a credit card payoff calculat
 
 ![](./panel-03.png)
 <details><summary>Image Prompt</summary>
-Create a 16:9 contemporary illustrated panel. A small kitchen table at night with a single pendant lamp. Jamal's open laptop shows a credit card payoff calculator with the result in large type: "Payoff time: 22.8 years. Total interest: $8,025." A printed statement sits beside it with "$4,200.00 BALANCE" and "$84.00 MIN PAYMENT" highlighted. Dez leans back in his chair, one hand covering his mouth, processing the number. An unopened beer sweats on the table. Palette: warm kitchen amber, cool screen blue, muted shadow. Mood: the moment the math lands — dread, clarity, heartbreak. Style: graphic-novel with cinematic lighting. Generate the image immediately without asking clarifying questions.
+(This is panel 3. Do not put the panel number in the image.) Create a 16:9 contemporary illustrated panel. A small kitchen table at night with a single pendant lamp. Jamal's open laptop shows a credit card payoff calculator with the result in large type: "Payoff time: 22.8 years. Total interest: $8,025." A printed statement sits beside it with "$4,200.00 BALANCE" and "$84.00 MIN PAYMENT" highlighted. Dez leans back in his chair, one hand covering his mouth, processing the number. An unopened beer sweats on the table. Palette: warm kitchen amber, cool screen blue, muted shadow. Mood: the moment the math lands — dread, clarity, heartbreak. Style: graphic-novel with cinematic lighting. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## Enter the Retired Collections Agent
@@ -71,7 +81,7 @@ She poured Jamal a cup of tea in the library's back room and told him she would 
 
 ![](./panel-04.png)
 <details><summary>Image Prompt</summary>
-Create a 16:9 contemporary illustrated panel. A bright quiet corner of a small-town public library. Yolanda Briggs, late 60s, Black, silver-threaded locs, wearing a teal cardigan and reading glasses on a beaded chain, sits across a study table from Jamal. A mug of tea steams beside a laminated amortization chart. Bookshelves of library books line the background. A small sign reads "Financial Literacy Workshop — Saturdays." Palette: library warm wood, teal cardigan, soft sunlight through tall windows. Mood: wise, grounded, welcoming. Style: contemporary graphic-novel with gentle detail. Generate the image immediately without asking clarifying questions.
+(This is panel 4. Do not put the panel number in the image.) Create a 16:9 contemporary illustrated panel. A bright quiet corner of a small-town public library. Yolanda Briggs, late 60s, Black, silver-threaded locs, wearing a teal cardigan and reading glasses on a beaded chain, sits across a study table from Jamal. A mug of tea steams beside a laminated amortization chart. Bookshelves of library books line the background. A small sign reads "Financial Literacy Workshop — Saturdays." Palette: library warm wood, teal cardigan, soft sunlight through tall windows. Mood: wise, grounded, welcoming. Style: contemporary graphic-novel with gentle detail. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The 2% Box and the 23-Year Sentence
@@ -90,7 +100,7 @@ Jamal sat back. *"Twenty-three years. Amara will be twenty-five."*
 
 ![](./panel-05.png)
 <details><summary>Image Prompt</summary>
-Create a 16:9 contemporary illustrated panel. A close-up on Yolanda's laminated amortization chart tilted on the library table. Handwritten in bold: "$4,200 BALANCE — 22.9% APR — 2% MIN." Below: "Month 1: $84 payment → $80 interest, $4 principal." Below that: "Payoff: ~23 years. Total interest: ~$8,000. Total paid: ~$12,000." A small bar graph shows a tall red "INTEREST" bar dwarfing a small blue "PRINCIPAL" bar. Yolanda's hand rests at the edge of the page. Palette: library warmth, red interest bar, blue principal bar, clear navy ink. Mood: stark, educational, unforgettable. Style: graphic-novel with clean infographic overlay. Generate the image immediately without asking clarifying questions.
+(This is panel 5. Do not put the panel number in the image.) Create a 16:9 contemporary illustrated panel. A close-up on Yolanda's laminated amortization chart tilted on the library table. Handwritten in bold: "$4,200 BALANCE — 22.9% APR — 2% MIN." Below: "Month 1: $84 payment → $80 interest, $4 principal." Below that: "Payoff: ~23 years. Total interest: ~$8,000. Total paid: ~$12,000." A small bar graph shows a tall red "INTEREST" bar dwarfing a small blue "PRINCIPAL" bar. Yolanda's hand rests at the edge of the page. Palette: library warmth, red interest bar, blue principal bar, clear navy ink. Mood: stark, educational, unforgettable. Style: graphic-novel with clean infographic overlay. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Subway Analogy
@@ -107,7 +117,7 @@ Yolanda smiled for the first time. *"Now you're asking the right question. At a 
 
 ![](./panel-06.png)
 <details><summary>Image Prompt</summary>
-Create a 16:9 contemporary illustrated panel using a subway-train visual metaphor. A cutaway illustration of a modern subway car with "MINIMUM PAYMENT EXPRESS" on the side. One passenger, sitting wearily, represents Dez. The train's track loops back on itself endlessly in the background, never reaching a station. On the far side of the panel, a labeled "$50 EXTRA" button on the wall glows green with an arrow pointing to an exit door marked "PRINCIPAL." Palette: subway tile white, warning red, transit-map primary colors, hopeful green for the exit. Mood: clever, illuminating, the "aha" of the story. Style: graphic-novel with transit-infographic flavor. Generate the image immediately without asking clarifying questions.
+(This is panel 6. Do not put the panel number in the image.) Create a 16:9 contemporary illustrated panel using a subway-train visual metaphor. A cutaway illustration of a modern subway car with "MINIMUM PAYMENT EXPRESS" on the side. One passenger, sitting wearily, represents Dez. The train's track loops back on itself endlessly in the background, never reaching a station. On the far side of the panel, a labeled "$50 EXTRA" button on the wall glows green with an arrow pointing to an exit door marked "PRINCIPAL." Palette: subway tile white, warning red, transit-map primary colors, hopeful green for the exit. Mood: clever, illuminating, the "aha" of the story. Style: graphic-novel with transit-infographic flavor. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## What the Balance Costs Besides Money
@@ -124,7 +134,7 @@ Jamal drove home thinking about his cousin on the couch, the deleted text messag
 
 ![](./panel-07.png)
 <details><summary>Image Prompt</summary>
-Create a 16:9 contemporary illustrated panel. A two-sided composition. On the left, Dez sits on the edge of his bed at 3 AM, phone face-down beside him, hand on his chest, eyes open. On the right, a thin translucent chart overlay shows a red line — "anxiety" — rising every time the minimum payment cycles, never returning to zero. A small inset shows Amara asleep in her crib in the next room. Palette: dead-of-night blues, thin red line, warm nightlight glow from Amara's room. Mood: the invisible second cost — named, not moralized. Style: graphic-novel with soft data-viz overlay. Generate the image immediately without asking clarifying questions.
+(This is panel 7. Do not put the panel number in the image.) Create a 16:9 contemporary illustrated panel. A two-sided composition. On the left, Dez sits on the edge of his bed at 3 AM, phone face-down beside him, hand on his chest, eyes open. On the right, a thin translucent chart overlay shows a red line — "anxiety" — rising every time the minimum payment cycles, never returning to zero. A small inset shows Amara asleep in her crib in the next room. Palette: dead-of-night blues, thin red line, warm nightlight glow from Amara's room. Mood: the invisible second cost — named, not moralized. Style: graphic-novel with soft data-viz overlay. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Moral of the Story

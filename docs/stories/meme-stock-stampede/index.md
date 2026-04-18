@@ -14,7 +14,19 @@ social:
 
 <details>
 <summary>Cover Image Prompt</summary>
-A contemporary illustrated style 16:9 cover image for a high school personal finance graphic novel. In the foreground, a confident high school senior girl named Hana stands holding a smartphone that displays a glowing red stock chart crashing downward. Behind her, a stampede of cartoon bulls and rockets charges into the air with dollar signs and meme emojis floating around them. In the background, a calm older man in a tweed jacket stands beside a printed annual report, holding a magnifying glass over a page of numbers. Warm sunset lighting, clean lines, vibrant colors with a teal and orange palette. The mood contrasts mania on the left with calm analysis on the right. No text or logos visible. Generate the image immediately without asking clarifying questions.
+At the top of the image, across the top 13% of the canvas, display the title "The Meme-Stock Stampede" in bold condensed sans-serif typography with a teal-to-coral gradient fill and a subtle white drop shadow. Beneath it, a smaller italic subtitle in cream reads "A Fable About the Reason You Bought Being the Reason You'll Sell." Frame the title with a thin horizontal rule, crisper on the right (calm analysis) side, more distressed on the left (mania) side.
+
+Below the title area, render a 16:9 contemporary illustrated cover in a graphic-novel style with clear left-right compositional contrast. Left foreground: Hana — a confident seventeen-year-old high school senior with a short black pixie-cut, a plain gray tee under an open red plaid flannel, and dark jeans — holds a smartphone at chest height with both hands. The phone screen displays a glowing red candlestick chart plummeting sharply downward and to the right, ticker label "ROKT" visible, along with the red number "−72%." Her expression is steady, unmoved, slightly amused. Swirling chaotically around her: a stampede of cartoon bulls mid-charge, cartoon rockets with glowing exhaust, shooting-star streaks, dollar-sign confetti, and floating meme emojis (flame, rocket, diamond-hands) — all painted in hot pink, neon yellow, and electric blue against dark smoke.
+
+Right midground: a calm older man in his late sixties — Hana's retired-portfolio-manager mentor — stands at a modest wooden lectern in a warmly lit corner, wearing a brown tweed jacket, thin wire-rimmed glasses, and a soft blue cardigan. He holds a magnifying glass over a neatly printed annual report opened to the income-statement page. Column headers "REVENUE," "OPERATING INCOME," "EARNINGS PER SHARE," and "P/E RATIO" are faintly legible. A steaming mug of black coffee sits beside him. A bookshelf of financial textbooks rises behind him.
+
+The scene is split down the middle by a soft diagonal gradient — chaotic saturated colors on the left, calm golden warmth on the right — emphasizing the thematic contrast between meme mania and fundamental analysis.
+
+Background: on the left, a swirling cyclone of social-media icons and hash symbols; on the right, tall wooden bookshelves and a window showing dawn sky. No visible real brand logos or real tickers beyond the fictional "ROKT."
+
+Color palette: teal and coral primary, electric neon accents on the left, warm gold and deep walnut on the right, cream highlights on the title. Mood: mania contrasted with stillness — the visual argument of the story itself. Style: contemporary graphic-novel, clean vector lines, cinematic split-composition.
+
+Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Cafeteria Stampede
@@ -29,7 +41,7 @@ Hana had just finished a unit on financial statements in her economics class. So
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing a bustling high school cafeteria. In the center, a group of teenagers crowd around a single smartphone, their faces lit by its glow. One boy pumps his fist in the air while another waves a stack of cash. Floating above them are rocket emojis, green upward arrows, and the ticker symbol "ROKT" in bold digital letters. At the edge of the crowd stands Hana, a thoughtful senior with shoulder-length dark hair and a worried expression, holding a lunch tray and looking skeptical. Bright fluorescent lighting, saturated colors, energetic composition. No visible text on shirts or signs. Generate the image immediately without asking clarifying questions.
+(This is panel 1. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing a bustling high school cafeteria. In the center, a group of teenagers crowd around a single smartphone, their faces lit by its glow. One boy pumps his fist in the air while another waves a stack of cash. Floating above them are rocket emojis, green upward arrows, and the ticker symbol "ROKT" in bold digital letters. At the edge of the crowd stands Hana, a thoughtful senior with shoulder-length dark hair and a worried expression, holding a lunch tray and looking skeptical. Bright fluorescent lighting, saturated colors, energetic composition. No visible text on shirts or signs. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Number Nobody Could Answer
@@ -50,7 +62,7 @@ Marcus waved her off. A girl named Jess said her older brother had heard it was 
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing Hana and Marcus standing in a high school hallway by a row of lockers. Marcus holds up his phone showing a jagged green stock chart pointing upward, his face excited. Hana holds an open spiral notebook where she has just written the word "pre-revenue?" with two circles around it. Behind them, other students hurry past in the blur. Natural daylight from a window, muted hallway colors, clean illustration style. The focus is on Hana's thoughtful expression versus Marcus's exuberance. No other legible text. Generate the image immediately without asking clarifying questions.
+(This is panel 2. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing Hana and Marcus standing in a high school hallway by a row of lockers. Marcus holds up his phone showing a jagged green stock chart pointing upward, his face excited. Hana holds an open spiral notebook where she has just written the word "pre-revenue?" with two circles around it. Behind them, other students hurry past in the blur. Natural daylight from a window, muted hallway colors, clean illustration style. The focus is on Hana's thoughtful expression versus Marcus's exuberance. No other legible text. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The First Skeptical Question
@@ -67,7 +79,7 @@ The company had earned $14 million in sales and lost $89 million trying. Its sto
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing Hana at a cozy kitchen table at night, her face lit by the blue glow of a laptop screen. On the laptop is a clearly rendered spreadsheet-style income statement with visible labeled rows for "Revenue" and "Net Loss." Beside her laptop is a half-eaten apple and a printed page showing the SEC EDGAR logo and "Form 10-K." Her expression is one of surprised realization, eyebrows lifted. Warm kitchen lighting from a hanging lamp, cozy domestic setting with a window reflecting night outside. No other legible text visible on the walls. Generate the image immediately without asking clarifying questions.
+(This is panel 3. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing Hana at a cozy kitchen table at night, her face lit by the blue glow of a laptop screen. On the laptop is a clearly rendered spreadsheet-style income statement with visible labeled rows for "Revenue" and "Net Loss." Beside her laptop is a half-eaten apple and a printed page showing the SEC EDGAR logo and "Form 10-K." Her expression is one of surprised realization, eyebrows lifted. Warm kitchen lighting from a hanging lamp, cozy domestic setting with a window reflecting night outside. No other legible text visible on the walls. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Retired Portfolio Manager
@@ -84,7 +96,7 @@ He poured her a glass of lemonade and spread the pages out on his porch table. *
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing a sunny backyard porch with a wooden table. Seated at the table is Mr. Okafor, a calm retired Black man in his late sixties with silver hair, wearing a cardigan and reading glasses. Across from him sits Hana, leaning forward with interest. Between them on the table are spread printed pages of a 10-K annual report, a pitcher of lemonade, and two glasses. Tomato plants and sunflowers grow in the background. Warm golden afternoon light, mentor-student composition, friendly and unhurried mood. No legible brand names or logos. Generate the image immediately without asking clarifying questions.
+(This is panel 4. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing a sunny backyard porch with a wooden table. Seated at the table is Mr. Okafor, a calm retired Black man in his late sixties with silver hair, wearing a cardigan and reading glasses. Across from him sits Hana, leaning forward with interest. Between them on the table are spread printed pages of a 10-K annual report, a pitcher of lemonade, and two glasses. Tomato plants and sunflowers grow in the background. Warm golden afternoon light, mentor-student composition, friendly and unhurried mood. No legible brand names or logos. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## Three Numbers, One Truth
@@ -101,7 +113,7 @@ Hana pulled out her phone and did the math on her lifeguard savings. Marcus had 
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing a close-up of a napkin on the porch table with hand-drawn notes. Clearly visible on the napkin are three labeled items with simple math: "REVENUE: $14M (tiny)," "OP MARGIN: -600%," and "P/E = ???" with a question mark. A fountain pen rests on the napkin. Hana's hand holds a phone showing a calculator app with the equation "500 x 0.28 = 140" visible on screen. In the soft-focus background, Mr. Okafor gestures toward the napkin. Warm afternoon porch lighting, intimate instructional moment. Generate the image immediately without asking clarifying questions.
+(This is panel 5. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing a close-up of a napkin on the porch table with hand-drawn notes. Clearly visible on the napkin are three labeled items with simple math: "REVENUE: $14M (tiny)," "OP MARGIN: -600%," and "P/E = ???" with a question mark. A fountain pen rests on the napkin. Hana's hand holds a phone showing a calculator app with the equation "500 x 0.28 = 140" visible on screen. In the soft-focus background, Mr. Okafor gestures toward the napkin. Warm afternoon porch lighting, intimate instructional moment. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Stampede Analogy
@@ -120,7 +132,7 @@ Hana stared at the napkin. Then she said something that made Mr. Okafor laugh ou
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing a stylized visual metaphor. A wild stampede of cartoon bulls runs across a dusty plain, churning up clouds of dollar-sign dust. At the front of the herd, a few bulls wearing top hats peel off calmly to one side, counting stacks of cash. At the very back of the herd, small figures of teenagers run blindly with phones raised, unaware the front of the stampede has stopped. The sky behind shows a faint rocket emoji dissolving into smoke. Dramatic low-angle composition, warm dusty colors, cinematic lighting. No legible text. Generate the image immediately without asking clarifying questions.
+(This is panel 6. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing a stylized visual metaphor. A wild stampede of cartoon bulls runs across a dusty plain, churning up clouds of dollar-sign dust. At the front of the herd, a few bulls wearing top hats peel off calmly to one side, counting stacks of cash. At the very back of the herd, small figures of teenagers run blindly with phones raised, unaware the front of the stampede has stopped. The sky behind shows a faint rocket emoji dissolving into smoke. Dramatic low-angle composition, warm dusty colors, cinematic lighting. No legible text. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## What the Crash Cost Marcus
@@ -139,7 +151,7 @@ Marcus was quiet for a long time. Then he asked Hana to help him open the 10-K f
 
 <details>
 <summary>Image Prompt</summary>
-A contemporary illustrated 16:9 panel showing Hana seated on the floor of a teenager's bedroom next to Marcus, a defeated-looking high school boy with tousled hair and tired eyes. A laptop rests between them, showing a generic page labeled "EDGAR" with a search field. Marcus's face is shadowed and subdued but there's a small flicker of attention as he looks at the screen. A crumpled blanket, discarded swimming trophies on a dusty shelf, and a phone placed face-down on the nightstand complete the scene. Soft natural light from a single window. The mood is quiet, reparative, not triumphant. Generate the image immediately without asking clarifying questions.
+(This is panel 7. Do not put the panel number in the image.) A contemporary illustrated 16:9 panel showing Hana seated on the floor of a teenager's bedroom next to Marcus, a defeated-looking high school boy with tousled hair and tired eyes. A laptop rests between them, showing a generic page labeled "EDGAR" with a search field. Marcus's face is shadowed and subdued but there's a small flicker of attention as he looks at the screen. A crumpled blanket, discarded swimming trophies on a dusty shelf, and a phone placed face-down on the nightstand complete the scene. Soft natural light from a single window. The mood is quiet, reparative, not triumphant. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Moral of the Story

@@ -13,7 +13,17 @@ social:
 ![](./cover.png)
 <details>
 <summary>Cover Image Prompt</summary>
-A 16:9 contemporary illustrated scene of a college freshman's kitchen table at dawn. Leo's older sister Maya sits in pajamas, crying quietly, a laptop open showing a bank statement with a long red column of "-$35.00" overdraft fees cascading down the screen. A single paper coffee cup sits next to the laptop. Leo stands beside her with a notebook, looking stunned. A framed photo of a retired couple on the wall in the background. Warm morning light through kitchen blinds, gentle blues and amber. The mood is quiet heartbreak. Contemporary editorial illustration style with soft shading. Generate the image immediately without asking clarifying questions.
+At the top of the image, across the top 14% of the canvas, display the title "The Overdraft Cascade" in bold serif typography with an amber-to-warm-gold gradient fill and a subtle charcoal drop shadow. Beneath it, a smaller italic subtitle in cream reads "A Fable About the Fine Print You Never Read." Frame the title with a faint horizontal ribbon.
+
+Below the title area, render a 16:9 contemporary editorial illustration at dawn in a small studio apartment kitchen. Foreground: Maya — Leo's older sister, early twenties, in a faded maroon college hoodie and plaid pajama pants, no makeup, hair tied back messily — sits at a worn wooden kitchen table with her forehead resting on her palm, quiet tears tracking down one cheek, her free hand hovering over the trackpad of an open laptop. The laptop screen shows an online bank statement with a long cascading red column of "−$35.00 OVERDRAFT FEE" entries repeating down the page, each timestamped minutes apart ("7:47 AM, 7:52 AM, 7:54 AM..."). A single disposable paper coffee cup — the $4 trigger — sits beside the laptop like evidence at a crime scene. Her phone, face-down on the table, vibrates with an unread text.
+
+Midground: Leo, fifteen, in a plain school t-shirt and a rumpled gray hoodie, stands next to his sister holding a spiral notebook open to a page where he has begun writing "Ask: did she OPT IN?" His expression is stunned, protective, and confused. Between them on the table sits an opened bank envelope showing the phrase "Standard Overdraft Practice" in cold corporate sans-serif, and a small printed brochure titled "Your Choices" that appears to have been unread.
+
+Background: warm morning light through the slats of kitchen blinds casts horizontal gold bars across the beige wall. A framed photo of a smiling retired couple — their grandparents — hangs slightly crooked. A potted succulent droops on the windowsill. A wall calendar still shows last month.
+
+Color palette: gentle cobalt blues and amber morning light, muted navy on the bank envelope, saturated blood-red for the fee column, cream highlights on the title. Mood: quiet heartbreak — the specific moment a family member realizes they've been charged extra for being broke. Style: contemporary editorial illustration with soft painterly shading and clean vector linework.
+
+Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Four-Dollar Coffee
@@ -28,7 +38,7 @@ Leo blinked. *"From a four-dollar coffee?"*
 
 ![](./panel-01.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of a young college-age woman, Maya, sitting at a suburban kitchen table at mid-morning, exhausted, hair in a messy bun, wearing a university sweatshirt. Her laptop is open. A young teenage boy, Leo, sits across from her in pajamas, coffee mug in hand, looking shocked. Warm kitchen light, a plate of toast between them. Contemporary editorial illustration style, soft natural lighting. Generate the image immediately without asking clarifying questions.
+(This is panel 1. Do not put the panel number in the image.) A 16:9 illustration of a young college-age woman, Maya, sitting at a suburban kitchen table at mid-morning, exhausted, hair in a messy bun, wearing a university sweatshirt. Her laptop is open. A young teenage boy, Leo, sits across from her in pajamas, coffee mug in hand, looking shocked. Warm kitchen light, a plate of toast between them. Contemporary editorial illustration style, soft natural lighting. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Cascade
@@ -45,7 +55,7 @@ Maya shook her head. *"Nope. Once I was negative, every swipe after that trigger
 
 ![](./panel-02.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of a laptop screen close-up showing a bank statement. A column of transactions is shown twice — once on the left in chronological order (small to large), once on the right reordered large to small. Red highlight bars mark the "-$35.00" overdraft fees, with far more red appearing in the right column. A small red down-arrow graphic labeled "high-to-low posting." Clean modern UI design, glowing screen, dark background. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 2. Do not put the panel number in the image.) A 16:9 illustration of a laptop screen close-up showing a bank statement. A column of transactions is shown twice — once on the left in chronological order (small to large), once on the right reordered large to small. Red highlight bars mark the "-$35.00" overdraft fees, with far more red appearing in the right column. A small red down-arrow graphic labeled "high-to-low posting." Clean modern UI design, glowing screen, dark background. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Skeptical Question
@@ -60,7 +70,7 @@ Leo kept writing. *"That's the question. That's the whole question. Did I actual
 
 ![](./panel-03.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of Leo holding a spiral notebook with a handwritten question visible: "Did I actually agree to this? Can I turn it off?" He sits beside Maya at the kitchen table, both leaning in toward the laptop. Morning light through the window, quiet determination in Leo's face. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 3. Do not put the panel number in the image.) A 16:9 illustration of Leo holding a spiral notebook with a handwritten question visible: "Did I actually agree to this? Can I turn it off?" He sits beside Maya at the kitchen table, both leaning in toward the laptop. Morning light through the window, quiet determination in Leo's face. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Branch Manager Across the Street
@@ -75,7 +85,7 @@ Then Walter sighed, the long kind of sigh that comes from a person who's seen th
 
 ![](./panel-04.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of a comfortable living room. Walter Chen, a man in his early seventies with short gray hair and reading glasses around his neck, wearing a flannel shirt and khakis, sits in a leather chair. A golden retriever rests at his feet. Leo sits on a couch across from him holding a glass of apple juice. Family photos line the mantel behind Walter. Warm afternoon light, brown and amber tones. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 4. Do not put the panel number in the image.) A 16:9 illustration of a comfortable living room. Walter Chen, a man in his early seventies with short gray hair and reading glasses around his neck, wearing a flannel shirt and khakis, sits in a leather chair. A golden retriever rests at his feet. Leo sits on a couch across from him holding a glass of apple juice. Family photos line the mantel behind Walter. Warm afternoon light, brown and amber tones. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## How the Trap Was Built
@@ -92,7 +102,7 @@ Walter drew a simple diagram. *"Your sister spent $3.12 worth of legitimate smal
 
 ![](./panel-05.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of Walter's hands drawing on a yellow legal pad. The pad shows two bar graphs side by side. Left graph labeled "Chronological — 1 fee." Right graph labeled "High-to-Low — 4 fees." The right graph has red overdraft markers above four bars; the left has only one. A pencil and a mug of tea sit nearby. Close-up composition, warm desk lamp light. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 5. Do not put the panel number in the image.) A 16:9 illustration of Walter's hands drawing on a yellow legal pad. The pad shows two bar graphs side by side. Left graph labeled "Chronological — 1 fee." Right graph labeled "High-to-Low — 4 fees." The right graph has red overdraft markers above four bars; the left has only one. A pencil and a mug of tea sit nearby. Close-up composition, warm desk lamp light. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Escalator
@@ -107,7 +117,7 @@ Walter nodded. *"That's a good picture. And here's what gets me. A fee of $35 on
 
 ![](./panel-06.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of a metaphorical downward-moving escalator, rendered in a slightly surreal editorial style. A small figure in sneakers tries to walk up it, but the escalator keeps pulling them down. Small paper bills labeled "$35" litter the steps behind them. Muted teal and red color palette, clean shading, visual metaphor feel. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 6. Do not put the panel number in the image.) A 16:9 illustration of a metaphorical downward-moving escalator, rendered in a slightly surreal editorial style. A small figure in sneakers tries to walk up it, but the escalator keeps pulling them down. Small paper bills labeled "$35" litter the steps behind them. Muted teal and red color palette, clean shading, visual metaphor feel. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Weight of Shame
@@ -122,7 +132,7 @@ He looked at Leo kindly. *"Go home. Help her do three things. One: call the bank
 
 ![](./panel-07.png)
 <details><summary>Image Prompt</summary>
-A 16:9 illustration of Maya on the phone in her kitchen, with Leo beside her pointing at a bank's mobile app screen that shows a clearly-labeled "Overdraft Coverage: OFF" toggle. Maya's face looks calmer — tired but steadier. A legal pad on the table shows handwritten notes: "1. Call bank. 2. Turn off overdraft. 3. Switch banks." Soft afternoon light, quiet resolve. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
+(This is panel 7. Do not put the panel number in the image.) A 16:9 illustration of Maya on the phone in her kitchen, with Leo beside her pointing at a bank's mobile app screen that shows a clearly-labeled "Overdraft Coverage: OFF" toggle. Maya's face looks calmer — tired but steadier. A legal pad on the table shows handwritten notes: "1. Call bank. 2. Turn off overdraft. 3. Switch banks." Soft afternoon light, quiet resolve. Contemporary editorial illustration style. Generate the image immediately without asking clarifying questions.
 </details>
 
 ## The Moral of the Story
