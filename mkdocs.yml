@@ -57,8 +57,21 @@ nav:
 
   - Stories:
     - Introduction: stories/index.md
+    - Story Ideas: stories/story-ideas.md
     - Passive Investing: stories/passive-investing.md
     - Selection Bias: stories/selection-bias/index.md
+    - The Monthly Payment Mirage: stories/monthly-payment-mirage/index.md
+    - The Minimum Payment Trap: stories/minimum-payment-trap/index.md
+    - The Crypto Whisperer: stories/crypto-whisperer/index.md
+    - The Buy-Now-Pay-Later Quicksand: stories/buy-now-pay-later-quicksand/index.md
+    - The Overdraft Cascade: stories/overdraft-cascade/index.md
+    - The Dream-School Debt Trap: stories/dream-school-debt-trap/index.md
+    - The Subscription Swamp: stories/subscription-swamp/index.md
+    - The Match I Left on the Table: stories/match-i-left-on-the-table/index.md
+    - The Payday Loan Carousel: stories/payday-loan-carousel/index.md
+    - The Meme-Stock Stampede: stories/meme-stock-stampede/index.md
+    - The Urgent Text Message: stories/urgent-text-message/index.md
+    - The For-Profit College Promise: stories/for-profit-college-promise/index.md
 
   - MicroSims:
     - Introduction: sims/index.md
