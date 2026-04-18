@@ -6,7 +6,7 @@ quality_score: 85
 
 # Auto Loan Payback MicroSim
 
-<iframe src="main.html" height="650" scrolling="no"></iframe>
+<iframe src="main.html" height="602" scrolling="no"></iframe>
 
 [Run the Auto Loan Payback MicroSim](./main.html){ .md-button .md-button--primary }
 

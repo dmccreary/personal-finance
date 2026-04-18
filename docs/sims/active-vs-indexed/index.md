@@ -6,7 +6,7 @@ quality_score: 90
 
 # Active vs. Indexed MicroSim
 
-<iframe src="main.html" height="540px" scrolling="no"></iframe>
+<iframe src="main.html" height="402" scrolling="no"></iframe>
 
 <!--
 ![Image Name](./image.png){ width="400" }

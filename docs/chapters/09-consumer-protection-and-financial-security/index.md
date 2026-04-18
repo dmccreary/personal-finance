@@ -606,6 +606,10 @@ Reality:
 
 #### Diagram: Phishing Email Anatomy
 
+
+<iframe src="../../sims/phishing-email-anatomy/main.html" width="100%" height="762px" scrolling="no"></iframe>
+[Run Phishing Email Anatomy Fullscreen](../../sims/phishing-email-anatomy/main.html)
+
 <details markdown="1">
 <summary>Phishing Email Anatomy Interactive Tool</summary>
 Type: infographic

@@ -11,7 +11,7 @@ quality_score: 0
 
 # Total Cost of Ownership Comparison
 
-<iframe src="main.html" height="450px" width="100%" scrolling="no"></iframe>
+<iframe src="main.html" height="642px" width="100%" scrolling="no"></iframe>
 
 [Run the Total Cost of Ownership Comparison MicroSim Fullscreen](./main.html){ .md-button .md-button--primary }
 <br/>

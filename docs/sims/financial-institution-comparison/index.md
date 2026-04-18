@@ -11,7 +11,7 @@ quality_score: 0
 
 # Financial Institution Comparison
 
-<iframe src="main.html" height="450px" width="100%" scrolling="no"></iframe>
+<iframe src="main.html" height="722px" width="100%" scrolling="no"></iframe>
 
 [Run the Financial Institution Comparison MicroSim Fullscreen](./main.html){ .md-button .md-button--primary }
 <br/>

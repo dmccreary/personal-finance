@@ -11,7 +11,7 @@ quality_score: 0
 
 # Personal Risk Assessment Matrix
 
-<iframe src="main.html" height="450px" width="100%" scrolling="no"></iframe>
+<iframe src="main.html" height="782px" width="100%" scrolling="no"></iframe>
 
 [Run the Personal Risk Assessment Matrix MicroSim Fullscreen](./main.html){ .md-button .md-button--primary }
 <br/>

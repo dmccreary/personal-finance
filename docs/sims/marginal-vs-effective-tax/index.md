@@ -11,7 +11,7 @@ quality_score: 0
 
 # Marginal vs. Effective Tax Rate
 
-<iframe src="main.html" height="450px" width="100%" scrolling="no"></iframe>
+<iframe src="main.html" height="622" width="100%" scrolling="no"></iframe>
 
 [Run the Marginal vs. Effective Tax Rate MicroSim Fullscreen](./main.html){ .md-button .md-button--primary }
 <br/>

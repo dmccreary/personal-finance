@@ -94,6 +94,10 @@ The **loan term length** is how long you have to repay the loan. Common terms ar
 
 #### Diagram: Auto Loan Term Comparison
 
+
+<iframe src="../../sims/auto-loan-term-comparison/main.html" width="100%" height="782px" scrolling="no"></iframe>
+[Run Auto Loan Term Comparison Fullscreen](../../sims/auto-loan-term-comparison/main.html)
+
 <details markdown="1">
 <summary>Auto Loan Term Length Comparison MicroSim</summary>
 Type: microsim
@@ -293,6 +297,10 @@ Components of total cost of ownership:
 Here's a realistic TCO comparison over 5 years:
 
 #### Diagram: Total Cost of Ownership Comparison
+
+
+<iframe src="../../sims/total-cost-of-ownership-comparison/main.html" width="100%" height="642px" scrolling="no"></iframe>
+[Run Total Cost of Ownership Comparison Fullscreen](../../sims/total-cost-of-ownership-comparison/main.html)
 
 <details markdown="1">
 <summary>Total Cost of Ownership Calculator</summary>

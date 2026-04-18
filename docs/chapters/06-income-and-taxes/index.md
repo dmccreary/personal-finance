@@ -89,6 +89,10 @@ That's about 71% of gross pay hitting the bank account. The rest isn't gone — 
 
 #### Diagram: Anatomy of a Pay Stub
 
+
+<iframe src="../../sims/paycheck-breakdown/main.html" width="100%" height="582px" scrolling="no"></iframe>
+[Run Anatomy of a Pay Stub Fullscreen](../../sims/paycheck-breakdown/main.html)
+
 <details markdown="1">
 <summary>Pay Stub Breakdown Infographic</summary>
 Type: interactive-infographic
@@ -238,6 +242,10 @@ Even though this person's marginal rate is 12%, their effective rate is only 8.6
     You'll hear people say "I don't want a raise — it'll push me into a higher bracket and I'll take home less." That's a myth. Only the dollars inside the new bracket get the higher rate — the rest of your income is untouched. A raise always means more take-home pay. When in doubt, remember: marginal rate answers "what happens to my next dollar," effective rate answers "what's my overall tax burden."
 
 #### Diagram: Marginal vs. Effective Tax Rate
+
+
+<iframe src="../../sims/marginal-vs-effective-tax/main.html" width="100%" height="622px" scrolling="no"></iframe>
+[Run Marginal vs. Effective Tax Rate Fullscreen](../../sims/marginal-vs-effective-tax/main.html)
 
 <details markdown="1">
 <summary>Marginal vs. Effective Tax MicroSim</summary>

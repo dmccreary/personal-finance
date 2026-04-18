@@ -8,7 +8,7 @@ quality_score: 85
 
 # Annual US Inflation Rate
 
-<iframe src="main.html" height="450px" scrolling="no"></iframe>
+<iframe src="main.html" height="402" scrolling="no"></iframe>
 
 [Run the Inflation Rate MicroSim Fullscreen](main.html){ .md-button .md-button--primary }
 [Edit Inflation Rate MicroSim](https://editor.p5js.org/dmccreary/sketches/H9IYB7r8n)

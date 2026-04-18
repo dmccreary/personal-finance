@@ -105,6 +105,10 @@ Before we look at the risk-return spectrum, it helps to know what the endpoints 
 
 #### Diagram: Risk-Return Spectrum
 
+
+<iframe src="../../sims/risk-return-spectrum/main.html" width="100%" height="562px" scrolling="no"></iframe>
+[Run Risk-Return Spectrum Fullscreen](../../sims/risk-return-spectrum/main.html)
+
 <details markdown="1">
 <summary>Risk-Return Spectrum Infographic</summary>
 Type: interactive-infographic
@@ -318,6 +322,10 @@ Your $5,000 turned into almost $147,000 — and the last decade alone added over
 
 #### Diagram: Compound Interest Explorer
 
+
+<iframe src="../../sims/compound-interest-explorer/main.html" width="100%" height="422px" scrolling="no"></iframe>
+[Run Compound Interest Explorer Fullscreen](../../sims/compound-interest-explorer/main.html)
+
 <details markdown="1">
 <summary>Compound Interest MicroSim</summary>
 Type: microsim
@@ -383,6 +391,10 @@ The easiest way to do it: set up an automatic contribution from your paycheck or
 A classic rule of thumb is "110 minus your age" in stocks, with the remainder in bonds. At age 20, that's 90% stocks, 10% bonds. At age 60, it's 50% stocks, 50% bonds. The logic: when you're young, you can ride out market dips and want growth. When you're older, you need stability because you're drawing on the money.
 
 #### Diagram: Asset Allocation by Age
+
+
+<iframe src="../../sims/asset-allocation-by-age/main.html" width="100%" height="562px" scrolling="no"></iframe>
+[Run Asset Allocation by Age Fullscreen](../../sims/asset-allocation-by-age/main.html)
 
 <details markdown="1">
 <summary>Asset Allocation by Age Chart</summary>

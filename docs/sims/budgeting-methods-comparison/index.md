@@ -11,7 +11,7 @@ quality_score: 0
 
 # Budgeting Methods Comparison
 
-<iframe src="main.html" height="450px" width="100%" scrolling="no"></iframe>
+<iframe src="main.html" height="1102px" width="100%" scrolling="no"></iframe>
 
 [Run the Budgeting Methods Comparison MicroSim Fullscreen](./main.html){ .md-button .md-button--primary }
 <br/>

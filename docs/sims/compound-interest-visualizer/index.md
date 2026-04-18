@@ -6,7 +6,7 @@ quality_score: 85
 
 # Compound Savings Interest Visualizer MicroSim
 
-<iframe src="main.html" height="525px" scrolling="no"></iframe>
+<iframe src="main.html" height="422" scrolling="no"></iframe>
 
 <!--
 ![Image Name](./image.png){ width="400" }

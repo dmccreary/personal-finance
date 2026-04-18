@@ -8,7 +8,7 @@ quality_score: 85
 
 # Annual US Interest Rate 1995 to 2025
 
-<iframe src="main.html" height="550px" scrolling="no"></iframe>
+<iframe src="main.html" height="502" scrolling="no"></iframe>
 
 [Run the Interest Rate MicroSim](main.html){ .md-button .md-button--primary }
 [Edit this MicroSim](https://editor.p5js.org/dmccreary/sketches/XM6dWZefy)

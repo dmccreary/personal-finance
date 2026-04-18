@@ -7,7 +7,7 @@ quality_score: 85
 ---
 # Historical Stock Market Returns
 
-<iframe src="main.html" height="560px" scrolling="no"></iframe>
+<iframe src="main.html" height="502" scrolling="no"></iframe>
 
 [Run the Stock Market Historical Returns MicroSim](main.html){ .md-button .md-button--primary }
 [Edit this MicroSim](https://editor.p5js.org/dmccreary/sketches/cEP195hP6)

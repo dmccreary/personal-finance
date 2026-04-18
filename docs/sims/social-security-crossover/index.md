@@ -6,7 +6,7 @@ quality_score: 90
 
 # Social Security Benefits: When to Start Taking Payments
 
-<iframe src="main.html" height="575px" scrolling="no"></iframe>
+<iframe src="main.html" height="402" scrolling="no"></iframe>
 
 [Run the MicroSim](main.html){ .md-button .md-button--primary }
 [Edit this MicroSim](https://editor.p5js.org/dmccreary/sketches/dJq4nTXE4)

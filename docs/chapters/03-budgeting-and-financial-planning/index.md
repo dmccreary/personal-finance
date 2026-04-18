@@ -416,6 +416,10 @@ Modern adaptations of the envelope method use budgeting apps to create "virtual 
 
 #### Diagram: Budgeting Methods Comparison
 
+
+<iframe src="../../sims/budgeting-methods-comparison/main.html" width="100%" height="1102px" scrolling="no"></iframe>
+[Run Budgeting Methods Comparison Fullscreen](../../sims/budgeting-methods-comparison/main.html)
+
 <details markdown="1">
     <summary>Which Budgeting Method is Right for You?</summary>
     Type: infographic
@@ -605,6 +609,10 @@ To analyze spending patterns effectively:
 6. Adjust future budgets based on what you learn
 
 #### Diagram: Spending Pattern Analysis MicroSim
+
+
+<iframe src="../../sims/spending-pattern-analysis-microsim/main.html" width="100%" height="702px" scrolling="no"></iframe>
+[Run Spending Pattern Analysis MicroSim Fullscreen](../../sims/spending-pattern-analysis-microsim/main.html)
 
 <details markdown="1">
     <summary>Interactive Spending Pattern Analyzer</summary>
@@ -900,6 +908,10 @@ Emergency funds must be:
 Keep your emergency fund at a different bank from your checking account. This separation creates a psychological barrier against casual raids while still allowing access within days when truly needed.
 
 #### Diagram: Emergency Fund Building Roadmap
+
+
+<iframe src="../../sims/emergency-fund-building-roadmap/main.html" width="100%" height="722px" scrolling="no"></iframe>
+[Run Emergency Fund Building Roadmap Fullscreen](../../sims/emergency-fund-building-roadmap/main.html)
 
 <details markdown="1">
     <summary>Emergency Fund Building Tracker MicroSim</summary>

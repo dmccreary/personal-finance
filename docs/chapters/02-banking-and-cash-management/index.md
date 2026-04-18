@@ -94,6 +94,10 @@ The main drawback is the lack of physical branches. You can't walk in to deposit
 
 #### Diagram: Financial Institution Comparison
 
+
+<iframe src="../../sims/financial-institution-comparison/main.html" width="100%" height="722px" scrolling="no"></iframe>
+[Run Financial Institution Comparison Fullscreen](../../sims/financial-institution-comparison/main.html)
+
 <details markdown="1">
     <summary>Types of Financial Institutions Comparison Chart</summary>
   Type: infographic
@@ -179,6 +183,10 @@ That's over 20 times more interest earnings just for choosing a better account! 
 High-yield savings accounts are almost exclusively offered by online banks. Without physical branches to maintain, these banks pass the savings on to customers through better rates. The accounts function identically to traditional savings accounts with the same FDIC insurance protection, but you'll manage everything through a mobile app or website.
 
 #### Diagram: Compound Interest Growth Comparison
+
+
+<iframe src="../../sims/compound-interest-growth-comparison/main.html" width="100%" height="602px" scrolling="no"></iframe>
+[Run Compound Interest Growth Comparison Fullscreen](../../sims/compound-interest-growth-comparison/main.html)
 
 <details markdown="1">
     <summary>Savings Account Growth Comparison MicroSim</summary>
@@ -593,6 +601,10 @@ Peer-to-peer (P2P) payment apps have revolutionized how friends and family excha
 
 #### Diagram: Electronic Payment Systems Comparison
 
+
+<iframe src="../../sims/electronic-payment-systems-comparison/main.html" width="100%" height="622px" scrolling="no"></iframe>
+[Run Electronic Payment Systems Comparison Fullscreen](../../sims/electronic-payment-systems-comparison/main.html)
+
 <details markdown="1">
     <summary>When to Use Each Electronic Payment Method</summary>
     Type: infographic
@@ -708,6 +720,10 @@ For most students and young adults, the $250,000 limit per account is more than 
 **Credit union equivalent:** Credit unions aren't covered by FDIC but by NCUA (National Credit Union Administration) insurance, which provides equivalent $250,000 protection. The practical effect is identical - your deposits are equally safe.
 
 #### Diagram: FDIC Insurance Coverage Scenarios
+
+
+<iframe src="../../sims/fdic-insurance-coverage-scenarios/main.html" width="100%" height="722px" scrolling="no"></iframe>
+[Run FDIC Insurance Coverage Scenarios Fullscreen](../../sims/fdic-insurance-coverage-scenarios/main.html)
 
 <details markdown="1">
     <summary>FDIC Insurance Coverage Calculator MicroSim</summary>

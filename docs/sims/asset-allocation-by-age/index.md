@@ -11,7 +11,7 @@ quality_score: 0
 
 # Asset Allocation by Age
 
-<iframe src="main.html" height="450px" width="100%" scrolling="no"></iframe>
+<iframe src="main.html" height="562px" width="100%" scrolling="no"></iframe>
 
 [Run the Asset Allocation by Age MicroSim Fullscreen](./main.html){ .md-button .md-button--primary }
 <br/>

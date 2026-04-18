@@ -11,7 +11,7 @@ quality_score: 0
 
 # Phishing Email Anatomy
 
-<iframe src="main.html" height="450px" width="100%" scrolling="no"></iframe>
+<iframe src="main.html" height="762px" width="100%" scrolling="no"></iframe>
 
 [Run the Phishing Email Anatomy MicroSim Fullscreen](./main.html){ .md-button .md-button--primary }
 <br/>

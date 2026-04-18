@@ -68,6 +68,10 @@ Before diving into specific insurance types, you need to understand four critica
 
 #### Diagram: Insurance Cost Components
 
+
+<iframe src="../../sims/insurance-cost-components/main.html" width="100%" height="562px" scrolling="no"></iframe>
+[Run Insurance Cost Components Fullscreen](../../sims/insurance-cost-components/main.html)
+
 <details markdown="1">
 <summary>Insurance Cost Components</summary>
 Type: infographic
@@ -267,6 +271,10 @@ The three tax benefits:
 
 #### Diagram: HSA Tax Advantages MicroSim
 
+
+<iframe src="../../sims/hsa-tax-advantages-microsim/main.html" width="100%" height="662px" scrolling="no"></iframe>
+[Run HSA Tax Advantages MicroSim Fullscreen](../../sims/hsa-tax-advantages-microsim/main.html)
+
 <details markdown="1">
 <summary>HSA Tax Advantages Calculator</summary>
 Type: microsim
@@ -455,6 +463,10 @@ Beyond the main coverage types, several optional coverages can provide additiona
 
 #### Diagram: Auto Insurance Coverage Scenarios
 
+
+<iframe src="../../sims/auto-insurance-coverage-scenarios/main.html" width="100%" height="722px" scrolling="no"></iframe>
+[Run Auto Insurance Coverage Scenarios Fullscreen](../../sims/auto-insurance-coverage-scenarios/main.html)
+
 <details markdown="1">
 <summary>Auto Insurance Coverage Decision Tree</summary>
 Type: workflow
@@ -599,6 +611,10 @@ Common exclusions:
 - **Business property:** If you run a business from home, you may need additional coverage
 
 #### Diagram: Property Insurance Value Comparison
+
+
+<iframe src="../../sims/property-insurance-value-comparison/main.html" width="100%" height="702px" scrolling="no"></iframe>
+[Run Property Insurance Value Comparison Fullscreen](../../sims/property-insurance-value-comparison/main.html)
 
 <details markdown="1">
 <summary>Property Insurance Value Calculator</summary>
@@ -764,6 +780,10 @@ The classic advice: "Buy term and invest the difference." For $30/month you get 
     Whole life bundles two products — life insurance and a low-return savings account — and charges you a commission on both. When you separate them, you can buy real insurance cheaply and put the savings into an index fund that earns three to four times as much. The math almost always favors term for people under 50. The tradeoff is discipline: the strategy only works if you actually invest the difference instead of spending it.
 
 #### Diagram: Term vs. Whole Life Comparison
+
+
+<iframe src="../../sims/term-vs-whole-life-comparison/main.html" width="100%" height="722px" scrolling="no"></iframe>
+[Run Term vs. Whole Life Comparison Fullscreen](../../sims/term-vs-whole-life-comparison/main.html)
 
 <details markdown="1">
 <summary>Term vs. Whole Life Insurance Comparison MicroSim</summary>
@@ -992,6 +1012,10 @@ Risk management approaches:
 - Use high deductibles to save on premiums
 
 #### Diagram: Personal Risk Assessment Matrix
+
+
+<iframe src="../../sims/personal-risk-assessment-matrix/main.html" width="100%" height="782px" scrolling="no"></iframe>
+[Run Personal Risk Assessment Matrix Fullscreen](../../sims/personal-risk-assessment-matrix/main.html)
 
 <details markdown="1">
 <summary>Personal Risk Assessment Matrix</summary>

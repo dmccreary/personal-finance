@@ -8,7 +8,7 @@ quality_score: 95
 
 # Needs vs Wants
 
-<iframe src="main.html" height="520px" width="100%" scrolling="no"></iframe>
+<iframe src="main.html" height="432" width="100%" scrolling="no"></iframe>
 
 [Run the Needs vs Wants MicroSim Fullscreen](./main.html){ .md-button .md-button--primary }
 [Edit the Needs vs Wants MicroSim on the P5.js Editor](https://editor.p5js.org/dmccreary/sketches/diM_ZI9aH)
